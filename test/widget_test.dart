@@ -9,11 +9,19 @@ void main() {
     SharedPreferences.setMockInitialValues({});
   });
 
-  testWidgets('Loads the first question and allows free navigation', (WidgetTester tester) async {
+  testWidgets('Home lists tests and opens one into free navigation', (WidgetTester tester) async {
     await tester.pumpWidget(const PreguntasApp());
-    // The questions asset is read via real (non-fake) IO, so it needs runAsync to resolve.
+    // Assets are read via real (non-fake) IO, so they need runAsync to resolve.
     await tester.runAsync(() => Future<void>.delayed(const Duration(milliseconds: 100)));
     await tester.pump();
+
+    // The home screen lists the available test.
+    expect(find.text('General Tributaria del Territorio Histórico de Bizkaia'), findsOneWidget);
+
+    await tester.tap(find.text('General Tributaria del Territorio Histórico de Bizkaia'));
+    await tester.pump(); // Start the route transition to the quiz screen.
+    await tester.runAsync(() => Future<void>.delayed(const Duration(milliseconds: 100)));
+    await tester.pump(const Duration(seconds: 1)); // Finish the transition and rebuild with loaded data.
 
     expect(find.text('Según el apartado 1, ¿qué establece la presente Norma Foral?'), findsOneWidget);
     expect(find.text('Pregunta 1 / 290'), findsOneWidget);

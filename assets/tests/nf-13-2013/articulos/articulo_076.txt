@@ -1,0 +1,90 @@
+Artículo 76. Escala aplicable a la base liquidable del ahorro.
+1. La base liquidable del ahorro será gravada a los tipos que se indican en la siguiente escala:
+Base liquidable ahorro
+hasta €
+
+Cuota íntegra
+€
+
+Resto base liquidable
+hasta €
+
+Tipo aplicable
+%.
+
+0,00
+
+0,00
+
+7.500,00
+
+19,00
+
+7.500,00
+
+1.425,00
+
+7.500,00
+
+20,00
+
+15.000,00
+
+2.925,00
+
+15.000,00
+
+22,00
+
+30.000,00
+
+6.225,00
+
+20.000,00
+
+24,00
+
+50.000,00
+
+11.025,00
+
+40.000,00
+
+25,50
+
+90.000,00
+
+21.225,00
+
+30.000,00
+
+26,00
+
+120.000,00
+
+29.025,00
+
+120.000,00
+
+26,50
+
+240.000,00
+
+60.825,00
+
+60.000,00
+
+27,00
+
+300.000,00
+
+77.025,00
+
+en adelante
+
+28,00
+
+2. Se entenderá por tipo medio de gravamen del ahorro el resultado de multiplicar por cien el
+cociente obtenido de dividir la cuota resultante de la aplicación de lo dispuesto en el
+apartado anterior por la base liquidable del ahorro. El tipo medio de gravamen del ahorro se
+expresará con dos decimales.

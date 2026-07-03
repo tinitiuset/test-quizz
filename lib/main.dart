@@ -17,40 +17,171 @@ class PreguntasApp extends StatelessWidget {
     return MaterialApp(
       title: 'Preguntas',
       theme: ThemeData(colorSchemeSeed: Colors.indigo, useMaterial3: true),
-      home: const QuizScreen(),
+      home: const HomeScreen(),
     );
   }
+}
+
+/// A selectable test (a "norma"), described in assets/tests/index.json.
+class TestInfo {
+  final String id;
+  final String titulo;
+  final String descripcion;
+  final String dir;
+
+  TestInfo({
+    required this.id,
+    required this.titulo,
+    required this.descripcion,
+    required this.dir,
+  });
+
+  factory TestInfo.fromJson(Map<String, dynamic> json) {
+    return TestInfo(
+      id: json['id'] as String,
+      titulo: json['titulo'] as String,
+      descripcion: json['descripcion'] as String,
+      dir: json['dir'] as String,
+    );
+  }
+
+  String get questionsPath => '$dir/questions.json';
+  String get articulosDir => '$dir/articulos';
+
+  String get answersPrefKey => 'answers_$id';
+  String get currentIndexPrefKey => 'current_index_$id';
+  String get totalPrefKey => 'total_$id';
 }
 
 class Question {
   final String question;
   final List<String> options;
-  final int answerIndex;
-  final String? articulo;
+  final int answer;
+  final String? article;
 
   Question({
     required this.question,
     required this.options,
-    required this.answerIndex,
-    this.articulo,
+    required this.answer,
+    this.article,
   });
 
   factory Question.fromJson(Map<String, dynamic> json) {
     return Question(
       question: json['question'] as String,
       options: List<String>.from(json['options'] as List),
-      answerIndex: json['answerIndex'] as int,
-      articulo: json['articulo'] as String?,
+      answer: json['answer'] as int,
+      article: json['article'] as String?,
     );
   }
 }
 
-const _answersPrefKey = 'answers';
-const _currentIndexPrefKey = 'current_index';
 const _reportEmail = 'preguntas@ainz.eus';
 
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({super.key});
+
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  List<TestInfo> _tests = [];
+  bool _loading = true;
+  SharedPreferences? _prefs;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadTests();
+  }
+
+  Future<void> _loadTests() async {
+    final raw = await rootBundle.loadString('assets/tests/index.json');
+    final data = jsonDecode(raw) as List;
+    final tests = data.map((t) => TestInfo.fromJson(t as Map<String, dynamic>)).toList();
+    final prefs = await SharedPreferences.getInstance();
+    if (!mounted) return;
+    setState(() {
+      _tests = tests;
+      _prefs = prefs;
+      _loading = false;
+    });
+  }
+
+  /// Returns "N / total respondidas" for a started test, or null if not started.
+  String? _progressLabel(TestInfo test) {
+    final prefs = _prefs;
+    if (prefs == null) return null;
+    final total = prefs.getInt(test.totalPrefKey);
+    if (total == null) return null;
+    final saved = prefs.getStringList(test.answersPrefKey) ?? [];
+    final answered = saved.where((s) => s != '-1').length;
+    return '$answered / $total respondidas';
+  }
+
+  Future<void> _openTest(TestInfo test) async {
+    await Navigator.of(context).push(
+      MaterialPageRoute<void>(builder: (_) => QuizScreen(test: test)),
+    );
+    // Refresh progress labels after returning from the quiz.
+    if (mounted) setState(() {});
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_loading) {
+      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
+
+    return Scaffold(
+      appBar: AppBar(title: const Text('Preguntas')),
+      body: _tests.isEmpty
+          ? const Center(child: Text('No hay teses disponibles.'))
+          : ListView.separated(
+              padding: const EdgeInsets.all(16),
+              itemCount: _tests.length,
+              separatorBuilder: (_, _) => const SizedBox(height: 12),
+              itemBuilder: (context, index) {
+                final test = _tests[index];
+                final progress = _progressLabel(test);
+                return Card(
+                  child: ListTile(
+                    contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    title: Text(
+                      test.titulo,
+                      style: Theme.of(context).textTheme.titleMedium,
+                    ),
+                    subtitle: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const SizedBox(height: 4),
+                        Text(test.descripcion),
+                        if (progress != null) ...[
+                          const SizedBox(height: 6),
+                          Text(
+                            progress,
+                            style: Theme.of(context).textTheme.labelMedium?.copyWith(
+                              color: Theme.of(context).colorScheme.primary,
+                            ),
+                          ),
+                        ],
+                      ],
+                    ),
+                    trailing: const Icon(Icons.chevron_right),
+                    onTap: () => _openTest(test),
+                  ),
+                );
+              },
+            ),
+    );
+  }
+}
+
 class QuizScreen extends StatefulWidget {
-  const QuizScreen({super.key});
+  final TestInfo test;
+
+  const QuizScreen({super.key, required this.test});
 
   @override
   State<QuizScreen> createState() => _QuizScreenState();
@@ -64,6 +195,8 @@ class _QuizScreenState extends State<QuizScreen> {
   SharedPreferences? _prefs;
   final Map<String, String> _articuloTextCache = {};
 
+  TestInfo get _test => widget.test;
+
   @override
   void initState() {
     super.initState();
@@ -71,12 +204,12 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Future<void> _loadQuestions() async {
-    final raw = await rootBundle.loadString('assets/questions.json');
+    final raw = await rootBundle.loadString(_test.questionsPath);
     final data = jsonDecode(raw) as List;
     final questions = data.map((q) => Question.fromJson(q as Map<String, dynamic>)).toList();
     final prefs = await SharedPreferences.getInstance();
 
-    final savedAnswers = prefs.getStringList(_answersPrefKey);
+    final savedAnswers = prefs.getStringList(_test.answersPrefKey);
     final answers = List<int?>.filled(questions.length, null);
     if (savedAnswers != null && savedAnswers.length == questions.length) {
       for (var i = 0; i < savedAnswers.length; i++) {
@@ -84,8 +217,11 @@ class _QuizScreenState extends State<QuizScreen> {
         answers[i] = (value == null || value < 0) ? null : value;
       }
     }
-    final savedIndex = prefs.getInt(_currentIndexPrefKey) ?? 0;
+    final savedIndex = prefs.getInt(_test.currentIndexPrefKey) ?? 0;
+    // Record the question count so the home screen can show progress without loading questions.
+    await prefs.setInt(_test.totalPrefKey, questions.length);
 
+    if (!mounted) return;
     setState(() {
       _questions = questions;
       _answers = answers;
@@ -99,12 +235,12 @@ class _QuizScreenState extends State<QuizScreen> {
   Future<void> _maybeLoadArticuloForCurrent() async {
     if (_currentIndex >= _questions.length) return;
     if (_answers[_currentIndex] == null) return;
-    final articulo = _questions[_currentIndex].articulo;
+    final articulo = _questions[_currentIndex].article;
     if (articulo == null || _articuloTextCache.containsKey(articulo)) return;
 
     final padded = articulo.padLeft(3, '0');
     try {
-      final text = await rootBundle.loadString('assets/articulos/articulo_$padded.txt');
+      final text = await rootBundle.loadString('${_test.articulosDir}/articulo_$padded.txt');
       if (!mounted) return;
       setState(() => _articuloTextCache[articulo] = text);
     } catch (_) {
@@ -115,8 +251,8 @@ class _QuizScreenState extends State<QuizScreen> {
   void _persist() {
     final prefs = _prefs;
     if (prefs == null) return;
-    prefs.setStringList(_answersPrefKey, _answers.map((a) => (a ?? -1).toString()).toList());
-    prefs.setInt(_currentIndexPrefKey, _currentIndex);
+    prefs.setStringList(_test.answersPrefKey, _answers.map((a) => (a ?? -1).toString()).toList());
+    prefs.setInt(_test.currentIndexPrefKey, _currentIndex);
   }
 
   void _selectOption(int optionIndex) {
@@ -172,14 +308,14 @@ class _QuizScreenState extends State<QuizScreen> {
   Future<void> _reportQuestion() async {
     final question = _questions[_currentIndex];
     final options = question.options.asMap().entries.map((e) => '- ${e.value}').join('\n');
-    final articuloLine = question.articulo != null ? ' (Artículo ${question.articulo})' : '';
+    final articuloLine = question.article != null ? ' (Artículo ${question.article})' : '';
     final uri = Uri(
       scheme: 'mailto',
       path: _reportEmail,
       query: [
-        'subject=${Uri.encodeComponent('Reporte pregunta ${_currentIndex + 1}')}',
+        'subject=${Uri.encodeComponent('Reporte ${_test.id} pregunta ${_currentIndex + 1}')}',
         'body=${Uri.encodeComponent(
-          'Pregunta ${_currentIndex + 1}$articuloLine:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
+          '${_test.titulo}\n\nPregunta ${_currentIndex + 1}$articuloLine:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
         )}',
       ].join('&'),
     );
@@ -190,7 +326,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final answered = _answers.where((a) => a != null).length;
     var correct = 0;
     for (var i = 0; i < _questions.length; i++) {
-      if (_answers[i] != null && _answers[i] == _questions[i].answerIndex) {
+      if (_answers[i] != null && _answers[i] == _questions[i].answer) {
         correct++;
       }
     }
@@ -236,7 +372,10 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   Widget build(BuildContext context) {
     if (_loading) {
-      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+      return Scaffold(
+        appBar: AppBar(title: Text(_test.titulo)),
+        body: const Center(child: CircularProgressIndicator()),
+      );
     }
 
     final question = _questions[_currentIndex];
@@ -271,9 +410,9 @@ class _QuizScreenState extends State<QuizScreen> {
             Expanded(
               child: ListView(
                 children: [
-                  if (question.articulo != null) ...[
+                  if (question.article != null) ...[
                     Text(
-                      'Artículo ${question.articulo}',
+                      'Artículo ${question.article}',
                       style: Theme.of(context).textTheme.labelLarge?.copyWith(
                         color: Theme.of(context).colorScheme.primary,
                       ),
@@ -283,7 +422,7 @@ class _QuizScreenState extends State<QuizScreen> {
                   Text(question.question, style: Theme.of(context).textTheme.titleLarge),
                   const SizedBox(height: 24),
                   ...List.generate(question.options.length, (index) {
-                    final isCorrect = index == question.answerIndex;
+                    final isCorrect = index == question.answer;
                     final isSelected = index == selected;
                     Color? color;
                     if (selected != null) {
@@ -302,9 +441,9 @@ class _QuizScreenState extends State<QuizScreen> {
                       ),
                     );
                   }),
-                  if (selected != null && question.articulo != null) ...[
+                  if (selected != null && question.article != null) ...[
                     const SizedBox(height: 8),
-                    _buildArticuloText(context, question.articulo!),
+                    _buildArticuloText(context, question.article!),
                   ],
                 ],
               ),

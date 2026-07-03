@@ -1,0 +1,14 @@
+[
+  {
+    "id": "nf-2-2005",
+    "titulo": "General Tributaria del Territorio Histórico de Bizkaia",
+    "descripcion": "NORMA FORAL 2/2005, de 10 de marzo, General Tributaria del Territorio Histórico de Bizkaia (BOB 11 Marzo)",
+    "dir": "assets/tests/nf-2-2005"
+  },
+  {
+    "id": "nf-13-2013",
+    "titulo": "Impuesto sobre la Renta de las Personas Físicas",
+    "descripcion": "NORMA FORAL 13/2013, de 5 de diciembre, del Impuesto sobre la Renta de las Personas Físicas (BOB 13 Diciembre)",
+    "dir": "assets/tests/nf-13-2013"
+  }
+]

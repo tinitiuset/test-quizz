@@ -1,0 +1,120 @@
+Artículo 118. Infracciones y sanciones.
+1. Las infracciones tributarias en este Impuesto se sancionarán con arreglo a lo dispuesto en
+el Título IV de la Norma Foral General Tributaria del Territorio Histórico de Bizkaia, sin
+perjuicio de las especialidades previstas en los apartados siguientes de este artículo y en
+los demás preceptos de esta Norma Foral.
+2. Constituyen infracciones tributarias:
+a) El incumplimiento de la obligación de utilizar un sistema informático que garantice la
+integridad, conservación, trazabilidad e inviolabilidad de los registros que documenten
+las entregas de bienes y prestaciones de servicios realizadas en el desarrollo de una
+actividad económica en los términos establecidos en el artículo 113 bis de esta Norma
+Foral y en sus disposiciones de desarrollo.
+b) La destrucción, borrado o manipulación del software y archivos informáticos que sirven
+de soporte a los registros que documenten las entregas de bienes y prestaciones de
+servicios realizadas en el desarrollo de la actividad económica, a los que hace
+referencia el artículo 113 bis de esta Norma Foral.
+3. Las sanciones asociadas a las infracciones establecidas en el apartado anterior serán las
+siguientes:
+a) Por el incumplimiento a que se refiere la letra a) del apartado anterior se impondrá al o
+a la contribuyente multa pecuniaria proporcional del 20 por 100 de su cifra de negocios
+en el ejercicio anterior, con un mínimo de 20.000 euros.
+En el caso de que el plazo del ejercicio de la actividad hubiera sido inferior a un año,
+para el cómputo de la cuantía anterior las operaciones realizadas se elevarán al año.
+En el supuesto de inicio en el ejercicio de la actividad, se atenderá a la cifra de
+negocios correspondiente al primer ejercicio, y si éste fuese inferior a un año, será el
+resultado de elevar al año la magnitud correspondiente a la cifra de negocios de dicho
+ejercicio.
+Cuando el sujeto infractor hubiera sido sancionado por la infracción derivada de este
+incumplimiento en virtud de resolución firme en vía administrativa dentro de los cuatro
+años anteriores a la comisión de esta infracción, la sanción aplicable consistirá en
+multa pecuniaria proporcional del 30 por 100 de su cifra de negocios en el ejercicio
+anterior, con un mínimo de 30.000 euros.
+
+b) Cuando el incumplimiento al que se refiere la letra a) del apartado anterior tenga
+carácter ocasional, la sanción será de 2.000 euros por operación respecto de la que se
+haya producido el incumplimiento.
+A estos efectos, se considerará que el incumplimiento tiene carácter ocasional cuando
+el importe de las operaciones respecto de las que no se haya utilizado un sistema
+informático que garantice la integridad, conservación, trazabilidad e inviolabilidad de los
+registros que documenten las entregas de bienes y prestaciones de servicios
+realizadas no supere el 2 por 100 de la cifra de negocios del período impositivo en que
+se produce dicha infracción.
+No obstante, en el supuesto de que la Administración tributaria compruebe que la
+infracción se produce en relación con un período impositivo aún no finalizado en el
+momento de la comprobación, se considerará que la misma tiene carácter ocasional
+cuando el importe de las operaciones a las que se refiere el párrafo anterior no supere
+el 2 por 100 de la cifra de negocios realizada hasta ese momento del período
+impositivo.
+c) Por el incumplimiento a que se refiere la letra b) del apartado anterior se impondrá al o
+a la contribuyente multa pecuniaria proporcional del 20 por 100 de su cifra de negocios
+en el ejercicio anterior, con un mínimo de 40.000 euros.
+La aplicación de esta sanción será incompatible con la aplicación de la sanción
+establecida en la letra a) anterior.
+En el caso de que el plazo del ejercicio de la actividad hubiera sido inferior a un año,
+para el cómputo de la cuantía anterior las operaciones realizadas se elevarán al año.
+En el supuesto de inicio en el ejercicio de la actividad, se atenderá a la cifra de
+negocios correspondiente al primer ejercicio, y si éste fuese inferior a un año, será el
+resultado de elevar al año la magnitud correspondiente a la cifra de negocios de dicho
+ejercicio.
+Cuando el sujeto infractor hubiera sido sancionado por la infracción derivada de este
+incumplimiento en virtud de resolución firme en vía administrativa dentro de los cuatro
+años anteriores a la comisión de esta infracción, la sanción aplicable consistirá en
+multa pecuniaria proporcional del 30 por 100 de su cifra de negocios en el ejercicio
+anterior, con un mínimo de 60.000 euros.
+d) Cuando la Administración tributaria compruebe que la destrucción, borrado o
+manipulación del software y archivos informáticos que sirven de soporte a los registros
+que documenten las entregas de bienes y prestaciones de servicios realizadas en el
+desarrollo de la actividad económica del o de la contribuyente, a los que hace
+referencia el artículo 113 bis de esta Norma Foral, ha sido realizada por la persona o
+entidad que ha desarrollado el programa informático o por otra distinta del o de la
+contribuyente, que lo ha alterado o que de alguna forma ha tenido o tiene el control
+sobre el sistema informático, se considerará a la citada persona o entidad como sujeto
+infractor, y será sancionada con el mismo importe que resulte aplicable al o a la
+contribuyente como consecuencia de la aplicación de lo dispuesto en la letra c)
+anterior. Cuando el sujeto infractor hubiera sido sancionado por la infracción derivada
+de este incumplimiento en virtud de resolución firme en vía administrativa dentro de los
+cuatro años anteriores a la comisión de esta infracción, será sancionado con el mismo
+importe que resulte aplicable al contribuyente como consecuencia de lo dispuesto en la
+letra c) anterior, con un mínimo de 60.000 euros.
+4. A efectos de los previsto en las letras c) y d) del apartado 2 de este artículo, se considerará
+que una persona o entidad ha intervenido en la destrucción, borrado o manipulación del
+software y archivos informáticos que sirven de soporte a los registros que documenten las
+entregas de bienes y prestaciones de servicios realizadas en el desarrollo de la actividad
+del contribuyente, entre otros supuestos, cuando:
+
+-
+
+Haya alterado el software, archivos, ficheros o registros informáticos.
+
+-
+
+Haya tenido o tenga, de alguna forma, el control sobre el sistema informático o
+software, archivos, ficheros o registros informáticos
+
+-
+
+Ponga a disposición de los y de las contribuyentes u otras personas o entidades
+sistemas, medios o métodos para las citadas destrucción, borrado o manipulación.
+
+-
+
+Haya dictado, facilitado o mostrado instrucciones para las citadas destrucción, borrado
+o manipulación.
+
+-
+
+Realice una acción u omisión que, aunque por sí sola no tenga entidad suficiente para
+ser considerada destrucción, borrado o manipulación, se trate de una acción u omisión
+que forma parte de dicho proceso y que, unida a la actuación u omisión de otras
+personas o entidades, conlleva las citadas destrucción, borrado o manipulación.
+
+5. Las infracciones y sanciones establecidas en este artículo serán compatibles con las
+previstas en el artículo 207 de la Norma Foral 2/2005, de 10 de marzo, General Tributaria
+del Territorio Histórico de Bizkaia.
+No obstante, cuando se imponga una de las sanciones previstas en el apartado 3 anterior,
+no procederá la imposición de la sanción prevista en el segundo párrafo del artículo
+207.2.b) de la Norma Foral 2/2005, de 10 de marzo, General Tributaria del Territorio
+Histórico de Bizkaia.
+6. A las sanciones impuestas conforme a lo dispuesto en el apartado anterior les resultará de
+aplicación lo dispuesto en el artículo 193 de la Norma Foral General Tributaria del Territorio
+Histórico de Bizkaia.

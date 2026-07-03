@@ -7,8 +7,8 @@
       "Los principios y las normas jurídicas generales de las Haciendas Locales del Territorio Histórico de Bizkaia.",
       "Los principios y las normas jurídicas generales del sistema tributario de los Estados miembros de la Unión Europea."
     ],
-    "answerIndex": 0,
-    "articulo": "1"
+    "answer": 0,
+    "article": "1"
   },
   {
     "question": "Conforme al apartado 1, la presente Norma Foral será de aplicación, con carácter general, a:",
@@ -18,8 +18,8 @@
       "La Administración tributaria autonómica.",
       "La Administración tributaria supranacional."
     ],
-    "answerIndex": 1,
-    "articulo": "1"
+    "answer": 1,
+    "article": "1"
   },
   {
     "question": "De acuerdo con el apartado 1, la Norma Foral será también de aplicación a las Entidades Locales de Bizkaia, ¿en qué términos?",
@@ -29,8 +29,8 @@
       "En los términos establecidos en la normativa reguladora de las Haciendas Locales de este Territorio Histórico.",
       "En los términos establecidos en la normativa reguladora del sistema tributario de este Territorio Histórico."
     ],
-    "answerIndex": 2,
-    "articulo": "1"
+    "answer": 2,
+    "article": "1"
   },
   {
     "question": "Según el apartado 2, la Norma Foral establece los principios y normas jurídicas generales que regulan las actuaciones de la Administración tributaria por aplicación de la normativa sobre:",
@@ -40,8 +40,8 @@
       "La asistencia mutua entre las Entidades Locales de Bizkaia o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
       "La asistencia mutua entre los Estados miembros de la Unión Europea o en el marco de la normativa reguladora de las Haciendas Locales de este Territorio Histórico."
     ],
-    "answerIndex": 0,
-    "articulo": "1"
+    "answer": 0,
+    "article": "1"
   },
   {
     "question": "A los efectos de esta Norma Foral, ¿qué se entiende por asistencia mutua?",
@@ -51,8 +51,8 @@
       "El conjunto de acciones de asistencia, colaboración, fiscalidad y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle.",
       "El conjunto de acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que la Administración tributaria establezca, regule o aplique."
     ],
-    "answerIndex": 1,
-    "articulo": "1"
+    "answer": 1,
+    "article": "1"
   },
   {
     "question": "Según la definición del apartado 2, las acciones de asistencia mutua se desarrollan con:",
@@ -62,8 +62,8 @@
       "La Unión Europea y otras entidades internacionales o supranacionales, y con otros Estados.",
       "La Administración tributaria foral y otras entidades internacionales o supranacionales, y con otros Estados."
     ],
-    "answerIndex": 2,
-    "articulo": "1"
+    "answer": 2,
+    "article": "1"
   },
   {
     "question": "De acuerdo con el apartado 2, la asistencia mutua podrá comprender la realización de:",
@@ -73,8 +73,8 @@
       "Actuaciones ante las Entidades Locales de Bizkaia.",
       "Actuaciones ante los Estados miembros de la Unión Europea."
     ],
-    "answerIndex": 0,
-    "articulo": "1"
+    "answer": 0,
+    "article": "1"
   },
   {
     "question": "Conforme al apartado 3, la asistencia que la Administración tributaria preste a otros Estados o a entidades internacionales o supranacionales en virtud de la normativa sobre asistencia mutua estará sometida a:",
@@ -84,8 +84,8 @@
       "Las limitaciones establecidas en los convenios para evitar la doble imposición.",
       "Las limitaciones establecidas en la normativa reguladora de las Haciendas Locales."
     ],
-    "answerIndex": 1,
-    "articulo": "1"
+    "answer": 1,
+    "article": "1"
   },
   {
     "question": "Según el apartado 3, en el ámbito de la asistencia mutua entre los Estados miembros de la Unión Europea, ¿a qué estará sujeta la Administración tributaria?",
@@ -95,8 +95,8 @@
       "A las obligaciones procesales y materiales previstas en la Directiva 2010/24/UE y en la Directiva 2011/16/UE.",
       "A las obligaciones procesales y materiales previstas en la Directiva 77/799/CEE y en la Directiva 2011/16/UE."
     ],
-    "answerIndex": 2,
-    "articulo": "1"
+    "answer": 2,
+    "article": "1"
   },
   {
     "question": "Según el apartado 3, ¿sobre qué materia versa la Directiva 2010/24/UE del Consejo, de 16 de marzo de 2010?",
@@ -106,8 +106,8 @@
       "La asistencia mutua en el ámbito de la fiscalidad correspondiente a determinados impuestos, derechos y otras medidas.",
       "La asistencia mutua en materia de cobro de los convenios correspondientes a determinados impuestos, derechos y otras medidas."
     ],
-    "answerIndex": 0,
-    "articulo": "1"
+    "answer": 0,
+    "article": "1"
   },
   {
     "question": "Según el apartado 3, ¿qué regula la Directiva 2011/16/UE del Consejo, de 15 de febrero de 2011, y qué Directiva deroga?",
@@ -117,8 +117,8 @@
       "Es relativa a la cooperación administrativa en el ámbito de la fiscalidad y deroga la Directiva 2010/24/UE.",
       "Es relativa a la cooperación administrativa en materia de cobro de créditos y deroga la Directiva 77/799/CEE."
     ],
-    "answerIndex": 1,
-    "articulo": "1"
+    "answer": 1,
+    "article": "1"
   },
   {
     "question": "Según el artículo 2 de la NFGTB, ¿en qué se basa la ordenación del sistema tributario?",
@@ -128,8 +128,8 @@
       "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de eficacia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
       "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de justicia, generalidad, igualdad, proporcionalidad, limitación de costes indirectos y no confiscatoriedad."
     ],
-    "answerIndex": 0,
-    "articulo": "2"
+    "answer": 0,
+    "article": "2"
   },
   {
     "question": "Conforme al apartado 1 del artículo 2 de la NFGTB, la ordenación del sistema tributario se basa, además de en la capacidad económica, en los principios de justicia, generalidad, igualdad, progresividad y:",
@@ -139,8 +139,8 @@
       "equitativa distribución de la carga tributaria y proporcionalidad.",
       "respeto de los derechos y garantías y no confiscatoriedad."
     ],
-    "answerIndex": 1,
-    "articulo": "2"
+    "answer": 1,
+    "article": "2"
   },
   {
     "question": "De acuerdo con el artículo 2 de la NFGTB, ¿en qué se basará la aplicación del sistema tributario?",
@@ -150,8 +150,8 @@
       "En los principios de proporcionalidad, eficacia y limitación de costes indirectos derivados del cumplimiento de obligaciones formales.",
       "En los principios de proporcionalidad, generalidad y limitación de costes indirectos derivados del cumplimiento de obligaciones formales."
     ],
-    "answerIndex": 2,
-    "articulo": "2"
+    "answer": 2,
+    "article": "2"
   },
   {
     "question": "Según el apartado 2 del artículo 2 de la NFGTB, la aplicación del sistema tributario asegurará el respeto de:",
@@ -161,8 +161,8 @@
       "los derechos y garantías de los obligados tributarios.",
       "los costes indirectos derivados del cumplimiento de obligaciones formales."
     ],
-    "answerIndex": 2,
-    "articulo": "2"
+    "answer": 2,
+    "article": "2"
   },
   {
     "question": "Conforme al apartado 2 del artículo 2 de la NFGTB, la limitación de costes indirectos que rige la aplicación del sistema tributario deriva del cumplimiento de:",
@@ -172,8 +172,8 @@
       "los principios de justicia y generalidad.",
       "la equitativa distribución de la carga tributaria."
     ],
-    "answerIndex": 0,
-    "articulo": "2"
+    "answer": 0,
+    "article": "2"
   },
   {
     "question": "Según el artículo 3 de la NFGTB, ¿a quién corresponde la potestad originaria para mantener, establecer y regular el régimen tributario del Territorio Histórico de Bizkaia?",
@@ -183,8 +183,8 @@
       "A las demás Entidades de Derecho Público",
       "A la Diputación Foral de Bizkaia"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "Conforme al artículo 3 de la NFGTB, la potestad originaria sobre el régimen tributario del Territorio Histórico de Bizkaia se concreta en mantener, establecer y regular dicho régimen. ¿En qué términos se ejercerá esa potestad?",
@@ -194,8 +194,8 @@
       "En los términos en que una Norma Foral así lo determine",
       "En los términos previstos por las Entidades Locales"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "De acuerdo con el artículo 3 de la NFGTB, ¿qué pueden hacer las Entidades Locales del Territorio Histórico de Bizkaia con arreglo al ordenamiento jurídico?",
@@ -205,8 +205,8 @@
       "Exigir tributos cuando una Norma Foral así lo determine",
       "Regular el régimen tributario del Territorio Histórico"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "Según el artículo 3 de la NFGTB, las Entidades Locales del Territorio Histórico de Bizkaia podrán establecer y exigir tributos, ¿con arreglo a qué?",
@@ -216,8 +216,8 @@
       "Con arreglo a lo que una Norma Foral determine",
       "Con arreglo a lo acordado por las Juntas Generales"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "Conforme al artículo 3 de la NFGTB, ¿cuándo podrán exigir tributos las demás Entidades de Derecho Público?",
@@ -227,8 +227,8 @@
       "Cuando el Concierto Económico así lo prevea",
       "Cuando las Juntas Generales así lo acuerden"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "De acuerdo con el artículo 3 de la NFGTB, ¿qué entidades podrán exigir tributos cuando una Norma Foral así lo determine?",
@@ -238,8 +238,8 @@
       "Las Juntas Generales del Territorio Histórico de Bizkaia",
       "La Diputación Foral de Bizkaia y sus organismos"
     ],
-    "answerIndex": 0,
-    "articulo": "3"
+    "answer": 0,
+    "article": "3"
   },
   {
     "question": "¿A quién corresponde la potestad reglamentaria para el desarrollo de las normas tributarias?",
@@ -249,8 +249,8 @@
       "A las Entidades Locales, a propuesta del Diputado Foral de Hacienda y Finanzas",
       "A la Diputación Foral, a propuesta de las Entidades Locales"
     ],
-    "answerIndex": 0,
-    "articulo": "4"
+    "answer": 0,
+    "article": "4"
   },
   {
     "question": "La potestad reglamentaria de la Diputación Foral para el desarrollo de las normas tributarias se ejerce sin perjuicio de las facultades que corresponden a:",
@@ -260,8 +260,8 @@
       "Las Entidades Locales en relación con las Normas Forales reguladoras de los tributos locales",
       "La Diputación Foral en relación con las Ordenanzas fiscales reguladoras de los tributos locales"
     ],
-    "answerIndex": 1,
-    "articulo": "4"
+    "answer": 1,
+    "article": "4"
   },
   {
     "question": "Las facultades que se reservan a las Entidades Locales, sin perjuicio de la potestad reglamentaria de la Diputación Foral, se refieren a:",
@@ -271,8 +271,8 @@
       "Las Ordenanzas fiscales reguladoras de los tributos locales",
       "Las propuestas del Diputado Foral de Hacienda y Finanzas"
     ],
-    "answerIndex": 2,
-    "articulo": "4"
+    "answer": 2,
+    "article": "4"
   },
   {
     "question": "¿En qué supuesto podrá el Diputado Foral de Hacienda y Finanzas dictar disposiciones de desarrollo en materia tributaria?",
@@ -282,8 +282,8 @@
       "Cuando lo soliciten las Entidades Locales mediante Ordenanza fiscal",
       "Cuando así lo disponga expresamente una Ordenanza fiscal o, en su caso, una Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "4"
+    "answer": 1,
+    "article": "4"
   },
   {
     "question": "Cuando así lo disponga expresamente una Norma Foral o, en su caso, un reglamento, ¿quién podrá dictar disposiciones de desarrollo en materia tributaria?",
@@ -293,8 +293,8 @@
       "Las Entidades Locales",
       "La Diputación Foral, a propuesta de las Entidades Locales"
     ],
-    "answerIndex": 1,
-    "articulo": "4"
+    "answer": 1,
+    "article": "4"
   },
   {
     "question": "A los efectos de la Norma Foral General Tributaria de Bizkaia, ¿por qué órganos estará integrada la Administración tributaria?",
@@ -304,8 +304,8 @@
       "Por los órganos que desarrollen las funciones reguladas en sus Títulos III, IV, V, VI y VIII.",
       "Por los órganos que desarrollen las competencias reguladas en sus Títulos IV, V, VI, VII y VIII."
     ],
-    "answerIndex": 0,
-    "articulo": "5"
+    "answer": 0,
+    "article": "5"
   },
   {
     "question": "En el ámbito de competencias de la Diputación Foral, ¿a qué órgano corresponde la aplicación de los tributos y el ejercicio de la potestad sancionadora, salvo atribución expresa a otro órgano?",
@@ -315,8 +315,8 @@
       "Al Departamento de Economía y Finanzas.",
       "A las Entidades Locales."
     ],
-    "answerIndex": 1,
-    "articulo": "5"
+    "answer": 1,
+    "article": "5"
   },
   {
     "question": "Según el artículo 5, la aplicación de los tributos y el ejercicio de la potestad sancionadora corresponde al Departamento de Hacienda y Finanzas, salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público, ¿mediante qué?",
@@ -326,8 +326,8 @@
       "Mediante Norma Foral.",
       "Mediante el ordenamiento jurídico."
     ],
-    "answerIndex": 2,
-    "articulo": "5"
+    "answer": 2,
+    "article": "5"
   },
   {
     "question": "¿En qué ámbito territorial ejercerá la Diputación Foral sus competencias en materia de aplicación de los tributos y de imposición de sanciones, en los términos establecidos en el Concierto Económico?",
@@ -337,8 +337,8 @@
       "En el Territorio Histórico de Bizkaia.",
       "En el territorio de las Entidades Locales."
     ],
-    "answerIndex": 0,
-    "articulo": "5"
+    "answer": 0,
+    "article": "5"
   },
   {
     "question": "Respecto de los obligados tributarios sometidos a las competencias de aplicación de los tributos de la Diputación Foral en virtud del Concierto Económico, ¿qué corresponde a ésta?",
@@ -348,8 +348,8 @@
       "El ejercicio de las competencias en materia de aplicación de los tributos derivadas o atribuidas por el ordenamiento jurídico.",
       "El ejercicio de las competencias en materia de aplicación de los tributos derivadas o atribuidas por el Concierto Económico."
     ],
-    "answerIndex": 1,
-    "articulo": "5"
+    "answer": 1,
+    "article": "5"
   },
   {
     "question": "¿Con qué alcance y en qué términos ejercerán las Entidades Locales las competencias relativas a la aplicación de los tributos y a la potestad sancionadora?",
@@ -359,8 +359,8 @@
       "Con el alcance y en los términos previstos en la normativa que resulte aplicable según su sistema de fuentes.",
       "Con el alcance y en los términos previstos en la normativa sobre asistencia mutua."
     ],
-    "answerIndex": 2,
-    "articulo": "5"
+    "answer": 2,
+    "article": "5"
   },
   {
     "question": "Según el artículo 5, ¿con quién colaborará la Diputación Foral para la aplicación de los tributos en los términos establecidos en el ordenamiento jurídico?",
@@ -370,8 +370,8 @@
       "Con el Departamento de Hacienda y Finanzas.",
       "Con los obligados tributarios sometidos al Concierto Económico."
     ],
-    "answerIndex": 1,
-    "articulo": "5"
+    "answer": 1,
+    "article": "5"
   },
   {
     "question": "De acuerdo con el artículo 5, ¿entre qué entidades podrán establecerse fórmulas de colaboración para la aplicación de los tributos?",
@@ -381,8 +381,8 @@
       "Entre las Administraciones tributarias, así como entre éstas y la Diputación Foral.",
       "Entre las Entidades Locales, así como entre éstas y el Departamento de Hacienda y Finanzas."
     ],
-    "answerIndex": 0,
-    "articulo": "5"
+    "answer": 0,
+    "article": "5"
   },
   {
     "question": "Según el artículo 6 de la NFGTB, ¿conforme a qué se regirán los tributos en cuanto a su naturaleza y carácter?",
@@ -392,8 +392,8 @@
       "Solo los tributos de naturaleza directa y carácter periódico se regirán por las fuentes enumeradas",
       "Exclusivamente los tributos de naturaleza estatal y carácter supletorio se regirán por dichas fuentes"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Conforme al artículo 6.1.a) de la NFGTB, los tributos se regirán por:",
@@ -403,8 +403,8 @@
       "La Constitución, el Concierto Económico y las ordenanzas fiscales",
       "El Estatuto de Autonomía, el Concierto Económico y el derecho común"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 6.1.b) de la NFGTB, ¿quién dicta las normas para la coordinación, armonización fiscal y colaboración mutua entre las instituciones de los Territorios Históricos?",
@@ -414,8 +414,8 @@
       "El Diputado Foral de Hacienda y Finanzas",
       "Las Juntas Generales de Bizkaia"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "De acuerdo con el artículo 6.1.b) de la NFGTB, las normas que dicta el Parlamento Vasco respecto de las instituciones de los Territorios Históricos tienen por objeto:",
@@ -425,8 +425,8 @@
       "La coordinación, armonización fiscal y cooperación administrativa entre las instituciones de los Territorios Históricos",
       "La asistencia, armonización fiscal y colaboración mutua entre las instituciones de los Territorios Históricos"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Conforme al artículo 6.1.c) de la NFGTB, los tributos se regirán por:",
@@ -436,8 +436,8 @@
       "El Concierto Económico, las Normas Forales reguladoras de cada tributo y las demás disposiciones reglamentarias en materia tributaria",
       "La presente Norma Foral, las Normas Forales reguladoras de cada tributo y los Tratados que contengan cláusulas en materia tributaria"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 6.1.d) de la NFGTB, en el ámbito tributario local los tributos se regirán específicamente por:",
@@ -447,8 +447,8 @@
       "Las disposiciones generales del derecho administrativo",
       "Los Convenios para evitar la doble imposición"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "De acuerdo con el artículo 6.1.d) de la NFGTB, las disposiciones reglamentarias a que se refiere este apartado son las dictadas:",
@@ -458,8 +458,8 @@
       "En coordinación de las anteriores y, específicamente en el ámbito tributario estatal, los correspondientes Tratados internacionales",
       "En armonización de las anteriores y, específicamente en el ámbito tributario local, los correspondientes preceptos del derecho común"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 6.2 de la NFGTB, ¿qué Tratados o Convenios internacionales serán de aplicación?",
@@ -469,8 +469,8 @@
       "Los que contengan cláusulas de naturaleza administrativa y, en particular, los Convenios para evitar la doble imposición, que formen parte del ordenamiento jurídico interno",
       "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios para evitar la doble imposición, que tengan carácter supletorio en el ordenamiento interno"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Conforme al artículo 6.2 de la NFGTB, para que los Tratados o Convenios internacionales con cláusulas de naturaleza tributaria sean de aplicación, es preciso que:",
@@ -480,8 +480,8 @@
       "Tengan carácter supletorio respecto del derecho común",
       "Hayan sido objeto de armonización fiscal por el Parlamento Vasco"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 6.3 de la NFGTB, serán de aplicación las normas que dicte la Unión Europea y otros organismos internacionales o supranacionales a los que se atribuya:",
@@ -491,8 +491,8 @@
       "El ejercicio de competencias en materia administrativa común",
       "El ejercicio de competencias en materia de doble imposición"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "De acuerdo con el artículo 6.3 de la NFGTB, además de la Unión Europea, ¿qué otras entidades pueden dictar normas que serán de aplicación si se les atribuye el ejercicio de competencias en materia tributaria?",
@@ -502,8 +502,8 @@
       "Otros órganos del derecho administrativo común",
       "Otras entidades reguladoras de cada tributo local"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 6.4 de la NFGTB, ¿qué carácter tendrán las disposiciones generales del derecho administrativo y los preceptos del derecho común?",
@@ -513,8 +513,8 @@
       "Carácter vinculante",
       "Carácter armonizador"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Conforme al artículo 6.4 de la NFGTB, ¿qué disposiciones tendrán carácter supletorio?",
@@ -524,8 +524,8 @@
       "Las disposiciones generales del Concierto Económico y los preceptos del derecho internacional",
       "Las disposiciones generales del derecho administrativo y los Convenios para evitar la doble imposición"
     ],
-    "answerIndex": 0,
-    "articulo": "6"
+    "answer": 0,
+    "article": "6"
   },
   {
     "question": "Según el artículo 7 de la NFGTB, ¿qué principio recoge este precepto respecto a determinadas materias tributarias?",
@@ -535,8 +535,8 @@
       "La reserva de ordenanza tributaria",
       "La reserva de ley orgánica tributaria"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "Conforme a la letra a) del artículo 7 de la NFGTB, ¿qué se regulará en todo caso por Norma Foral en relación con la cuantía de la deuda tributaria?",
@@ -546,8 +546,8 @@
       "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta, así como el establecimiento de presunciones que admitan prueba en contrario",
       "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los recargos, así como el establecimiento de presunciones que no admitan prueba en contrario"
     ],
-    "answerIndex": 1,
-    "articulo": "7"
+    "answer": 1,
+    "article": "7"
   },
   {
     "question": "De acuerdo con la letra a) del artículo 7 de la NFGTB, el establecimiento de presunciones que se reserva en todo caso a la Norma Foral son aquellas que:",
@@ -557,8 +557,8 @@
       "Deriven de los pagos a cuenta",
       "Afecten al devengo del tributo"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "Según la letra b) del artículo 7 de la NFGTB, se regularán en todo caso por Norma Foral:",
@@ -568,8 +568,8 @@
       "Los responsables que dan lugar al nacimiento de las obligaciones tributarias de realizar pagos a cuenta",
       "Las consecuencias del incumplimiento de las obligaciones tributarias de realizar pagos a cuenta"
     ],
-    "answerIndex": 1,
-    "articulo": "7"
+    "answer": 1,
+    "article": "7"
   },
   {
     "question": "Conforme a la letra c) del artículo 7 de la NFGTB, ¿qué se reserva en todo caso a la Norma Foral?",
@@ -579,8 +579,8 @@
       "La determinación de los obligados tributarios previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los responsables",
       "La determinación de los obligados tributarios previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los infractores"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según la letra d) del artículo 7 de la NFGTB, respecto de las exenciones, reducciones, bonificaciones, deducciones y demás beneficios o incentivos fiscales se reserva a la Norma Foral:",
@@ -590,8 +590,8 @@
       "El establecimiento, modificación, supresión y caducidad",
       "El establecimiento, condonación, supresión y prórroga"
     ],
-    "answerIndex": 1,
-    "articulo": "7"
+    "answer": 1,
+    "article": "7"
   },
   {
     "question": "La letra d) del artículo 7 de la NFGTB reserva a la Norma Foral el establecimiento, modificación, supresión y prórroga de:",
@@ -601,8 +601,8 @@
       "Las exenciones, reducciones, moratorias, deducciones y demás beneficios o incentivos fiscales",
       "Las exenciones, recargos, bonificaciones, deducciones y demás beneficios o incentivos fiscales"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "Conforme a la letra e) del artículo 7 de la NFGTB, se regulará en todo caso por Norma Foral:",
@@ -612,8 +612,8 @@
       "El establecimiento y modificación de los recargos y de la obligación de abonar intereses de demora",
       "El establecimiento y supresión de los recargos y de la obligación de abonar intereses de demora"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según la letra f) del artículo 7 de la NFGTB, se reserva a la Norma Foral el establecimiento y modificación de:",
@@ -623,8 +623,8 @@
       "Los plazos de prescripción y caducidad, así como de las causas de interrupción del cómputo de los plazos de caducidad y las de suspensión de los de prescripción",
       "Los plazos de prescripción y devengo, así como de las causas de interrupción del cómputo de los plazos de prescripción y las de suspensión de los de caducidad"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "De acuerdo con la letra g) del artículo 7 de la NFGTB, ¿qué materia se regulará en todo caso por Norma Foral?",
@@ -634,8 +634,8 @@
       "El establecimiento y modificación de las infracciones y sanciones tributarias",
       "El establecimiento y modificación de las intervenciones y sanciones tributarias"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según la letra h) del artículo 7 de la NFGTB, se reserva a la Norma Foral la obligación de presentar declaraciones y autoliquidaciones referidas al cumplimiento de:",
@@ -645,8 +645,8 @@
       "La obligación tributaria principal y la de los responsables",
       "La obligación tributaria principal y la de intereses de demora"
     ],
-    "answerIndex": 1,
-    "articulo": "7"
+    "answer": 1,
+    "article": "7"
   },
   {
     "question": "Conforme a la letra i) del artículo 7 de la NFGTB, se regularán en todo caso por Norma Foral:",
@@ -656,8 +656,8 @@
       "Las consecuencias del incumplimiento de las obligaciones tributarias respecto de la eficacia de los actos o negocios jurídicos",
       "Las consecuencias del incumplimiento de las obligaciones tributarias respecto de la eficacia de las reclamaciones económico-administrativas"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según la letra j) del artículo 7 de la NFGTB, se reserva en todo caso a la Norma Foral:",
@@ -667,8 +667,8 @@
       "Las obligaciones entre particulares resultantes de las sanciones",
       "Las obligaciones entre responsables resultantes de los tributos"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "De acuerdo con la letra k) del artículo 7 de la NFGTB, ¿qué materia se regulará en todo caso por Norma Foral?",
@@ -678,8 +678,8 @@
       "La condonación de deudas y sanciones tributarias y la concesión con carácter general de moratorias y quitas",
       "La condonación de deudas y recargos tributarios y la concesión con carácter general de moratorias y quitas"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según la letra l) del artículo 7 de la NFGTB, se reserva a la Norma Foral la determinación de los actos susceptibles de:",
@@ -689,8 +689,8 @@
       "Reclamación en vía contencioso administrativa",
       "Intervención en vía económico administrativa"
     ],
-    "answerIndex": 0,
-    "articulo": "7"
+    "answer": 0,
+    "article": "7"
   },
   {
     "question": "Conforme a la letra m) del artículo 7 de la NFGTB, se regularán en todo caso por Norma Foral:",
@@ -700,8 +700,8 @@
       "Los supuestos en que proceda el establecimiento de las intervenciones tributarias de carácter permanente",
       "Los supuestos en que proceda el establecimiento de las intervenciones tributarias de carácter temporal"
     ],
-    "answerIndex": 2,
-    "articulo": "7"
+    "answer": 2,
+    "article": "7"
   },
   {
     "question": "Según el artículo 8 de la NFGTB, ¿qué órgano podrá dictar disposiciones normativas con rango de Norma Foral en materia tributaria denominadas Decretos Forales Normativos?",
@@ -711,8 +711,8 @@
       "Las Juntas Generales",
       "El Territorio Histórico de Bizkaia"
     ],
-    "answerIndex": 0,
-    "articulo": "8"
+    "answer": 0,
+    "article": "8"
   },
   {
     "question": "Conforme al apartado 1 del artículo 8 de la NFGTB, la Diputación Foral podrá dictar Decretos Forales Normativos en el supuesto de que su objeto sea exclusivamente:",
@@ -722,8 +722,8 @@
       "La propuesta de la legislación del territorio de régimen común",
       "El establecimiento de la legislación del territorio de régimen común"
     ],
-    "answerIndex": 0,
-    "articulo": "8"
+    "answer": 0,
+    "article": "8"
   },
   {
     "question": "Según el apartado 1 del artículo 8 de la NFGTB, los Decretos Forales Normativos para adaptar la legislación proceden cuando, de conformidad con lo dispuesto en el Concierto Económico, deban regir en dicho Territorio Histórico:",
@@ -733,8 +733,8 @@
       "Las mismas normas sustantivas y formales que en el territorio de la Diputación Foral",
       "Las mismas normas tributarias y formales que en el territorio de régimen común"
     ],
-    "answerIndex": 0,
-    "articulo": "8"
+    "answer": 0,
+    "article": "8"
   },
   {
     "question": "De acuerdo con el apartado 1 del artículo 8 de la NFGTB, ¿qué rango tienen las disposiciones normativas en materia tributaria denominadas Decretos Forales Normativos?",
@@ -744,8 +744,8 @@
       "Rango de norma sustantiva",
       "Rango de norma de régimen común"
     ],
-    "answerIndex": 0,
-    "articulo": "8"
+    "answer": 0,
+    "article": "8"
   },
   {
     "question": "Conforme al apartado 2 del artículo 8 de la NFGTB, ¿a propuesta de qué órgano podrá la Diputación Foral dictar Decretos Forales Normativos por razones de urgencia?",
@@ -755,8 +755,8 @@
       "Del Territorio Histórico de Bizkaia",
       "Del territorio de régimen común"
     ],
-    "answerIndex": 1,
-    "articulo": "8"
+    "answer": 1,
+    "article": "8"
   },
   {
     "question": "Según el apartado 2 del artículo 8 de la NFGTB, ¿por qué motivo y con qué condición podrá la Diputación Foral dictar Decretos Forales Normativos a propuesta del Diputado Foral de Hacienda y Finanzas?",
@@ -766,8 +766,8 @@
       "Por razones de oportunidad, y siempre que convenga establecer o adaptar normas tributarias",
       "Por razones de urgencia, y siempre que convenga establecer o adaptar normas sustantivas"
     ],
-    "answerIndex": 0,
-    "articulo": "8"
+    "answer": 0,
+    "article": "8"
   },
   {
     "question": "Conforme al apartado 2 del artículo 8 de la NFGTB, ¿qué se hará con los Decretos Forales Normativos dictados por razones de urgencia?",
@@ -777,8 +777,8 @@
       "Se dará cuenta a las Juntas Generales para su posterior ratificación",
       "Se dará cuenta al Diputado Foral de Hacienda y Finanzas para su posterior ratificación"
     ],
-    "answerIndex": 2,
-    "articulo": "8"
+    "answer": 2,
+    "article": "8"
   },
   {
     "question": "Según el artículo 9, ¿a partir de qué momento entran en vigor las normas tributarias, salvo que en ellas se disponga otra cosa?",
@@ -788,8 +788,8 @@
       "A los veinte días naturales de su completa publicación en el «Boletín Oficial del Estado».",
       "A los treinta días naturales de su completa publicación en el «Boletín Oficial de Bizkaia»."
     ],
-    "answerIndex": 0,
-    "articulo": "9"
+    "answer": 0,
+    "article": "9"
   },
   {
     "question": "Conforme al apartado 1 del artículo 9, ¿por qué plazo se aplican las normas tributarias?",
@@ -799,8 +799,8 @@
       "Por plazo de veinte días naturales, salvo que se disponga otra cosa.",
       "Por plazo indefinido, salvo que su aplicación resulte más favorable."
     ],
-    "answerIndex": 1,
-    "articulo": "9"
+    "answer": 1,
+    "article": "9"
   },
   {
     "question": "Según el apartado 2 del artículo 9, y salvo que se disponga lo contrario, ¿qué carácter tienen las normas tributarias respecto de la retroactividad?",
@@ -810,8 +810,8 @@
       "No tendrán efecto retroactivo.",
       "No tendrán efecto indefinido."
     ],
-    "answerIndex": 2,
-    "articulo": "9"
+    "answer": 2,
+    "article": "9"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 9, y salvo que se disponga lo contrario, las normas tributarias se aplicarán a los tributos sin periodo impositivo:",
@@ -821,8 +821,8 @@
       "devengados a partir de su completa publicación en el «Boletín Oficial de Bizkaia».",
       "devengados respecto de los actos que no sean firmes."
     ],
-    "answerIndex": 1,
-    "articulo": "9"
+    "answer": 1,
+    "article": "9"
   },
   {
     "question": "Según el apartado 2 del artículo 9, y salvo que se disponga lo contrario, ¿cómo se aplican las normas tributarias a los demás tributos (con periodo impositivo)?",
@@ -832,8 +832,8 @@
       "A aquellos cuyo período impositivo se inicie desde ese momento.",
       "A aquellos cuyo período impositivo se inicie a los veinte días naturales."
     ],
-    "answerIndex": 2,
-    "articulo": "9"
+    "answer": 2,
+    "article": "9"
   },
   {
     "question": "Conforme al apartado 2 del artículo 9, ¿qué normas tendrán efectos retroactivos respecto de los actos que no sean firmes cuando su aplicación resulte más favorable para el interesado?",
@@ -843,8 +843,8 @@
       "Las normas que regulen el régimen de infracciones y sanciones tributarias y el período impositivo.",
       "Las normas que regulen el devengo de las sanciones tributarias y el de los recargos."
     ],
-    "answerIndex": 1,
-    "articulo": "9"
+    "answer": 1,
+    "article": "9"
   },
   {
     "question": "Según el apartado 2 del artículo 9, las normas reguladoras del régimen de infracciones y sanciones y de los recargos tendrán efectos retroactivos respecto de los actos que no sean firmes:",
@@ -854,8 +854,8 @@
       "cuando su período impositivo se inicie desde ese momento.",
       "cuando se fije un plazo determinado para el interesado."
     ],
-    "answerIndex": 0,
-    "articulo": "9"
+    "answer": 0,
+    "article": "9"
   },
   {
     "question": "Según el artículo 10 de la NFGTB, ¿conforme a qué criterios se aplicarán los tributos?",
@@ -865,8 +865,8 @@
       "Conforme a los criterios de residencia o territorialidad que por Decreto Foral se establezcan en cada caso.",
       "Conforme a los criterios de residencia o territorialidad que reglamentariamente se establezcan en cada caso."
     ],
-    "answerIndex": 0,
-    "articulo": "10"
+    "answer": 0,
+    "article": "10"
   },
   {
     "question": "De acuerdo con el artículo 10 de la NFGTB, ¿qué norma debe establecer en cada caso los criterios de residencia o territorialidad de aplicación de los tributos?",
@@ -876,8 +876,8 @@
       "La Orden Foral correspondiente a cada tributo en cada caso.",
       "La Ley estatal correspondiente a cada tributo en cada caso."
     ],
-    "answerIndex": 1,
-    "articulo": "10"
+    "answer": 1,
+    "article": "10"
   },
   {
     "question": "Conforme al artículo 10 de la NFGTB, en defecto de criterio establecido por Norma Foral, ¿cómo se exigirán los tributos de carácter personal?",
@@ -887,8 +887,8 @@
       "Conforme al criterio de nacionalidad.",
       "Conforme al criterio de domicilio."
     ],
-    "answerIndex": 1,
-    "articulo": "10"
+    "answer": 1,
+    "article": "10"
   },
   {
     "question": "Según el artículo 10 de la NFGTB, en defecto de criterio establecido por Norma Foral, ¿cómo se exigirán los tributos que no tengan carácter personal?",
@@ -898,8 +898,8 @@
       "Conforme al criterio de nacionalidad que resulte más adecuado a la naturaleza del objeto gravado.",
       "Conforme al criterio de domicilio que resulte más adecuado a la naturaleza del objeto gravado."
     ],
-    "answerIndex": 1,
-    "articulo": "10"
+    "answer": 1,
+    "article": "10"
   },
   {
     "question": "De acuerdo con el artículo 10 de la NFGTB, para los tributos distintos de los personales aplicados en defecto de Norma Foral, el criterio de territorialidad debe ser el que resulte más adecuado a:",
@@ -909,8 +909,8 @@
       "La naturaleza del objeto gravado.",
       "La naturaleza de la base imponible."
     ],
-    "answerIndex": 2,
-    "articulo": "10"
+    "answer": 2,
+    "article": "10"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, ¿con arreglo a qué se interpretarán las normas tributarias?",
@@ -920,8 +920,8 @@
       "Con arreglo a lo dispuesto en el apartado 1 del artículo 3 del Código de Comercio.",
       "Con arreglo a lo dispuesto en el apartado 1 del artículo 3 de la Constitución."
     ],
-    "answerIndex": 0,
-    "articulo": "11"
+    "answer": 0,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, en tanto no se definan por la normativa tributaria, ¿cómo se entenderán los términos empleados en sus normas?",
@@ -931,8 +931,8 @@
       "Conforme a su sentido jurídico, técnico o gramatical, según proceda.",
       "Conforme a su sentido contable, técnico o usual, según proceda."
     ],
-    "answerIndex": 1,
-    "articulo": "11"
+    "answer": 1,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, ¿en qué supuesto se entenderán los términos empleados en las normas tributarias conforme a su sentido jurídico, técnico o usual?",
@@ -942,8 +942,8 @@
       "En tanto no se definan por la normativa tributaria.",
       "En tanto no se definan por el Diputado Foral de Hacienda y Finanzas."
     ],
-    "answerIndex": 2,
-    "articulo": "11"
+    "answer": 2,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, en el ámbito de las competencias de la Diputación Foral, ¿a quién corresponde de forma exclusiva la facultad de dictar disposiciones interpretativas o aclaratorias de las Normas Forales y demás disposiciones en materia tributaria?",
@@ -953,8 +953,8 @@
       "A los órganos de la Administración tributaria.",
       "Al Consejo de Gobierno de la Diputación Foral."
     ],
-    "answerIndex": 1,
-    "articulo": "11"
+    "answer": 1,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, la facultad de dictar disposiciones interpretativas o aclaratorias en materia tributaria corresponde al Diputado Foral de Hacienda y Finanzas:",
@@ -964,8 +964,8 @@
       "De forma exclusiva.",
       "De forma usual, según proceda."
     ],
-    "answerIndex": 2,
-    "articulo": "11"
+    "answer": 2,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, ¿qué efecto tienen las disposiciones interpretativas o aclaratorias para los órganos de la Administración tributaria?",
@@ -975,8 +975,8 @@
       "Serán de obligado cumplimiento únicamente para los órganos de inspección tributaria.",
       "Serán de obligado cumplimiento para todos los obligados tributarios."
     ],
-    "answerIndex": 1,
-    "articulo": "11"
+    "answer": 1,
+    "article": "11"
   },
   {
     "question": "Según el artículo 11 de la NFGTB, ¿dónde se publicarán las disposiciones interpretativas o aclaratorias?",
@@ -986,8 +986,8 @@
       "En el «Boletín Oficial de Bizkaia».",
       "En el «Boletín Oficial de la Diputación Foral»."
     ],
-    "answerIndex": 2,
-    "articulo": "11"
+    "answer": 2,
+    "article": "11"
   },
   {
     "question": "Según el artículo 12 de la NFGTB, ¿con arreglo a qué se exigirán las obligaciones tributarias?",
@@ -997,8 +997,8 @@
       "Con arreglo a la validez formal del hecho, acto o negocio realizado.",
       "Con arreglo a la finalidad económica del hecho, acto o negocio realizado."
     ],
-    "answerIndex": 0,
-    "articulo": "12"
+    "answer": 0,
+    "article": "12"
   },
   {
     "question": "De acuerdo con el artículo 12, las obligaciones tributarias se exigirán con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado:",
@@ -1008,8 +1008,8 @@
       "siempre que los interesados no hubieran dado forma ni denominación al negocio.",
       "salvo que la denominación dada por los interesados altere su naturaleza jurídica."
     ],
-    "answerIndex": 1,
-    "articulo": "12"
+    "answer": 1,
+    "article": "12"
   },
   {
     "question": "Conforme al artículo 12, al exigir las obligaciones tributarias con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado, ¿qué se hace respecto de los defectos que pudieran afectar a su validez?",
@@ -1019,8 +1019,8 @@
       "Se prescinde de ellos.",
       "Se exigen subsanados conforme a su naturaleza jurídica."
     ],
-    "answerIndex": 2,
-    "articulo": "12"
+    "answer": 2,
+    "article": "12"
   },
   {
     "question": "¿Cuál es el título del artículo 12 de la Norma Foral General Tributaria de Bizkaia?",
@@ -1030,8 +1030,8 @@
       "Calificación.",
       "Validez."
     ],
-    "answerIndex": 2,
-    "articulo": "12"
+    "answer": 2,
+    "article": "12"
   },
   {
     "question": "Según el artículo 13 de la NFGTB, ¿qué método interpretativo no se admite para extender más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás beneficios o incentivos fiscales?",
@@ -1041,8 +1041,8 @@
       "La interpretación extensiva",
       "La calificación"
     ],
-    "answerIndex": 0,
-    "articulo": "13"
+    "answer": 0,
+    "article": "13"
   },
   {
     "question": "De acuerdo con el artículo 13 de la NFGTB, la analogía no se admitirá para extender más allá de sus términos estrictos el ámbito de determinados elementos. ¿Cuáles son?",
@@ -1052,8 +1052,8 @@
       "El hecho imponible, las deducciones y demás beneficios o incentivos fiscales",
       "La base imponible, las exenciones y demás beneficios o incentivos fiscales"
     ],
-    "answerIndex": 1,
-    "articulo": "13"
+    "answer": 1,
+    "article": "13"
   },
   {
     "question": "Conforme al artículo 13 de la NFGTB, ¿hasta dónde está prohibido extender, mediante analogía, el ámbito del hecho imponible, de las exenciones y demás beneficios o incentivos fiscales?",
@@ -1063,8 +1063,8 @@
       "Más allá de sus términos estrictos",
       "Más allá de su interpretación literal"
     ],
-    "answerIndex": 2,
-    "articulo": "13"
+    "answer": 2,
+    "article": "13"
   },
   {
     "question": "¿Cuál es el título o rúbrica del artículo 13 de la NFGTB?",
@@ -1074,8 +1074,8 @@
       "Interpretación de las normas tributarias",
       "Conflicto en la aplicación de la norma tributaria"
     ],
-    "answerIndex": 1,
-    "articulo": "13"
+    "answer": 1,
+    "article": "13"
   },
   {
     "question": "Según el artículo 14, ¿en qué supuestos será aplicable la cláusula antielusión, cuando concurran las circunstancias previstas?",
@@ -1085,8 +1085,8 @@
       "Cuando se eliminen total o parcialmente las ventajas fiscales obtenidas o se minore la base o la deuda tributaria mediante actos o negocios",
       "Cuando se evite total o parcialmente la realización del hecho imponible o se incremente la base o la deuda tributaria mediante actos o negocios"
     ],
-    "answerIndex": 0,
-    "articulo": "14"
+    "answer": 0,
+    "article": "14"
   },
   {
     "question": "Conforme al apartado 1, letra a), del artículo 14, una de las circunstancias que deben concurrir en los actos o negocios es:",
@@ -1096,8 +1096,8 @@
       "Que, individualmente considerados o en su conjunto, sean notoriamente artificiosos o impropios para la minoración de la base o la deuda tributaria.",
       "Que, conjuntamente considerados o por separado, sean notoriamente relevantes o impropios para la consecución del resultado obtenido."
     ],
-    "answerIndex": 1,
-    "articulo": "14"
+    "answer": 1,
+    "article": "14"
   },
   {
     "question": "De acuerdo con la letra b) del apartado 1 del artículo 14, ¿qué se exige respecto de los efectos de la utilización de los actos o negocios?",
@@ -1107,8 +1107,8 @@
       "Que de su utilización no resulten ventajas fiscales relevantes, distintas del ahorro fiscal y de los efectos de los actos usuales o propios.",
       "Que de su utilización no resulten efectos jurídicos o económicos relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios usuales o propios."
     ],
-    "answerIndex": 3,
-    "articulo": "14"
+    "answer": 3,
+    "article": "14"
   },
   {
     "question": "Según el apartado 2 del artículo 14, para que la Administración tributaria pueda declarar la existencia del supuesto regulado, ¿a qué se atenderá?",
@@ -1118,8 +1118,8 @@
       "A lo previsto en el artículo 14 de esta Norma Foral.",
       "A lo previsto en el artículo 136 de esta Norma Foral."
     ],
-    "answerIndex": 0,
-    "articulo": "14"
+    "answer": 0,
+    "article": "14"
   },
   {
     "question": "Conforme al apartado 3 del artículo 14, en las liquidaciones que se realicen como resultado de lo dispuesto en este artículo se exigirá el tributo:",
@@ -1129,8 +1129,8 @@
       "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o minorando la base o la deuda tributaria.",
       "Aplicando la norma que hubiera correspondido a los efectos jurídicos o económicos relevantes o eliminando las ventajas fiscales obtenidas."
     ],
-    "answerIndex": 1,
-    "articulo": "14"
+    "answer": 1,
+    "article": "14"
   },
   {
     "question": "Según el apartado 3 del artículo 14, además de exigir el tributo, en las liquidaciones se liquidarán intereses de demora y, en su caso:",
@@ -1140,8 +1140,8 @@
       "Las sanciones previstas en el artículo 200 bis de esta Norma Foral.",
       "Los recargos previstos en el artículo 200 bis de esta Norma Foral."
     ],
-    "answerIndex": 2,
-    "articulo": "14"
+    "answer": 2,
+    "article": "14"
   },
   {
     "question": "Según el artículo 15 de la NFGTB, en los actos o negocios en los que exista simulación, ¿qué hecho imponible será gravado?",
@@ -1151,8 +1151,8 @@
       "El hecho imponible que produzca la mayor deuda tributaria.",
       "El hecho imponible que las partes hubieran debido realizar."
     ],
-    "answerIndex": 0,
-    "articulo": "15"
+    "answer": 0,
+    "article": "15"
   },
   {
     "question": "De acuerdo con el artículo 15 de la NFGTB, ¿quién declarará la existencia de simulación?",
@@ -1162,8 +1162,8 @@
       "La Comisión consultiva tributaria.",
       "El obligado tributario afectado."
     ],
-    "answerIndex": 1,
-    "articulo": "15"
+    "answer": 1,
+    "article": "15"
   },
   {
     "question": "Conforme al artículo 15 de la NFGTB, ¿en qué acto declarará la Administración tributaria la existencia de simulación?",
@@ -1173,8 +1173,8 @@
       "En el correspondiente acto de liquidación.",
       "En el correspondiente expediente sancionador."
     ],
-    "answerIndex": 2,
-    "articulo": "15"
+    "answer": 2,
+    "article": "15"
   },
   {
     "question": "Según el artículo 15 de la NFGTB, ¿qué efectos produce la calificación de la existencia de simulación realizada por la Administración tributaria?",
@@ -1184,8 +1184,8 @@
       "No produce otros efectos que los exclusivamente civiles.",
       "No produce otros efectos que los exclusivamente liquidatorios."
     ],
-    "answerIndex": 0,
-    "articulo": "15"
+    "answer": 0,
+    "article": "15"
   },
   {
     "question": "De acuerdo con el artículo 15 de la NFGTB, en la regularización que proceda como consecuencia de la existencia de simulación, ¿qué se exigirá?",
@@ -1195,8 +1195,8 @@
       "Los intereses de demora y, en su caso, la sanción pertinente.",
       "Los recargos por declaración extemporánea y, en su caso, la sanción pertinente."
     ],
-    "answerIndex": 2,
-    "articulo": "15"
+    "answer": 2,
+    "article": "15"
   },
   {
     "question": "Según el artículo 16, ¿qué son los tributos?",
@@ -1206,8 +1206,8 @@
       "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia del aprovechamiento especial del dominio público al que la Norma Foral vincula el deber de contribuir.",
       "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la obtención de un beneficio al que la Norma Foral vincula el deber de contribuir."
     ],
-    "answerIndex": 0,
-    "articulo": "16"
+    "answer": 0,
+    "article": "16"
   },
   {
     "question": "Conforme al artículo 16, ¿cuál es el fin primordial de los tributos?",
@@ -1217,8 +1217,8 @@
       "Servir como instrumentos de política económica general en el ámbito foral.",
       "Poner de manifiesto la capacidad económica del contribuyente obligado."
     ],
-    "answerIndex": 1,
-    "articulo": "16"
+    "answer": 1,
+    "article": "16"
   },
   {
     "question": "Según el artículo 16, además de su fin primordial, los tributos podrán servir como instrumentos de política económica general, para:",
@@ -1228,8 +1228,8 @@
       "procurar la estabilidad y el progreso sociales y la mejor distribución de la renta.",
       "procurar el sostenimiento y el progreso sociales y la mejor distribución de los ingresos."
     ],
-    "answerIndex": 2,
-    "articulo": "16"
+    "answer": 2,
+    "article": "16"
   },
   {
     "question": "De acuerdo con el artículo 16, los tributos, cualquiera que sea su denominación, se clasifican en:",
@@ -1239,8 +1239,8 @@
       "tasas, contribuciones especiales e impuestos.",
       "precios públicos, contribuciones especiales e impuestos."
     ],
-    "answerIndex": 2,
-    "articulo": "16"
+    "answer": 2,
+    "article": "16"
   },
   {
     "question": "Según el artículo 16, ¿en qué consiste el hecho imponible de las tasas?",
@@ -1250,8 +1250,8 @@
       "En la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho privado que se refieran, afecten o beneficien de modo particular al obligado tributario.",
       "En la realización de negocios, actos o hechos en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario por su capacidad económica."
     ],
-    "answerIndex": 0,
-    "articulo": "16"
+    "answer": 0,
+    "article": "16"
   },
   {
     "question": "Conforme al artículo 16, las actividades o servicios dan lugar a tasa cuando, además de afectar al obligado tributario, dichos servicios o actividades:",
@@ -1261,8 +1261,8 @@
       "no sean de utilización privativa o aprovechamiento especial para los obligados tributarios o no se presten o realicen por el sector privado.",
       "no sean de solicitud o recepción voluntaria para los obligados tributarios o no se refieran, afecten o beneficien al sector privado."
     ],
-    "answerIndex": 1,
-    "articulo": "16"
+    "answer": 1,
+    "article": "16"
   },
   {
     "question": "Según el artículo 16, ¿en qué consiste el hecho imponible de las contribuciones especiales?",
@@ -1272,8 +1272,8 @@
       "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
       "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de negocios, actos o hechos que ponen de manifiesto su capacidad económica."
     ],
-    "answerIndex": 2,
-    "articulo": "16"
+    "answer": 2,
+    "article": "16"
   },
   {
     "question": "De acuerdo con el artículo 16, los impuestos son los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por:",
@@ -1283,8 +1283,8 @@
       "obras, actos o servicios que ponen de manifiesto la capacidad económica del contribuyente.",
       "negocios, actos o hechos que ponen de manifiesto el aumento de valor de los bienes del contribuyente."
     ],
-    "answerIndex": 0,
-    "articulo": "16"
+    "answer": 0,
+    "article": "16"
   },
   {
     "question": "Según el artículo 16, ¿qué tributo se caracteriza por ser exigido sin contraprestación?",
@@ -1294,8 +1294,8 @@
       "Los impuestos.",
       "Los precios públicos."
     ],
-    "answerIndex": 2,
-    "articulo": "16"
+    "answer": 2,
+    "article": "16"
   },
   {
     "question": "Según el artículo 17 de la NFGTB, ¿qué se entiende por relación jurídico-tributaria?",
@@ -1305,8 +1305,8 @@
       "El conjunto de obligaciones y deberes, derechos y procedimientos originados por la imposición de los tributos.",
       "El conjunto de obligaciones materiales, deberes, derechos y potestades originados por la gestión de los tributos."
     ],
-    "answerIndex": 0,
-    "articulo": "17"
+    "answer": 0,
+    "article": "17"
   },
   {
     "question": "De la relación jurídico-tributaria, según el artículo 17 de la NFGTB, pueden derivarse obligaciones materiales y formales para:",
@@ -1316,8 +1316,8 @@
       "El obligado tributario y para la Administración, así como la imposición de consecuencias jurídico-privadas en caso de su incumplimiento.",
       "El deudor del tributo y para la Administración, así como la imposición de obligaciones accesorias en caso de su incumplimiento."
     ],
-    "answerIndex": 1,
-    "articulo": "17"
+    "answer": 1,
+    "article": "17"
   },
   {
     "question": "Conforme al artículo 17 de la NFGTB, ¿cuáles son las obligaciones tributarias materiales?",
@@ -1327,8 +1327,8 @@
       "Las de carácter principal, las de realizar pagos a cuenta, las establecidas entre particulares resultantes del tributo y las accesorias.",
       "Las de carácter principal, las de realizar pagos a cuenta, las establecidas entre particulares resultantes del tributo y las formales."
     ],
-    "answerIndex": 2,
-    "articulo": "17"
+    "answer": 2,
+    "article": "17"
   },
   {
     "question": "Según el artículo 17 de la NFGTB, las obligaciones tributarias formales se caracterizan, entre otras cosas, por:",
@@ -1338,8 +1338,8 @@
       "No tener carácter pecuniario y estar impuestas por la normativa tributaria únicamente a los deudores del tributo.",
       "No tener carácter accesorio y estar impuestas por la normativa tributaria a los obligados tributarios, deudores o no del tributo."
     ],
-    "answerIndex": 0,
-    "articulo": "17"
+    "answer": 0,
+    "article": "17"
   },
   {
     "question": "De acuerdo con el artículo 17 de la NFGTB, el cumplimiento de las obligaciones tributarias formales está relacionado con:",
@@ -1349,8 +1349,8 @@
       "La aplicación de los tributos en el marco de la asistencia mutua.",
       "La imposición de sanciones tributarias en caso de incumplimiento."
     ],
-    "answerIndex": 1,
-    "articulo": "17"
+    "answer": 1,
+    "article": "17"
   },
   {
     "question": "Según el artículo 17 de la NFGTB, en el marco de la asistencia mutua podrán establecerse obligaciones tributarias a los obligados tributarios:",
@@ -1360,8 +1360,8 @@
       "Únicamente en los supuestos tasados reglamentariamente.",
       "Solo cuando deriven de la obligación tributaria principal."
     ],
-    "answerIndex": 1,
-    "articulo": "17"
+    "answer": 1,
+    "article": "17"
   },
   {
     "question": "Conforme al artículo 17 de la NFGTB, en caso de incumplimiento por los obligados tributarios de las obligaciones establecidas en el marco de la asistencia mutua:",
@@ -1371,8 +1371,8 @@
       "Podrán imponerse las sanciones tributarias establecidas en la normativa aplicable.",
       "Podrán alterarse los elementos de la obligación tributaria previstos en la normativa aplicable."
     ],
-    "answerIndex": 2,
-    "articulo": "17"
+    "answer": 2,
+    "article": "17"
   },
   {
     "question": "De acuerdo con el artículo 17 de la NFGTB, los elementos de la obligación tributaria no podrán ser alterados por:",
@@ -1382,8 +1382,8 @@
       "Actos o convenios de los particulares, que producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-tributarias.",
       "Pactos o sanciones de los particulares, que no producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-privadas."
     ],
-    "answerIndex": 0,
-    "articulo": "17"
+    "answer": 0,
+    "article": "17"
   },
   {
     "question": "Según el artículo 18 de la NFGTB, ¿qué carácter tiene el crédito tributario?",
@@ -1393,8 +1393,8 @@
       "El crédito tributario es irrenunciable salvo que por reglamento se establezca otra cosa",
       "El crédito tributario es transmisible salvo que por Decreto Foral se establezca otra cosa"
     ],
-    "answerIndex": 0,
-    "articulo": "18"
+    "answer": 0,
+    "article": "18"
   },
   {
     "question": "Conforme al artículo 18 de la NFGTB, ¿mediante qué instrumento normativo puede establecerse una excepción a la indisponibilidad del crédito tributario?",
@@ -1404,8 +1404,8 @@
       "Mediante Decreto Foral de la Diputación Foral",
       "Mediante reglamento de desarrollo"
     ],
-    "answerIndex": 1,
-    "articulo": "18"
+    "answer": 1,
+    "article": "18"
   },
   {
     "question": "De acuerdo con el artículo 18 de la NFGTB, la indisponibilidad del crédito tributario se establece como regla general, ¿admitiendo qué tipo de salvedad?",
@@ -1415,8 +1415,8 @@
       "Admite la salvedad de que por Norma Foral se establezca otra cosa",
       "Admite salvedad cuando concurran circunstancias tasadas por reglamento"
     ],
-    "answerIndex": 2,
-    "articulo": "18"
+    "answer": 2,
+    "article": "18"
   },
   {
     "question": "¿Qué tiene por objeto la obligación tributaria principal?",
@@ -1426,8 +1426,8 @@
       "El pago de los pagos a cuenta",
       "El pago de los recargos del periodo ejecutivo"
     ],
-    "answerIndex": 0,
-    "articulo": "19"
+    "answer": 0,
+    "article": "19"
   },
   {
     "question": "El pago de la cuota tributaria es el objeto de:",
@@ -1437,8 +1437,8 @@
       "La obligación de realizar pagos a cuenta",
       "La obligación tributaria entre particulares"
     ],
-    "answerIndex": 1,
-    "articulo": "19"
+    "answer": 1,
+    "article": "19"
   },
   {
     "question": "Según el artículo 20 de la NFGTB, ¿qué es el hecho imponible?",
@@ -1448,8 +1448,8 @@
       "El presupuesto completado por la Norma Foral para configurar cada tributo y cuya realización origina el devengo de la obligación tributaria accesoria.",
       "El supuesto de no sujeción fijado por la Norma Foral para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal."
     ],
-    "answerIndex": 0,
-    "articulo": "20"
+    "answer": 0,
+    "article": "20"
   },
   {
     "question": "Conforme al artículo 20 de la NFGTB, la realización del hecho imponible origina el nacimiento de:",
@@ -1459,8 +1459,8 @@
       "la obligación tributaria principal.",
       "la delimitación de cada tributo."
     ],
-    "answerIndex": 2,
-    "articulo": "20"
+    "answer": 2,
+    "article": "20"
   },
   {
     "question": "De acuerdo con el artículo 20 de la NFGTB, ¿mediante qué instrumento se fija el presupuesto que configura cada tributo (el hecho imponible)?",
@@ -1470,8 +1470,8 @@
       "Por Orden Foral.",
       "Mediante Decreto Foral Normativo."
     ],
-    "answerIndex": 1,
-    "articulo": "20"
+    "answer": 1,
+    "article": "20"
   },
   {
     "question": "Según el artículo 20 de la NFGTB, ¿qué se podrá hacer por Norma Foral respecto a la delimitación del hecho imponible?",
@@ -1481,8 +1481,8 @@
       "Completar su delimitación mediante la mención de supuestos de no sujeción.",
       "Completar su realización mediante la mención de supuestos de devengo."
     ],
-    "answerIndex": 2,
-    "articulo": "20"
+    "answer": 2,
+    "article": "20"
   },
   {
     "question": "Según el artículo 21 de la NFGTB, ¿qué son los supuestos de exención?",
@@ -1492,8 +1492,8 @@
       "Aquellos en que, a pesar de realizarse el hecho imponible, por Norma Foral se exime del cumplimiento total o parcial de la obligación tributaria accesoria",
       "Aquellos en que, a pesar de realizarse el hecho imponible, por vía reglamentaria se exime del cumplimiento total o parcial de la obligación tributaria principal"
     ],
-    "answerIndex": 0,
-    "articulo": "21"
+    "answer": 0,
+    "article": "21"
   },
   {
     "question": "En los supuestos de exención del artículo 21 de la NFGTB, respecto del hecho imponible se produce que este:",
@@ -1503,8 +1503,8 @@
       "A pesar de ello, sí se realiza",
       "Se realiza de forma sobrevenida"
     ],
-    "answerIndex": 2,
-    "articulo": "21"
+    "answer": 2,
+    "article": "21"
   },
   {
     "question": "Conforme al artículo 21 de la NFGTB, ¿mediante qué instrumento normativo se exime del cumplimiento de la obligación tributaria en los supuestos de exención?",
@@ -1514,8 +1514,8 @@
       "Por orden foral",
       "Por ley estatal"
     ],
-    "answerIndex": 1,
-    "articulo": "21"
+    "answer": 1,
+    "article": "21"
   },
   {
     "question": "Según el artículo 21 de la NFGTB, en los supuestos de exención se exime del cumplimiento de la obligación tributaria principal con qué alcance:",
@@ -1525,8 +1525,8 @@
       "Únicamente parcial",
       "Total y accesorio"
     ],
-    "answerIndex": 0,
-    "articulo": "21"
+    "answer": 0,
+    "article": "21"
   },
   {
     "question": "De acuerdo con el artículo 21 de la NFGTB, el cumplimiento del que se exime en los supuestos de exención es el de la obligación tributaria:",
@@ -1536,8 +1536,8 @@
       "Principal",
       "De pago de intereses"
     ],
-    "answerIndex": 2,
-    "articulo": "21"
+    "answer": 2,
+    "article": "21"
   },
   {
     "question": "Según el artículo 22 de la NFGTB, ¿qué es el devengo?",
@@ -1547,8 +1547,8 @@
       "El momento en el que se entiende configurada la cuota tributaria y en el que se produce el ingreso de la obligación tributaria principal.",
       "El momento en el que se entiende realizado el hecho imponible y en el que se produce la exigibilidad de la obligación tributaria accesoria."
     ],
-    "answerIndex": 0,
-    "articulo": "22"
+    "answer": 0,
+    "article": "22"
   },
   {
     "question": "Conforme al artículo 22, el devengo coincide con el momento del nacimiento de la obligación tributaria principal, salvo que:",
@@ -1558,8 +1558,8 @@
       "el obligado tributario fije un momento distinto de aquél.",
       "el reglamento de gestión fije un momento distinto de aquél."
     ],
-    "answerIndex": 1,
-    "articulo": "22"
+    "answer": 1,
+    "article": "22"
   },
   {
     "question": "De acuerdo con el artículo 22, ¿qué determina la fecha del devengo?",
@@ -1569,8 +1569,8 @@
       "Las circunstancias relevantes para la exigibilidad de la obligación tributaria, salvo que la Administración tributaria disponga otra cosa.",
       "El momento del nacimiento de la obligación tributaria accesoria, salvo que la Norma Foral de cada tributo disponga otra cosa."
     ],
-    "answerIndex": 1,
-    "articulo": "22"
+    "answer": 1,
+    "article": "22"
   },
   {
     "question": "Según el artículo 22, las circunstancias relevantes que determina la fecha del devengo lo son para la configuración de la obligación tributaria, salvo que:",
@@ -1580,8 +1580,8 @@
       "la Norma Foral de cada tributo disponga otra cosa.",
       "la Administración tributaria disponga otra cosa."
     ],
-    "answerIndex": 2,
-    "articulo": "22"
+    "answer": 2,
+    "article": "22"
   },
   {
     "question": "Conforme al apartado 2 del artículo 22, ¿qué podrá establecer la normativa de cada tributo respecto a la exigibilidad?",
@@ -1591,8 +1591,8 @@
       "La exigibilidad de la cuota o cantidad a ingresar, o de parte de la misma, en un momento distinto al del devengo del tributo.",
       "La exigibilidad del hecho imponible o de parte del mismo, en un momento distinto al del devengo de la obligación tributaria principal."
     ],
-    "answerIndex": 2,
-    "articulo": "22"
+    "answer": 2,
+    "article": "22"
   },
   {
     "question": "Según el apartado 2 del artículo 22, la posibilidad de establecer la exigibilidad de la cuota en un momento distinto al del devengo corresponde a:",
@@ -1602,8 +1602,8 @@
       "el reglamento general de recaudación.",
       "el Diputado Foral de Hacienda y Finanzas."
     ],
-    "answerIndex": 0,
-    "articulo": "22"
+    "answer": 0,
+    "article": "22"
   },
   {
     "question": "Según el artículo 23 de la NFGTB, ¿en qué consiste la obligación tributaria de realizar pagos a cuenta de la obligación tributaria principal?",
@@ -1613,8 +1613,8 @@
       "En deducir un importe de la Administración tributaria por el obligado a realizar pagos fraccionados, por el retenedor o por el repercutido.",
       "En satisfacer un importe a la Administración tributaria por el responsable solidario, por el retenedor o por el obligado a realizar ingresos a cuenta."
     ],
-    "answerIndex": 0,
-    "articulo": "23"
+    "answer": 0,
+    "article": "23"
   },
   {
     "question": "De acuerdo con el artículo 23 de la NFGTB, ¿qué carácter tiene la obligación tributaria de realizar pagos a cuenta respecto de la obligación tributaria principal?",
@@ -1624,8 +1624,8 @@
       "Tiene carácter autónomo respecto de la obligación tributaria principal.",
       "Tiene carácter subsidiario respecto de la obligación tributaria principal."
     ],
-    "answerIndex": 2,
-    "articulo": "23"
+    "answer": 2,
+    "article": "23"
   },
   {
     "question": "Conforme al artículo 23 de la NFGTB, ¿qué podrá hacer el contribuyente con el importe de los pagos a cuenta soportados, salvo que la Norma Foral de cada tributo establezca la posibilidad de deducir una cantidad distinta?",
@@ -1635,8 +1635,8 @@
       "Podrá repercutir en la obligación tributaria principal el importe de los pagos a cuenta soportados.",
       "Podrá deducir de la obligación tributaria principal el importe de las retenciones repercutidas."
     ],
-    "answerIndex": 1,
-    "articulo": "23"
+    "answer": 1,
+    "article": "23"
   },
   {
     "question": "Según el artículo 23 de la NFGTB, ¿en qué supuesto el contribuyente podría deducir de la obligación tributaria principal una cantidad distinta al importe de los pagos a cuenta soportados?",
@@ -1646,8 +1646,8 @@
       "Cuando el retenedor establezca la posibilidad de deducir una cantidad distinta a dicho importe.",
       "Cuando un reglamento de desarrollo establezca la posibilidad de deducir una cantidad distinta a dicho importe."
     ],
-    "answerIndex": 0,
-    "articulo": "23"
+    "answer": 0,
+    "article": "23"
   },
   {
     "question": "Según el artículo 24 de la NFGTB, ¿qué son las obligaciones entre particulares resultantes del tributo?",
@@ -1657,8 +1657,8 @@
       "Las que tienen por objeto una prestación de naturaleza accesoria exigible entre obligados tributarios.",
       "Las que tienen por objeto una prestación de naturaleza tributaria exigible entre administraciones tributarias."
     ],
-    "answerIndex": 0,
-    "articulo": "24"
+    "answer": 0,
+    "article": "24"
   },
   {
     "question": "De acuerdo con el artículo 24 de la NFGTB, la prestación que constituye el objeto de las obligaciones entre particulares resultantes del tributo es exigible:",
@@ -1668,8 +1668,8 @@
       "Entre los responsables y los sucesores tributarios.",
       "Entre las distintas administraciones tributarias."
     ],
-    "answerIndex": 1,
-    "articulo": "24"
+    "answer": 1,
+    "article": "24"
   },
   {
     "question": "Conforme al artículo 24 de la NFGTB, ¿como consecuencia de qué actos previstos en la normativa tributaria se generan, entre otras, las obligaciones entre particulares resultantes del tributo?",
@@ -1679,8 +1679,8 @@
       "De repercusión, de retención o de ingreso a cuenta.",
       "De devolución, de retención o de ingreso a cuenta."
     ],
-    "answerIndex": 2,
-    "articulo": "24"
+    "answer": 2,
+    "article": "24"
   },
   {
     "question": "Según el artículo 24 de la NFGTB, los actos de repercusión, de retención o de ingreso a cuenta que generan obligaciones entre particulares resultantes del tributo están previstos en:",
@@ -1690,8 +1690,8 @@
       "La normativa presupuestaria.",
       "La normativa sancionadora."
     ],
-    "answerIndex": 0,
-    "articulo": "24"
+    "answer": 0,
+    "article": "24"
   },
   {
     "question": "Según el artículo 25 de la NFGTB, ¿qué son las obligaciones tributarias accesorias?",
@@ -1701,8 +1701,8 @@
       "Aquellas incluidas entre las demás comprendidas en esta sección que consisten en prestaciones pecuniarias que se deben satisfacer al obligado tributario en relación con otra obligación.",
       "Aquellas distintas de las demás comprendidas en esta sección que consisten en sanciones tributarias que se deben satisfacer a la Administración tributaria con carácter independiente."
     ],
-    "answerIndex": 1,
-    "articulo": "25"
+    "answer": 1,
+    "article": "25"
   },
   {
     "question": "Conforme al artículo 25 de la NFGTB, las obligaciones tributarias accesorias consisten en prestaciones pecuniarias que se deben satisfacer a la Administración tributaria y cuya exigencia se impone:",
@@ -1712,8 +1712,8 @@
       "en relación con otra obligación tributaria.",
       "en relación con una declaración extemporánea."
     ],
-    "answerIndex": 2,
-    "articulo": "25"
+    "answer": 2,
+    "article": "25"
   },
   {
     "question": "Según el artículo 25 de la NFGTB, ¿cuáles tienen la naturaleza de obligaciones tributarias accesorias?",
@@ -1723,8 +1723,8 @@
       "Las obligaciones de satisfacer el interés de demora, el recargo por aplazamiento y los recargos del período ejecutivo, así como aquellas otras que se impongan por reglamento.",
       "Las obligaciones de satisfacer el interés legal del dinero, el recargo por declaración extemporánea y las sanciones del período ejecutivo, así como aquellas otras que se impongan por Norma Foral."
     ],
-    "answerIndex": 0,
-    "articulo": "25"
+    "answer": 0,
+    "article": "25"
   },
   {
     "question": "De acuerdo con el artículo 25 de la NFGTB, además del interés de demora, el recargo por declaración extemporánea y los recargos del período ejecutivo, también tienen naturaleza de obligaciones tributarias accesorias:",
@@ -1734,8 +1734,8 @@
       "aquellas otras que se impongan por Norma Foral.",
       "aquellas otras que se impongan por declaración extemporánea."
     ],
-    "answerIndex": 2,
-    "articulo": "25"
+    "answer": 2,
+    "article": "25"
   },
   {
     "question": "Según el artículo 25 de la NFGTB, ¿qué se establece respecto de las sanciones tributarias?",
@@ -1745,8 +1745,8 @@
       "Tienen la consideración de obligaciones accesorias en relación con otra obligación tributaria.",
       "Tienen la consideración de prestaciones pecuniarias accesorias del período ejecutivo."
     ],
-    "answerIndex": 1,
-    "articulo": "25"
+    "answer": 1,
+    "article": "25"
   },
   {
     "question": "Según el apartado 1 del artículo 26, ¿qué naturaleza tiene el interés de demora?",
@@ -1756,8 +1756,8 @@
       "Es una prestación accesoria que se exigirá únicamente a los sujetos infractores responsables.",
       "Es una sanción tributaria que se exigirá a los obligados tributarios y a los sujetos infractores."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 1 del artículo 26, además de la falta de pago en plazo y el cobro de una devolución improcedente, ¿en qué otros supuestos se exige el interés de demora?",
@@ -1767,8 +1767,8 @@
       "En el resto de casos previstos en la normativa sancionadora, así como cuando se reciba una petición de cobro de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales conforme a la normativa sobre asistencia mutua, salvo que dicha normativa establezca otra cosa.",
       "En el resto de casos previstos en la normativa tributaria, así como cuando se emita una petición de cobro de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales conforme a la normativa sobre asistencia mutua, salvo que dicha normativa establezca otra cosa."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "De acuerdo con el apartado 1 del artículo 26, la exigencia del interés de demora tributario:",
@@ -1778,8 +1778,8 @@
       "Requiere la previa intimación de la Administración y la concurrencia de un retraso culpable en el obligado.",
       "No requiere la previa liquidación de la Administración ni la concurrencia de un retraso culpable en el obligado."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Según el apartado 2 del artículo 26, ¿durante qué período se devengarán los intereses de demora?",
@@ -1789,8 +1789,8 @@
       "Durante todo el tiempo a que se extienda el período ejecutivo de la deuda.",
       "Durante todo el tiempo a que se extienda el plazo máximo para resolver."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 2 del artículo 26, ¿sobre qué se calcularán los intereses de demora?",
@@ -1800,8 +1800,8 @@
       "Sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución cobrada improcedentemente y, en su caso, sobre el importe de los recargos a que se refiere la letra d) del apartado 2 del artículo 56 de esta Norma Foral y de las sanciones.",
       "Sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución solicitada indebidamente y, en su caso, sobre el importe de los recargos a que se refiere la letra d) del apartado 2 del artículo 56 de esta Norma Foral y de las sanciones."
     ],
-    "answerIndex": 2,
-    "articulo": "26"
+    "answer": 2,
+    "article": "26"
   },
   {
     "question": "Según el apartado 3 del artículo 26, con carácter general el interés de demora será:",
@@ -1811,8 +1811,8 @@
       "El interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 25 por 100, salvo que se establezca otro diferente.",
       "El interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 25 por 100, salvo que la Administración establezca un retraso culpable."
     ],
-    "answerIndex": 2,
-    "articulo": "26"
+    "answer": 2,
+    "article": "26"
   },
   {
     "question": "De acuerdo con el apartado 3 del artículo 26, ¿cuál es el tipo del interés de demora con efectos desde el 1 de enero hasta el 31 de diciembre del año 2025?",
@@ -1822,8 +1822,8 @@
       "El 3,75%.",
       "El 4,25%."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 4 del artículo 26, ¿qué efecto produce el inicio del período ejecutivo respecto de los intereses de demora?",
@@ -1833,8 +1833,8 @@
       "Determinará el devengo de los intereses de demora, salvo por el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 60 de esta Norma Foral por las cantidades aplazadas en dicho plazo.",
       "Determinará el devengo de los recargos del período ejecutivo, salvo por el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 60 de esta Norma Foral por las cantidades ingresadas en dicho plazo."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Según el apartado 4 del artículo 26, ¿en qué supuesto no resulta aplicable la salvedad recogida en el último inciso del párrafo anterior?",
@@ -1844,8 +1844,8 @@
       "En los casos de autoliquidaciones presentadas fuera del plazo establecido en la normativa de cada tributo, los cuales se regirán por lo establecido en el apartado 9 de este artículo.",
       "En los casos de declaraciones presentadas fuera del plazo establecido en la normativa de cada tributo, los cuales se regirán por lo establecido en el apartado 7 de este artículo."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 5 del artículo 26, en el caso de liquidaciones practicadas por la Administración tributaria, ¿qué período de intereses de demora se exige en todo caso?",
@@ -1855,8 +1855,8 @@
       "El correspondiente al período transcurrido entre la fecha de terminación del plazo establecido en la normativa de cada tributo para la presentación de la declaración o autoliquidación y la fecha en que se inicie el período voluntario.",
       "El correspondiente al período transcurrido entre la fecha de terminación del plazo establecido en la normativa de cada tributo para la presentación de la declaración o autoliquidación y la fecha en que se notifique la providencia de apremio."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Según el apartado 6 del artículo 26, cuando resulte necesaria una nueva liquidación por haber sido anulada otra por resolución administrativa o judicial:",
@@ -1866,8 +1866,8 @@
       "Se conservarán íntegramente los actos y trámites no afectados por la causa de anulación, con mantenimiento íntegro de su contenido, y exigencia del interés de demora sobre el importe de la liquidación anulada.",
       "Se conservarán íntegramente los actos y trámites no afectados por la causa de anulación, con revisión íntegra de su contenido, y exigencia del interés de demora sobre el importe de la nueva liquidación."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "De acuerdo con el apartado 6 del artículo 26, en los casos de nueva liquidación tras una anulación, ¿cuál es la fecha de inicio del cómputo del interés de demora y su límite final?",
@@ -1877,8 +1877,8 @@
       "La de adopción del acuerdo de la nueva liquidación, devengándose hasta el momento en que se haya ejecutado la resolución, sin que el final del cómputo pueda ser posterior al plazo máximo para ejecutar la resolución.",
       "La misma que hubiera correspondido a la liquidación anulada, devengándose hasta el momento en que se haya notificado la nueva liquidación, sin que el final del cómputo pueda ser posterior al plazo máximo para ejecutar la resolución."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Según el apartado 6 del artículo 26, en el caso de desestimación íntegra de recursos y reclamaciones, ¿hasta qué fecha se exigirán los intereses de demora?",
@@ -1888,8 +1888,8 @@
       "Hasta la fecha del correspondiente acuerdo desestimatorio.",
       "Hasta la fecha de adopción del acuerdo de la nueva liquidación."
     ],
-    "answerIndex": 2,
-    "articulo": "26"
+    "answer": 2,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 7 del artículo 26, en el caso de autoliquidaciones presentadas fuera del plazo establecido en la normativa de cada tributo, ¿por qué tiempo se exigen intereses de demora y cuál es la excepción?",
@@ -1899,8 +1899,8 @@
       "Por el tiempo transcurrido desde la terminación de aquel hasta la fecha de presentación de la autoliquidación, salvo en el caso de autoliquidaciones presentadas con requerimiento previo y con ingreso de la deuda tributaria dentro de los seis meses siguientes a la terminación de aquel.",
       "Por el tiempo transcurrido desde la terminación de aquel hasta la fecha de adopción del acuerdo de liquidación, salvo en el caso de autoliquidaciones presentadas sin requerimiento previo y con ingreso de la deuda tributaria dentro de los seis meses siguientes a la terminación de aquel."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "Según el apartado 8 del artículo 26, en las liquidaciones practicadas en el procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, ¿en qué período no se exigirán intereses de demora?",
@@ -1910,8 +1910,8 @@
       "Desde la fecha de inicio del período ejecutivo hasta la finalización del plazo para el pago en periodo voluntario.",
       "Desde la fecha de presentación de la autoliquidación hasta la finalización del plazo para el pago en periodo voluntario."
     ],
-    "answerIndex": 1,
-    "articulo": "26"
+    "answer": 1,
+    "article": "26"
   },
   {
     "question": "Conforme al apartado 8 del artículo 26, si la declaración del procedimiento del artículo 122 fue presentada fuera del plazo previsto en la normativa de cada tributo, ¿qué intereses de demora se exigen y cuál es la excepción?",
@@ -1921,8 +1921,8 @@
       "Por el tiempo transcurrido desde la terminación de aquél hasta la fecha de presentación de la declaración, salvo en el caso de declaraciones presentadas sin requerimiento previo dentro de los seis meses siguientes.",
       "Por el tiempo transcurrido desde la terminación de aquél hasta la finalización del plazo para el pago en periodo voluntario, salvo en el caso de declaraciones presentadas sin requerimiento previo dentro de los seis meses siguientes."
     ],
-    "answerIndex": 2,
-    "articulo": "26"
+    "answer": 2,
+    "article": "26"
   },
   {
     "question": "Según el apartado 9 del artículo 26, ¿qué ocurre cuando la Administración tributaria incumple por causa imputable a la misma los plazos establecidos en la Norma Foral para resolver?",
@@ -1932,8 +1932,8 @@
       "No se exigirán intereses de demora, exigiéndose el interés exclusivamente hasta la fecha de inicio del período ejecutivo, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de aplazamiento o fraccionamiento de pago y de compensación de deudas.",
       "Se exigirán intereses de demora en todo caso, exigiéndose el interés exclusivamente hasta la fecha final de dichos plazos, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de aplazamiento o fraccionamiento de pago y de compensación de deudas."
     ],
-    "answerIndex": 0,
-    "articulo": "26"
+    "answer": 0,
+    "article": "26"
   },
   {
     "question": "De acuerdo con el apartado 9 del artículo 26, en el caso de aplazamiento o fraccionamiento de pago, ¿cómo se regula el procedimiento para la exigibilidad de los intereses?",
@@ -1943,8 +1943,8 @@
       "Se regulará reglamentariamente.",
       "Se regulará por la normativa de cada tributo."
     ],
-    "answerIndex": 2,
-    "articulo": "26"
+    "answer": 2,
+    "article": "26"
   },
   {
     "question": "Según el artículo 27 de la NFGTB, ¿qué naturaleza tiene el recargo por declaración extemporánea sin requerimiento previo?",
@@ -1954,8 +1954,8 @@
       "Es una sanción tributaria que deben satisfacer los obligados tributarios.",
       "Es una liquidación complementaria que deben satisfacer los obligados tributarios."
     ],
-    "answerIndex": 0,
-    "articulo": "27"
+    "answer": 0,
+    "article": "27"
   },
   {
     "question": "Conforme al apartado 1 del artículo 27 de la NFGTB, el recargo por declaración extemporánea se satisface en el procedimiento de gestión iniciado mediante declaración al que se refiere, ¿qué artículo de la Norma Foral?",
@@ -1965,8 +1965,8 @@
       "El artículo 203 de esta Norma Foral.",
       "El artículo 27 de esta Norma Foral."
     ],
-    "answerIndex": 1,
-    "articulo": "27"
+    "answer": 1,
+    "article": "27"
   },
   {
     "question": "De acuerdo con el apartado 1 del artículo 27 de la NFGTB, ¿como consecuencia de qué circunstancia se devenga el recargo por declaración extemporánea?",
@@ -1976,8 +1976,8 @@
       "De la presentación de la declaración fuera del plazo previsto en la normativa de cada tributo, sin requerimiento previo de la Administración tributaria.",
       "De la presentación de la liquidación fuera del plazo previsto en la normativa de cada tributo, sin requerimiento previo de la Administración tributaria."
     ],
-    "answerIndex": 2,
-    "articulo": "27"
+    "answer": 2,
+    "article": "27"
   },
   {
     "question": "Según el apartado 2 del artículo 27 de la NFGTB, con carácter general el recargo por declaración extemporánea será del:",
@@ -1987,8 +1987,8 @@
       "15 por ciento de la cuota a ingresar resultante de la liquidación.",
       "20 por ciento de la cuota a ingresar resultante de la liquidación."
     ],
-    "answerIndex": 1,
-    "articulo": "27"
+    "answer": 1,
+    "article": "27"
   },
   {
     "question": "Conforme al apartado 2 del artículo 27 de la NFGTB, el 5 por ciento del recargo se aplica sobre la cuota a ingresar resultante de la liquidación, incluidos en su caso:",
@@ -1998,8 +1998,8 @@
       "Los intereses a que se refiere la letra d) del apartado 2 del artículo 56 de esta Norma Foral.",
       "Los recargos a que se refiere la letra d) del apartado 2 del artículo 203 de esta Norma Foral."
     ],
-    "answerIndex": 0,
-    "articulo": "27"
+    "answer": 0,
+    "article": "27"
   },
   {
     "question": "Según el apartado 2 del artículo 27 de la NFGTB, el recargo por declaración extemporánea excluirá las sanciones que hubieran podido exigirse, con excepción de:",
@@ -2009,8 +2009,8 @@
       "La prevista en el artículo 203 de esta Norma Foral.",
       "La prevista en el artículo 27 de esta Norma Foral."
     ],
-    "answerIndex": 2,
-    "articulo": "27"
+    "answer": 2,
+    "article": "27"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 27 de la NFGTB, cuando la declaración se presenta dentro de los tres días hábiles siguientes a la conclusión del plazo voluntario, el recargo por declaración extemporánea será del:",
@@ -2020,8 +2020,8 @@
       "1,5 por ciento.",
       "15 por ciento."
     ],
-    "answerIndex": 0,
-    "articulo": "27"
+    "answer": 0,
+    "article": "27"
   },
   {
     "question": "Según el apartado 2 del artículo 27 de la NFGTB, ¿dentro de qué plazo debe presentarse la declaración para que el recargo sea del 0,5 por ciento?",
@@ -2031,8 +2031,8 @@
       "Dentro de los tres días hábiles siguientes al inicio del plazo voluntario para la presentación de la declaración.",
       "Dentro de los cinco días hábiles siguientes a la conclusión del plazo voluntario para la presentación de la declaración."
     ],
-    "answerIndex": 1,
-    "articulo": "27"
+    "answer": 1,
+    "article": "27"
   },
   {
     "question": "Según el artículo 28, ¿qué dos tipos de recargos del periodo ejecutivo existen y qué relación tienen entre sí?",
@@ -2042,8 +2042,8 @@
       "El recargo voluntario y el recargo de apremio, que serán incompatibles entre sí.",
       "El recargo ejecutivo y el recargo extraordinario, que serán incompatibles entre sí."
     ],
-    "answerIndex": 0,
-    "articulo": "28"
+    "answer": 0,
+    "article": "28"
   },
   {
     "question": "Conforme al apartado 1 del artículo 28, los recargos del periodo ejecutivo se calcularán sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta y, en su caso, sobre:",
@@ -2053,8 +2053,8 @@
       "el importe de los intereses de demora a que se refiere la letra d) del apartado 2 del artículo 56 de esta Norma Foral y de las sanciones.",
       "el importe de los recargos legalmente exigibles a que se refiere la letra d) del apartado 2 del artículo 60 de esta Norma Foral y de las sanciones."
     ],
-    "answerIndex": 1,
-    "articulo": "28"
+    "answer": 1,
+    "article": "28"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 28, ¿cuál es el porcentaje del recargo ejecutivo y cuándo se devenga?",
@@ -2064,8 +2064,8 @@
       "Será del 5 por ciento, se devengará de forma automática y será exigible con el fin del periodo ejecutivo.",
       "Será del 5 por ciento, se devengará a solicitud del obligado y será exigible con el inicio del periodo ejecutivo."
     ],
-    "answerIndex": 0,
-    "articulo": "28"
+    "answer": 0,
+    "article": "28"
   },
   {
     "question": "Según el apartado 2 del artículo 28, el recargo ejecutivo se devengará y será exigible con el inicio del periodo ejecutivo, de acuerdo con lo establecido en:",
@@ -2075,8 +2075,8 @@
       "el artículo 60 de esta Norma Foral.",
       "el artículo 3 de esta Norma Foral."
     ],
-    "answerIndex": 2,
-    "articulo": "28"
+    "answer": 2,
+    "article": "28"
   },
   {
     "question": "Conforme al apartado 2 del artículo 28, ¿qué ocurre cuando se realice el pago efectivo y total dentro de los tres primeros días hábiles del período ejecutivo?",
@@ -2086,8 +2086,8 @@
       "El recargo ejecutivo será del 20 por ciento.",
       "El recargo ejecutivo será del 0,5 por ciento, más las sanciones."
     ],
-    "answerIndex": 1,
-    "articulo": "28"
+    "answer": 1,
+    "article": "28"
   },
   {
     "question": "El recargo ejecutivo reducido del 0,5 por ciento previsto en el apartado 2 del artículo 28 se aplica cuando se realice el pago efectivo y total dentro de:",
@@ -2097,8 +2097,8 @@
       "los cinco primeros días hábiles del período ejecutivo.",
       "el plazo extraordinario establecido para el pago."
     ],
-    "answerIndex": 0,
-    "articulo": "28"
+    "answer": 0,
+    "article": "28"
   },
   {
     "question": "Según el apartado 3 del artículo 28, ¿en qué momento se exige el recargo de apremio y cuál es su porcentaje?",
@@ -2108,8 +2108,8 @@
       "Notificada la providencia de apremio y transcurrido el plazo extraordinario establecido para el pago en el apartado 3 del artículo 56, será del 20 por ciento.",
       "Con el inicio del periodo ejecutivo de forma automática, conforme al apartado 3 del artículo 60, será del 20 por ciento."
     ],
-    "answerIndex": 0,
-    "articulo": "28"
+    "answer": 0,
+    "article": "28"
   },
   {
     "question": "De acuerdo con el apartado 4 del artículo 28, los recargos del periodo ejecutivo serán:",
@@ -2119,8 +2119,8 @@
       "compatibles con los intereses de demora.",
       "incompatibles con el recargo de apremio."
     ],
-    "answerIndex": 1,
-    "articulo": "28"
+    "answer": 1,
+    "article": "28"
   },
   {
     "question": "Según el apartado 5 del artículo 28, no se devengarán los recargos del periodo ejecutivo en el caso de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales cuya actuación recaudatoria se realice en el marco de la asistencia mutua:",
@@ -2130,8 +2130,8 @@
       "en todo caso y sin excepción alguna.",
       "salvo que se trate de entidades del sector público."
     ],
-    "answerIndex": 0,
-    "articulo": "28"
+    "answer": 0,
+    "article": "28"
   },
   {
     "question": "Conforme al apartado 5 del artículo 28, tampoco se devengarán los recargos del período ejecutivo en el caso de deudas correspondientes a:",
@@ -2141,8 +2141,8 @@
       "las entidades que forman parte del sector privado, tal y como el mismo se encuentra delimitado en el artículo 3.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.",
       "las entidades que forman parte del sector público, tal y como el mismo se encuentra delimitado en el artículo 56.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público."
     ],
-    "answerIndex": 1,
-    "articulo": "28"
+    "answer": 1,
+    "article": "28"
   },
   {
     "question": "Según el artículo 29, ¿a qué tipo de obligaciones está sujeta la Administración tributaria establecidas en esta Norma Foral?",
@@ -2152,8 +2152,8 @@
       "A las obligaciones de contenido formal establecidas en esta Norma Foral.",
       "A las obligaciones de contenido procedimental establecidas en esta Norma Foral."
     ],
-    "answerIndex": 0,
-    "articulo": "29"
+    "answer": 0,
+    "article": "29"
   },
   {
     "question": "Conforme al artículo 29, ¿cuáles tienen la naturaleza de obligaciones de contenido económico de la Administración tributaria?",
@@ -2163,8 +2163,8 @@
       "La obligación de realizar las devoluciones derivadas del ordenamiento jurídico, la de devolución de ingresos indebidos, la de reembolso de los costes de las garantías y la de satisfacer intereses de demora.",
       "La obligación de realizar las devoluciones derivadas de la normativa de cada tributo, la de devolución de pagos a cuenta, la de reembolso de los costes de las garantías y la de satisfacer intereses de demora."
     ],
-    "answerIndex": 1,
-    "articulo": "29"
+    "answer": 1,
+    "article": "29"
   },
   {
     "question": "De acuerdo con el artículo 29, además de las obligaciones de contenido económico, ¿a qué está sujeta la Administración tributaria?",
@@ -2174,8 +2174,8 @@
       "A los deberes establecidos en esta Norma Foral en relación con el desarrollo de los procedimientos tributarios y en el resto del ordenamiento jurídico.",
       "A los deberes establecidos en esta Norma Foral en relación con el desarrollo de los procedimientos tributarios y en el resto de la normativa de cada tributo."
     ],
-    "answerIndex": 2,
-    "articulo": "29"
+    "answer": 2,
+    "article": "29"
   },
   {
     "question": "Según el artículo 30, ¿qué cantidades devolverá la Administración tributaria?",
@@ -2185,8 +2185,8 @@
       "Las cantidades que procedan de acuerdo con lo previsto en la normativa general tributaria.",
       "Las cantidades que procedan de acuerdo con lo acordado por la Administración tributaria."
     ],
-    "answerIndex": 0,
-    "articulo": "30"
+    "answer": 0,
+    "article": "30"
   },
   {
     "question": "De acuerdo con el artículo 30, ¿qué son las devoluciones derivadas de la normativa de cada tributo?",
@@ -2196,8 +2196,8 @@
       "Las correspondientes a cantidades ingresadas o liquidadas debidamente como consecuencia de la aplicación del tributo.",
       "Las correspondientes a cantidades ingresadas o soportadas debidamente como consecuencia de la liquidación del tributo."
     ],
-    "answerIndex": 1,
-    "articulo": "30"
+    "answer": 1,
+    "article": "30"
   },
   {
     "question": "Conforme al apartado 2 del artículo 30, ¿cuál es el plazo que, en todo caso, debe transcurrir sin haberse practicado liquidación por causa imputable a la Administración para que ésta abone el interés de demora?",
@@ -2207,8 +2207,8 @@
       "El plazo de seis meses.",
       "El plazo de doce meses."
     ],
-    "answerIndex": 2,
-    "articulo": "30"
+    "answer": 2,
+    "article": "30"
   },
   {
     "question": "Según el apartado 2 del artículo 30, transcurrido el plazo sin que se hubiera practicado liquidación por causa imputable a la Administración tributaria, ¿qué abonará ésta?",
@@ -2218,8 +2218,8 @@
       "El interés de demora regulado en el artículo 26 de esta Norma Foral, previa solicitud del obligado tributario.",
       "El recargo de demora regulado en el artículo 26 de esta Norma Foral, sin necesidad de que el obligado tributario lo solicite."
     ],
-    "answerIndex": 1,
-    "articulo": "30"
+    "answer": 1,
+    "article": "30"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 30, ¿durante qué período se devengará el interés de demora?",
@@ -2229,8 +2229,8 @@
       "Desde la finalización de dicho plazo hasta la fecha en que se practique la liquidación que reconozca el derecho a percibir la correspondiente devolución.",
       "Desde la finalización de dicho plazo hasta la fecha en que se haga efectiva la correspondiente devolución al obligado tributario."
     ],
-    "answerIndex": 0,
-    "articulo": "30"
+    "answer": 0,
+    "article": "30"
   },
   {
     "question": "Según el último párrafo del apartado 2 del artículo 30, ¿cómo se tratan las dilaciones en el procedimiento por causa imputable a la persona interesada a efectos del cómputo del período?",
@@ -2240,8 +2240,8 @@
       "No se tendrán en cuenta a efectos del cómputo del período a que se refiere el párrafo anterior.",
       "Se tendrán en cuenta a efectos del cómputo del período a que se refiere el párrafo anterior."
     ],
-    "answerIndex": 2,
-    "articulo": "30"
+    "answer": 2,
+    "article": "30"
   },
   {
     "question": "Según el artículo 31 de la NFGTB, ¿a quiénes devolverá la Administración tributaria los ingresos que indebidamente se hubieran realizado?",
@@ -2251,8 +2251,8 @@
       "A los obligados tributarios, a los sujetos infractores o a los representantes de unos y otros",
       "A los retenedores, a los sujetos infractores o a los sucesores de unos y otros"
     ],
-    "answerIndex": 0,
-    "articulo": "31"
+    "answer": 0,
+    "article": "31"
   },
   {
     "question": "Conforme al apartado 1 del artículo 31, los ingresos indebidos que devuelve la Administración son los realizados en la Hacienda Pública con ocasión del cumplimiento de las obligaciones tributarias o del pago de sanciones, conforme a lo establecido en:",
@@ -2262,8 +2262,8 @@
       "El artículo 31 de esta Norma Foral",
       "El artículo 209 de esta Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "31"
+    "answer": 1,
+    "article": "31"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 31, con la devolución de ingresos indebidos la Administración tributaria abonará el interés de demora regulado en el artículo 26 de esta Norma Foral:",
@@ -2273,8 +2273,8 @@
       "Sin necesidad de que el sujeto infractor lo solicite",
       "Solo en los supuestos tasados reglamentariamente"
     ],
-    "answerIndex": 0,
-    "articulo": "31"
+    "answer": 0,
+    "article": "31"
   },
   {
     "question": "Según el apartado 2 del artículo 31, ¿desde qué fecha y hasta qué fecha se devenga el interés de demora en la devolución de ingresos indebidos?",
@@ -2284,8 +2284,8 @@
       "Desde la fecha en que se hubiese realizado el ingreso indebido hasta la fecha en que se adopte el acuerdo en que se reconozca el derecho a percibir la correspondiente devolución",
       "Desde la fecha en que se reconozca el derecho a percibir la devolución hasta la fecha en que se realice materialmente el pago al obligado tributario"
     ],
-    "answerIndex": 2,
-    "articulo": "31"
+    "answer": 2,
+    "article": "31"
   },
   {
     "question": "Conforme al apartado 2 del artículo 31, las dilaciones en el procedimiento por causa imputable al interesado, a efectos del cómputo del período de devengo del interés de demora:",
@@ -2295,8 +2295,8 @@
       "Se tendrán en cuenta únicamente a efectos del cómputo del período señalado",
       "No se tendrán en cuenta a efectos del reconocimiento del derecho a percibir la devolución"
     ],
-    "answerIndex": 1,
-    "articulo": "31"
+    "answer": 1,
+    "article": "31"
   },
   {
     "question": "Según el apartado 3 del artículo 31, cuando se proceda a la devolución de un ingreso indebido derivado de una autoliquidación ingresada en varios plazos, ¿en qué plazo se entenderá ingresada la cantidad devuelta?",
@@ -2306,8 +2306,8 @@
       "Se entenderá que se ingresó en el último plazo y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en los plazos inmediatamente posteriores",
       "Se entenderá que se ingresó proporcionalmente en todos los plazos y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en el último plazo"
     ],
-    "answerIndex": 0,
-    "articulo": "31"
+    "answer": 0,
+    "article": "31"
   },
   {
     "question": "Según el artículo 32, ¿qué reembolsará la Administración tributaria, previa acreditación de su importe?",
@@ -2317,8 +2317,8 @@
       "El coste de los procedimientos de comprobación iniciados para suspender la ejecución de un acto o para fraccionar una deuda",
       "El coste de las sanciones aportadas para suspender la ejecución de un acto o para aplazar el pago de una deuda"
     ],
-    "answerIndex": 0,
-    "articulo": "32"
+    "answer": 0,
+    "article": "32"
   },
   {
     "question": "Conforme al artículo 32, el reembolso del coste de las garantías procede cuando el acto o la deuda es declarado improcedente por:",
@@ -2328,8 +2328,8 @@
       "Acuerdo en que se reconozca el derecho a percibir el reembolso",
       "Sentencia firme dictada exclusivamente en vía contencioso-administrativa"
     ],
-    "answerIndex": 1,
-    "articulo": "32"
+    "answer": 1,
+    "article": "32"
   },
   {
     "question": "Según el artículo 32, cuando el acto o la deuda se declare parcialmente improcedente, el reembolso:",
@@ -2339,8 +2339,8 @@
       "Alcanzará a la parte correspondiente del coste de las garantías",
       "Alcanzará a la parte correspondiente del interés de demora devengado"
     ],
-    "answerIndex": 2,
-    "articulo": "32"
+    "answer": 2,
+    "article": "32"
   },
   {
     "question": "De acuerdo con el artículo 32, ¿qué se regulará reglamentariamente?",
@@ -2350,8 +2350,8 @@
       "El procedimiento de suspensión y la forma de determinar el coste de las garantías",
       "El procedimiento de aplazamiento y la forma de acreditar el importe de las garantías"
     ],
-    "answerIndex": 0,
-    "articulo": "32"
+    "answer": 0,
+    "article": "32"
   },
   {
     "question": "Según el artículo 32, siempre que fuera posible de acuerdo con la información contenida en la Administración, la devolución se practicará:",
@@ -2361,8 +2361,8 @@
       "Previa acreditación de su importe",
       "En determinados supuestos tasados reglamentariamente"
     ],
-    "answerIndex": 1,
-    "articulo": "32"
+    "answer": 1,
+    "article": "32"
   },
   {
     "question": "Conforme al artículo 32, con el reembolso de los costes de las garantías, la Administración tributaria abonará el interés de demora vigente a lo largo del período en el que se devengue:",
@@ -2372,8 +2372,8 @@
       "Previa acreditación de su importe por el obligado tributario",
       "Siempre que fuera posible de acuerdo con la información de la Administración"
     ],
-    "answerIndex": 1,
-    "articulo": "32"
+    "answer": 1,
+    "article": "32"
   },
   {
     "question": "Según el artículo 32, ¿desde qué fecha y hasta qué fecha se devengará el interés de demora que acompaña al reembolso?",
@@ -2383,8 +2383,8 @@
       "Desde la fecha debidamente acreditada en que se hubiese incurrido en dichos costes hasta la fecha en que se adopte el acuerdo en que se reconozca el derecho a percibir el reembolso",
       "Desde la fecha de la sentencia o resolución administrativa firme hasta la fecha en que se abone materialmente el coste de las garantías"
     ],
-    "answerIndex": 2,
-    "articulo": "32"
+    "answer": 2,
+    "article": "32"
   },
   {
     "question": "De acuerdo con el artículo 32, ¿respecto de qué garantías NO será de aplicación lo dispuesto en dicho artículo?",
@@ -2394,8 +2394,8 @@
       "Respecto de las garantías establecidas por la normativa de cada tributo para responder del cumplimiento de las obligaciones tributarias",
       "Respecto de las garantías establecidas por la normativa de cada tributo para suspender la ejecución de un acto improcedente"
     ],
-    "answerIndex": 2,
-    "articulo": "32"
+    "answer": 2,
+    "article": "32"
   },
   {
     "question": "Según el artículo 33 de la NFGTB, ¿qué constituyen los derechos y garantías de los obligados tributarios?",
@@ -2405,8 +2405,8 @@
       "Los contenidos en la presente Norma Foral y los que resulten de aplicación de entre los reconocidos en la normativa reguladora del procedimiento económico-administrativo de los obligados tributarios, entre otros",
       "Los contenidos en la normativa de desarrollo reglamentario y los que resulten de aplicación de entre los reconocidos en la normativa reguladora del régimen jurídico de las administraciones públicas, exclusivamente"
     ],
-    "answerIndex": 0,
-    "articulo": "33"
+    "answer": 0,
+    "article": "33"
   },
   {
     "question": "Conforme al artículo 33 de la NFGTB, la enumeración de derechos y garantías de los obligados tributarios se formula con el carácter de:",
@@ -2416,8 +2416,8 @@
       "Una relación cerrada que solo admite los reconocidos en la normativa del procedimiento administrativo común",
       "Una relación abierta limitada exclusivamente a los derechos del régimen jurídico de las administraciones públicas"
     ],
-    "answerIndex": 1,
-    "articulo": "33"
+    "answer": 1,
+    "article": "33"
   },
   {
     "question": "De acuerdo con el artículo 33 de la NFGTB, además de los contenidos en la propia Norma Foral, también son derechos y garantías de los obligados tributarios los que resulten de aplicación de entre los reconocidos en:",
@@ -2427,8 +2427,8 @@
       "La normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento administrativo común",
       "La normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento económico-administrativo común"
     ],
-    "answerIndex": 2,
-    "articulo": "33"
+    "answer": 2,
+    "article": "33"
   },
   {
     "question": "Según el artículo 34, ¿quiénes son obligados tributarios?",
@@ -2438,8 +2438,8 @@
       "Las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de prestaciones patrimoniales, bien sean éstas materiales o formales",
       "Las personas físicas o jurídicas y los responsables a los que la normativa tributaria impone el cumplimiento de obligaciones tributarias, bien sean éstas materiales o formales"
     ],
-    "answerIndex": 0,
-    "articulo": "34"
+    "answer": 0,
+    "article": "34"
   },
   {
     "question": "Según el artículo 34, además de aquellos a quienes la normativa tributaria impone el cumplimiento de obligaciones, ¿quiénes tendrán también la consideración de obligados tributarios?",
@@ -2449,8 +2449,8 @@
       "Aquellos a los que se pueda imponer obligaciones tributarias conforme a la normativa sobre sucesión de empresas",
       "Aquellos a los que se pueda imponer obligaciones tributarias conforme a la normativa sobre patrimonios separados"
     ],
-    "answerIndex": 1,
-    "articulo": "34"
+    "answer": 1,
+    "article": "34"
   },
   {
     "question": "Conforme al apartado 2 del artículo 34, ¿cuál de los siguientes figura expresamente en la enumeración de obligados tributarios?",
@@ -2460,8 +2460,8 @@
       "Los obligados en las obligaciones entre particulares resultantes del tributo",
       "Los obligados a expedir y entregar factura"
     ],
-    "answerIndex": 2,
-    "articulo": "34"
+    "answer": 2,
+    "article": "34"
   },
   {
     "question": "Según el apartado 2 del artículo 34, ¿en qué condición son obligados tributarios los beneficiarios de supuestos de exención, devolución o bonificaciones tributarias?",
@@ -2471,8 +2471,8 @@
       "Cuando no tengan la condición de responsables",
       "Cuando no tengan la condición de obligados a realizar pagos a cuenta"
     ],
-    "answerIndex": 0,
-    "articulo": "34"
+    "answer": 0,
+    "article": "34"
   },
   {
     "question": "Según el apartado 3 del artículo 34, las herencias yacentes, comunidades de bienes y demás entidades carentes de personalidad jurídica tendrán la consideración de obligados tributarios cuando constituyan:",
@@ -2482,8 +2482,8 @@
       "Una unidad económica o un patrimonio separado susceptibles de imposición",
       "Una unidad económica o un patrimonio afecto susceptibles de imposición"
     ],
-    "answerIndex": 2,
-    "articulo": "34"
+    "answer": 2,
+    "article": "34"
   },
   {
     "question": "Conforme al apartado 3 del artículo 34, ¿en qué condición tendrán la consideración de obligados tributarios las herencias yacentes y comunidades de bienes carentes de personalidad jurídica?",
@@ -2493,8 +2493,8 @@
       "Cuando así lo acuerde la Administración tributaria",
       "Cuando no tengan la condición de sujetos pasivos"
     ],
-    "answerIndex": 1,
-    "articulo": "34"
+    "answer": 1,
+    "article": "34"
   },
   {
     "question": "Según el apartado 4 del artículo 34, ¿a quiénes se reconoce también el carácter de obligados tributarios?",
@@ -2504,8 +2504,8 @@
       "A los responsables a los que se refiere el artículo 34 de esta Norma Foral",
       "A los sujetos pasivos a los que se refiere el artículo 40 de esta Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "34"
+    "answer": 1,
+    "article": "34"
   },
   {
     "question": "Según el apartado 5 del artículo 34, ¿qué efecto produce la concurrencia de varios obligados tributarios en un mismo presupuesto de una obligación?",
@@ -2515,8 +2515,8 @@
       "Determinará que queden solidariamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, salvo que por Norma Foral se disponga expresamente otra cosa",
       "Determinará que queden solidariamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, salvo que reglamentariamente se disponga expresamente otra cosa"
     ],
-    "answerIndex": 2,
-    "articulo": "34"
+    "answer": 2,
+    "article": "34"
   },
   {
     "question": "Conforme al apartado 5 del artículo 34, ¿mediante qué instrumento se podrán establecer otros supuestos de solidaridad distintos del previsto para la concurrencia de obligados?",
@@ -2526,8 +2526,8 @@
       "Por la normativa sobre asistencia mutua",
       "Por acuerdo de la Administración tributaria"
     ],
-    "answerIndex": 0,
-    "articulo": "34"
+    "answer": 0,
+    "article": "34"
   },
   {
     "question": "Según el apartado 1 del artículo 35, ¿qué obligaciones debe cumplir el sujeto pasivo?",
@@ -2537,8 +2537,8 @@
       "La obligación tributaria accesoria, así como las obligaciones formales inherentes a la misma, sea como contribuyente o como sustituto del mismo.",
       "La obligación tributaria principal, así como las obligaciones formales inherentes a la misma, exclusivamente como contribuyente del tributo."
     ],
-    "answerIndex": 0,
-    "articulo": "35"
+    "answer": 0,
+    "article": "35"
   },
   {
     "question": "Conforme al apartado 1 del artículo 35, ¿en qué supuesto puede quien deba repercutir la cuota tributaria a otros obligados perder la condición de sujeto pasivo?",
@@ -2548,8 +2548,8 @@
       "Cuando el contribuyente asuma de forma voluntaria dicha obligación.",
       "Cuando reglamentariamente se determine en los supuestos tasados."
     ],
-    "answerIndex": 1,
-    "articulo": "35"
+    "answer": 1,
+    "article": "35"
   },
   {
     "question": "De acuerdo con el apartado 1 del artículo 35, la condición de sujeto pasivo, respecto de quien deba repercutir la cuota tributaria a otros obligados...",
@@ -2559,8 +2559,8 @@
       "No se pierde, salvo que la Norma Foral de cada tributo establezca otra cosa.",
       "No se pierde, salvo que reglamentariamente se establezca otra cosa."
     ],
-    "answerIndex": 2,
-    "articulo": "35"
+    "answer": 2,
+    "article": "35"
   },
   {
     "question": "Según el apartado 2 del artículo 35, ¿quién es el contribuyente?",
@@ -2570,8 +2570,8 @@
       "El obligado tributario que debe repercutir la cuota tributaria a otros obligados.",
       "El sujeto pasivo que, en lugar de aquél, cumple las obligaciones formales inherentes."
     ],
-    "answerIndex": 1,
-    "articulo": "35"
+    "answer": 1,
+    "article": "35"
   },
   {
     "question": "Conforme al apartado 3 del artículo 35, ¿quién es el sustituto del contribuyente?",
@@ -2581,8 +2581,8 @@
       "El sujeto pasivo que, por imposición establecida por Norma Foral y en lugar de aquél, está obligado a cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.",
       "El sujeto pasivo que, por imposición establecida por Norma Foral y junto a aquél, está obligado a cumplir la obligación tributaria principal, así como las obligaciones materiales inherentes a la misma."
     ],
-    "answerIndex": 2,
-    "articulo": "35"
+    "answer": 2,
+    "article": "35"
   },
   {
     "question": "Según el apartado 3 del artículo 35, el sustituto está obligado a cumplir sus obligaciones por imposición establecida por...",
@@ -2592,8 +2592,8 @@
       "Orden Foral.",
       "Decreto Foral."
     ],
-    "answerIndex": 0,
-    "articulo": "35"
+    "answer": 0,
+    "article": "35"
   },
   {
     "question": "De acuerdo con el apartado 3 del artículo 35, ¿qué puede exigir el sustituto del contribuyente?",
@@ -2603,8 +2603,8 @@
       "El importe de las obligaciones tributarias satisfechas, salvo que por Norma Foral se establezca otra cosa.",
       "El importe de las obligaciones tributarias satisfechas, salvo que la Diputación Foral establezca otra cosa."
     ],
-    "answerIndex": 2,
-    "articulo": "35"
+    "answer": 2,
+    "article": "35"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, ¿quién es obligado a realizar pagos fraccionados?",
@@ -2614,8 +2614,8 @@
       "El contribuyente a quien la Administración tributaria impone la obligación de ingresar cantidades a cuenta de la obligación tributaria principal, con anterioridad a que ésta resulte exigible.",
       "El contribuyente a quien la Norma Foral de cada tributo impone la obligación de detraer cantidades a cuenta de la obligación tributaria principal, con anterioridad a que ésta resulte exigible."
     ],
-    "answerIndex": 0,
-    "articulo": "36"
+    "answer": 0,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, el contribuyente obligado a realizar pagos fraccionados debe ingresar cantidades a cuenta de la obligación tributaria principal, ¿con qué momento temporal en relación con su exigibilidad?",
@@ -2625,8 +2625,8 @@
       "Con ocasión de los pagos que deba realizar a otros.",
       "En el momento en que ésta resulte exigible."
     ],
-    "answerIndex": 1,
-    "articulo": "36"
+    "answer": 1,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, ¿quién es retenedor?",
@@ -2636,8 +2636,8 @@
       "La persona o entidad a quien la Norma Foral de cada tributo impone la obligación de satisfacer e ingresar en la Administración tributaria una parte del importe de los pagos.",
       "La persona o entidad a quien la Administración tributaria impone la obligación de detraer e ingresar una parte del importe de los pagos."
     ],
-    "answerIndex": 1,
-    "articulo": "36"
+    "answer": 1,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, ¿con ocasión de qué surge para el retenedor la obligación de detraer e ingresar una parte del importe?",
@@ -2647,8 +2647,8 @@
       "Con ocasión de los ingresos a cuenta que deba practicar a otros obligados tributarios.",
       "Con ocasión de los pagos fraccionados que deba realizar a la Administración tributaria."
     ],
-    "answerIndex": 0,
-    "articulo": "36"
+    "answer": 0,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, la parte del importe que el retenedor detrae e ingresa lo es a cuenta de:",
@@ -2658,8 +2658,8 @@
       "El tributo que corresponda a los otros obligados tributarios.",
       "El tributo que corresponda a la Administración tributaria."
     ],
-    "answerIndex": 2,
-    "articulo": "36"
+    "answer": 2,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, ¿quién es obligado a practicar ingresos a cuenta?",
@@ -2669,8 +2669,8 @@
       "La persona o entidad que satisface rentas en especie o dinerarias y a quien por Norma Foral se impone la obligación de realizar ingresos a cuenta de cualquier tributo.",
       "La persona o entidad que satisface rentas en especie o dinerarias y a quien por Norma Foral se impone la obligación de detraer ingresos a cuenta de cualquier tributo."
     ],
-    "answerIndex": 2,
-    "articulo": "36"
+    "answer": 2,
+    "article": "36"
   },
   {
     "question": "Según el artículo 36 de la NFGTB, ¿qué tipo de rentas satisface el obligado a practicar ingresos a cuenta?",
@@ -2680,8 +2680,8 @@
       "Rentas en especie o a cuenta.",
       "Rentas fraccionadas o dinerarias."
     ],
-    "answerIndex": 1,
-    "articulo": "36"
+    "answer": 1,
+    "article": "36"
   },
   {
     "question": "Según el artículo 37 de la NFGTB, ¿quién es el obligado a repercutir?",
@@ -2691,8 +2691,8 @@
       "La persona o entidad que, conforme a lo previsto por Norma Foral, debe practicar retenciones tributarias a otras personas o entidades.",
       "La persona o entidad que, conforme a lo previsto por Norma Foral, debe satisfacer los ingresos a cuenta de otras personas o entidades."
     ],
-    "answerIndex": 0,
-    "articulo": "37"
+    "answer": 0,
+    "article": "37"
   },
   {
     "question": "Conforme al apartado 1 del artículo 37 de la NFGTB, salvo que la Norma Foral disponga otra cosa, el obligado a repercutir coincidirá con:",
@@ -2702,8 +2702,8 @@
       "La persona perceptora de las cantidades gravadas.",
       "El pagador de las rentas en especie gravadas."
     ],
-    "answerIndex": 1,
-    "articulo": "37"
+    "answer": 1,
+    "article": "37"
   },
   {
     "question": "Según el apartado 2 del artículo 37 de la NFGTB, ¿quién es el obligado a soportar la repercusión?",
@@ -2713,8 +2713,8 @@
       "La persona o entidad a quien, según lo previsto por Norma Foral, se debe repercutir la cuota tributaria.",
       "La persona o entidad que, según lo previsto por Norma Foral, realiza las operaciones gravadas y la cuota tributaria."
     ],
-    "answerIndex": 2,
-    "articulo": "37"
+    "answer": 2,
+    "article": "37"
   },
   {
     "question": "De acuerdo con el apartado 2 del artículo 37 de la NFGTB, salvo que la Norma Foral disponga otra cosa, el obligado a soportar la repercusión coincidirá con:",
@@ -2724,8 +2724,8 @@
       "El pagador de las operaciones gravadas.",
       "El retenedor de las operaciones gravadas."
     ],
-    "answerIndex": 0,
-    "articulo": "37"
+    "answer": 0,
+    "article": "37"
   },
   {
     "question": "Según el apartado 2 del artículo 37 de la NFGTB, en relación con el repercutido, es correcto afirmar que:",
@@ -2735,8 +2735,8 @@
       "No está obligado al pago frente al sujeto pasivo pero debe satisfacer a la Administración tributaria el importe de la cuota repercutida.",
       "Está obligado al pago frente a la Administración tributaria y debe satisfacer al sujeto pasivo el importe de la cuota repercutida."
     ],
-    "answerIndex": 1,
-    "articulo": "37"
+    "answer": 1,
+    "article": "37"
   },
   {
     "question": "Conforme al apartado 3 del artículo 37 de la NFGTB, ¿quién es el obligado a soportar la retención?",
@@ -2746,8 +2746,8 @@
       "La persona o entidad perceptora de las cantidades sobre las que, según lo previsto por Norma Foral, el retenedor debe practicar retenciones tributarias.",
       "La persona o entidad pagadora de las cantidades sobre las que, según lo previsto por Norma Foral, el retenedor debe practicar retenciones tributarias."
     ],
-    "answerIndex": 2,
-    "articulo": "37"
+    "answer": 2,
+    "article": "37"
   },
   {
     "question": "Según el apartado 4 del artículo 37 de la NFGTB, ¿qué obligación se podrá imponer por Norma Foral a las personas o entidades?",
@@ -2757,8 +2757,8 @@
       "La obligación de repercutir los ingresos a cuenta de cualquier tributo practicados con ocasión de las rentas en especie o dinerarias que perciban.",
       "La obligación de retener los ingresos a cuenta de cualquier tributo practicados con ocasión de las rentas en especie o dinerarias que perciban."
     ],
-    "answerIndex": 1,
-    "articulo": "37"
+    "answer": 1,
+    "article": "37"
   },
   {
     "question": "De acuerdo con el apartado 4 del artículo 37 de la NFGTB, los ingresos a cuenta cuyo soporte puede imponerse se practican con ocasión de:",
@@ -2768,8 +2768,8 @@
       "Las rentas en especie o dinerarias que perciban y, en su caso, la repercusión de su importe por el pagador de dichas rentas.",
       "Las retenciones en especie o dinerarias que perciban y, en su caso, la repercusión de su importe por el perceptor de dichas rentas."
     ],
-    "answerIndex": 2,
-    "articulo": "37"
+    "answer": 2,
+    "article": "37"
   },
   {
     "question": "Según el artículo 38, a la muerte de los obligados tributarios, ¿a quién se transmitirán las obligaciones tributarias pendientes?",
@@ -2779,8 +2779,8 @@
       "Al administrador de la herencia, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia.",
       "A los responsables solidarios, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia."
     ],
-    "answerIndex": 0,
-    "articulo": "38"
+    "answer": 0,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, la limitación de responsabilidad a la que se refiere la transmisión de obligaciones a los herederos viene establecida en:",
@@ -2790,8 +2790,8 @@
       "El artículo 21 de la Ley 5/2015, de 25 de junio, de Derecho Civil Vasco.",
       "El artículo 38 de la Ley 5/2015, de 25 de junio, de Derecho Civil Vasco."
     ],
-    "answerIndex": 2,
-    "articulo": "38"
+    "answer": 2,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, las obligaciones tributarias se transmitirán a los legatarios en las mismas condiciones que las establecidas para los herederos:",
@@ -2801,8 +2801,8 @@
       "Cuando la herencia se distribuya a través de herederos y en los supuestos en que se instituyan legados de parte alícuota.",
       "Cuando la herencia se distribuya a través de legados y en los supuestos en que se instituyan legados de bienes inmuebles."
     ],
-    "answerIndex": 1,
-    "articulo": "38"
+    "answer": 1,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, en relación con la transmisión de obligaciones a los sucesores de personas físicas, ¿qué afirmación es correcta?",
@@ -2812,8 +2812,8 @@
       "En ningún caso se transmitirán las sanciones.",
       "En ningún caso se transmitirán las obligaciones tributarias a los legatarios de parte alícuota."
     ],
-    "answerIndex": 2,
-    "articulo": "38"
+    "answer": 2,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, ¿en qué supuesto se transmitirá a los sucesores la obligación del responsable?",
@@ -2823,8 +2823,8 @@
       "Cuando se hubiera notificado el acuerdo de derivación de responsabilidad después del fallecimiento.",
       "Cuando se hubiera instituido el legado de parte alícuota antes del fallecimiento."
     ],
-    "answerIndex": 0,
-    "articulo": "38"
+    "answer": 0,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, el hecho de que a la fecha de la muerte del causante la deuda tributaria no estuviera liquidada:",
@@ -2834,8 +2834,8 @@
       "No impedirá la transmisión a los sucesores únicamente de las sanciones devengadas.",
       "No impedirá la transmisión a los legatarios de parte alícuota de las obligaciones devengadas."
     ],
-    "answerIndex": 1,
-    "articulo": "38"
+    "answer": 1,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, cuando a la fecha de la muerte del causante la deuda tributaria no estuviera liquidada, ¿con quién se entenderán las actuaciones?",
@@ -2845,8 +2845,8 @@
       "Con el administrador de la herencia, debiéndose notificar la liquidación a todos los interesados que consten en el expediente.",
       "Con cualquiera de los sucesores, debiéndose notificar la liquidación únicamente al representante de la herencia."
     ],
-    "answerIndex": 1,
-    "articulo": "38"
+    "answer": 1,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, mientras la herencia se encuentre yacente, ¿a quién corresponderá el cumplimiento de las obligaciones tributarias del causante?",
@@ -2856,8 +2856,8 @@
       "Al representante de la misma.",
       "A los legatarios de parte alícuota."
     ],
-    "answerIndex": 2,
-    "articulo": "38"
+    "answer": 2,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, las actuaciones administrativas que tengan por objeto la cuantificación, determinación y liquidación de las obligaciones tributarias del causante deberán realizarse o continuarse con:",
@@ -2867,8 +2867,8 @@
       "Cualquiera de los sucesores del causante.",
       "Los legatarios de parte alícuota."
     ],
-    "answerIndex": 0,
-    "articulo": "38"
+    "answer": 0,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, si al término del procedimiento no se conocieran los herederos, ¿cómo se realizarán las liquidaciones?",
@@ -2878,8 +2878,8 @@
       "A nombre del administrador de la herencia.",
       "A nombre de los legatarios de parte alícuota."
     ],
-    "answerIndex": 1,
-    "articulo": "38"
+    "answer": 1,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, en el supuesto de la herencia que se encuentre pendiente del ejercicio de un poder testatorio, ¿a quién corresponderá el cumplimiento de las obligaciones tributarias materiales y formales?",
@@ -2889,8 +2889,8 @@
       "Al administrador de la misma.",
       "A los herederos de la misma."
     ],
-    "answerIndex": 2,
-    "articulo": "38"
+    "answer": 2,
+    "article": "38"
   },
   {
     "question": "Según el artículo 38, en el supuesto de la herencia que se encuentre pendiente del ejercicio de un poder testatorio, ¿qué obligaciones corresponden al administrador de la misma?",
@@ -2900,8 +2900,8 @@
       "El cumplimiento de las obligaciones tributarias materiales y formales.",
       "El cumplimiento de las obligaciones tributarias liquidadas y pendientes."
     ],
-    "answerIndex": 2,
-    "articulo": "38"
+    "answer": 2,
+    "article": "38"
   },
   {
     "question": "Según el apartado 1, las obligaciones tributarias pendientes de las sociedades y entidades con personalidad jurídica disueltas y liquidadas en las que la Ley limita la responsabilidad patrimonial de los socios, partícipes o cotitulares se transmitirán a éstos, que quedarán obligados solidariamente:",
@@ -2911,8 +2911,8 @@
       "Hasta el límite del valor de la cuota de liquidación que les corresponda y demás percepciones patrimoniales recibidas por los mismos en los cuatro años anteriores a la fecha de disolución o a la fecha de declaración de concurso si esta fuera anterior, que incrementen el patrimonio social que debiera responder de tales obligaciones.",
       "Hasta el límite del valor de la cuota de liquidación que les corresponda y demás percepciones patrimoniales recibidas por los mismos en los dos años anteriores a la fecha de disolución o a la fecha de declaración de concurso si esta fuera anterior, que minoren el patrimonio social que debiera responder de tales obligaciones."
     ],
-    "answerIndex": 0,
-    "articulo": "39"
+    "answer": 0,
+    "article": "39"
   },
   {
     "question": "Según el apartado 1, cuando se trata de sociedades y entidades con personalidad jurídica disueltas y liquidadas en las que la legislación NO limita la responsabilidad patrimonial de los socios, partícipes o cotitulares, las obligaciones tributarias pendientes:",
@@ -2922,8 +2922,8 @@
       "Se transmitirán íntegramente a éstos, que quedarán obligados subsidiariamente a su cumplimiento.",
       "Se transmitirán a las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación."
     ],
-    "answerIndex": 1,
-    "articulo": "39"
+    "answer": 1,
+    "article": "39"
   },
   {
     "question": "Conforme al apartado 2, en los supuestos de extinción o disolución sin liquidación de sociedades y entidades con personalidad jurídica, las obligaciones tributarias pendientes de las mismas se transmitirán a:",
@@ -2933,8 +2933,8 @@
       "Las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación.",
       "Los partícipes o cotitulares de las mismas, que responderán hasta el límite del valor de la cuota de liquidación."
     ],
-    "answerIndex": 2,
-    "articulo": "39"
+    "answer": 2,
+    "article": "39"
   },
   {
     "question": "Según el apartado 2, la norma sobre transmisión de obligaciones tributarias en los supuestos de extinción o disolución sin liquidación también será aplicable a:",
@@ -2944,8 +2944,8 @@
       "Cualquier supuesto de cesión parcial del activo y pasivo de una sociedad o entidad con personalidad jurídica.",
       "Cualquier supuesto de declaración de concurso de una sociedad o entidad con personalidad jurídica."
     ],
-    "answerIndex": 1,
-    "articulo": "39"
+    "answer": 1,
+    "article": "39"
   },
   {
     "question": "De acuerdo con el apartado 3, en caso de disolución de fundaciones, las obligaciones tributarias pendientes de las mismas se transmitirán a:",
@@ -2955,8 +2955,8 @@
       "Las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación.",
       "Los partícipes o cotitulares que responderán hasta el límite del valor de los mismos."
     ],
-    "answerIndex": 0,
-    "articulo": "39"
+    "answer": 0,
+    "article": "39"
   },
   {
     "question": "Según el apartado 4, en caso de disolución de las entidades a las que se refiere el apartado 3 del artículo 34 de esta Norma Foral, las obligaciones tributarias pendientes se transmitirán:",
@@ -2966,8 +2966,8 @@
       "Íntegramente a los partícipes o cotitulares de las mismas.",
       "Íntegramente a los destinatarios de los bienes y derechos de las mismas."
     ],
-    "answerIndex": 2,
-    "articulo": "39"
+    "answer": 2,
+    "article": "39"
   },
   {
     "question": "Conforme al apartado 4, las obligaciones tributarias pendientes de las herencias bajo «alkar poderoso» o pendientes del ejercicio de un poder testatorio se atribuirán a:",
@@ -2977,8 +2977,8 @@
       "Los destinatarios de los bienes y derechos que responderán hasta el límite del valor de los mismos.",
       "Aquellas personas a las que se haya designado herederos en ejercicio del poder testatorio, exclusivamente por la muerte del causante."
     ],
-    "answerIndex": 0,
-    "articulo": "39"
+    "answer": 0,
+    "article": "39"
   },
   {
     "question": "Según el apartado 5, el hecho de que la deuda tributaria no estuviera liquidada en el momento de producirse la disolución o extinción de la personalidad jurídica de la sociedad o entidad:",
@@ -2988,8 +2988,8 @@
       "No impedirá la transmisión de las obligaciones tributarias devengadas a los sucesores, debiendo entenderse las actuaciones con todos ellos simultáneamente.",
       "No impedirá la transmisión de las sanciones devengadas a los sucesores, pudiéndose entender las actuaciones con cualquiera de ellos."
     ],
-    "answerIndex": 1,
-    "articulo": "39"
+    "answer": 1,
+    "article": "39"
   },
   {
     "question": "De acuerdo con el apartado 5, cuando las actuaciones se entiendan con cualquiera de los sucesores, las liquidaciones que resulten de dichas actuaciones deberán notificarse a:",
@@ -2999,8 +2999,8 @@
       "Todos los interesados que consten en el expediente.",
       "Los destinatarios de los bienes y derechos que consten en el expediente."
     ],
-    "answerIndex": 2,
-    "articulo": "39"
+    "answer": 2,
+    "article": "39"
   },
   {
     "question": "Según el apartado 6, las sanciones que pudieran proceder por las infracciones cometidas por las sociedades y entidades a las que se refiere este artículo:",
@@ -3010,8 +3010,8 @@
       "Serán exigibles a los sucesores de las mismas, en los términos establecidos en los apartados anteriores.",
       "Serán exigibles a los sucesores de las mismas, hasta el límite del valor de la cuota de liquidación."
     ],
-    "answerIndex": 2,
-    "articulo": "39"
+    "answer": 2,
+    "article": "39"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿mediante qué instrumento se podrá configurar como responsables solidarios o subsidiarios de la deuda tributaria a otras personas o entidades junto a los deudores principales?",
@@ -3021,8 +3021,8 @@
       "Por precepto legal expreso del deudor principal",
       "Por la legislación civil aplicable"
     ],
-    "answerIndex": 0,
-    "articulo": "40"
+    "answer": 0,
+    "article": "40"
   },
   {
     "question": "A efectos de la responsabilidad tributaria, ¿quiénes se consideran deudores principales conforme al artículo 40 de la NFGTB?",
@@ -3032,8 +3032,8 @@
       "Los obligados tributarios del apartado 5 del artículo 41 de esta Norma Foral",
       "Las personas o entidades configuradas por Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "Salvo precepto legal expreso en contrario, conforme al artículo 40 de la NFGTB, ¿de qué tipo será siempre la responsabilidad tributaria?",
@@ -3043,8 +3043,8 @@
       "Mancomunada",
       "Voluntaria"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿hasta dónde alcanzará la responsabilidad respecto de la deuda tributaria?",
@@ -3054,8 +3054,8 @@
       "A la totalidad de la deuda tributaria y de las sanciones",
       "A la parte de la deuda tributaria que no alcance a las sanciones"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "Conforme al artículo 40 de la NFGTB, cuando haya transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso, ¿qué consecuencia se produce?",
@@ -3065,8 +3065,8 @@
       "Se declarará fallido al responsable y se exigirán los recargos correspondientes",
       "Se dictará la liquidación administrativa y se exigirán los intereses que procedan"
     ],
-    "answerIndex": 0,
-    "articulo": "40"
+    "answer": 0,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿qué se establece con carácter general respecto del alcance de la responsabilidad sobre las sanciones?",
@@ -3076,8 +3076,8 @@
       "Alcanzará siempre a las sanciones en período voluntario de pago",
       "No alcanzará a las sanciones, salvo en los supuestos del artículo 41.5 de esta Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "En los supuestos en que la responsabilidad alcance a las sanciones y el deudor principal hubiera tenido derecho a la reducción del artículo 192.1 a), ¿cuál será la deuda derivada según el artículo 40 de la NFGTB?",
@@ -3087,8 +3087,8 @@
       "El importe que proceda sin aplicar la reducción correspondiente, en su caso, al deudor principal, dándose trámite de conformidad al responsable en la propuesta de declaración de responsabilidad",
       "El importe que proceda exigiendo sin más trámite la reducción obtenida por el deudor principal y los recargos"
     ],
-    "answerIndex": 2,
-    "articulo": "40"
+    "answer": 2,
+    "article": "40"
   },
   {
     "question": "Conforme al artículo 40 de la NFGTB, ¿cuál será la reducción por conformidad aplicable al responsable?",
@@ -3098,8 +3098,8 @@
       "La prevista en el artículo 192.1 a) de esta Norma Foral",
       "La prevista en el artículo 179 de esta Norma Foral"
     ],
-    "answerIndex": 2,
-    "articulo": "40"
+    "answer": 2,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿en qué casos se exigirá sin más trámite al responsable la reducción obtenida por él?",
@@ -3109,8 +3109,8 @@
       "Cuando transcurra el plazo voluntario de pago sin realizar el ingreso, fundado en la procedencia de la derivación o en las sanciones derivadas, así como cuando se exijan los recargos e intereses del artículo 192.2 a)",
       "Cuando ejerza el derecho de reembolso frente al deudor principal, fundado en la procedencia de la derivación o en las liquidaciones derivadas, así como cuando no se ingresen las cantidades del artículo 41.5"
     ],
-    "answerIndex": 0,
-    "articulo": "40"
+    "answer": 0,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿a qué supuestos no será aplicable la reducción prevista en el apartado 4?",
@@ -3120,8 +3120,8 @@
       "A los supuestos de liquidaciones administrativas del artículo 179 de esta Norma Foral",
       "A los supuestos de derivación de la acción administrativa de los artículos 180 y 181 de esta Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "Salvo que mediante Norma Foral se disponga otra cosa, ¿qué requerirá la declaración de responsabilidad según el artículo 40 de la NFGTB?",
@@ -3131,8 +3131,8 @@
       "La previa declaración de fallido del deudor principal conforme al artículo 179 de esta Norma Foral",
       "Un trámite de conformidad del responsable conforme a los artículos 180 y 181 de esta Norma Foral"
     ],
-    "answerIndex": 0,
-    "articulo": "40"
+    "answer": 0,
+    "article": "40"
   },
   {
     "question": "En el supuesto de liquidaciones administrativas, si la declaración de responsabilidad se efectúa con anterioridad al vencimiento del período voluntario de pago, ¿a quién corresponde la competencia para dictar dicho acto administrativo, según el artículo 40 de la NFGTB?",
@@ -3142,8 +3142,8 @@
       "Al Diputado Foral de Hacienda y Finanzas",
       "Al órgano competente para declarar fallido al deudor principal"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "En el supuesto de liquidaciones administrativas, en los casos en que la declaración de responsabilidad no se efectúa con anterioridad al vencimiento del período voluntario de pago, ¿a quién corresponde la competencia para dictar el acto administrativo, según el artículo 40 de la NFGTB?",
@@ -3153,8 +3153,8 @@
       "Al órgano de recaudación",
       "Al órgano competente conforme al procedimiento del artículo 179"
     ],
-    "answerIndex": 2,
-    "articulo": "40"
+    "answer": 2,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿de acuerdo con qué se efectuará la derivación de la acción administrativa para exigir el pago de la deuda tributaria y, en su caso, de las sanciones a los responsables?",
@@ -3164,8 +3164,8 @@
       "Con lo dispuesto en el apartado 2 del artículo 34 de esta Norma Foral",
       "Con lo dispuesto en el artículo 192.1 a) de esta Norma Foral"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   },
   {
     "question": "En el caso de responsabilidad subsidiaria, ¿qué requerirá la derivación de la acción administrativa según el artículo 40 de la NFGTB?",
@@ -3175,8 +3175,8 @@
       "El previo trámite de conformidad del deudor principal y de los responsables solidarios",
       "El previo inicio del período ejecutivo frente al deudor principal y los responsables solidarios"
     ],
-    "answerIndex": 0,
-    "articulo": "40"
+    "answer": 0,
+    "article": "40"
   },
   {
     "question": "Según el artículo 40 de la NFGTB, ¿qué derecho tienen los responsables frente al deudor principal y conforme a qué legislación?",
@@ -3186,7 +3186,7 @@
       "Derecho de conformidad, en los términos previstos en la legislación civil",
       "Derecho de reembolso, en los términos previstos en la legislación administrativa"
     ],
-    "answerIndex": 1,
-    "articulo": "40"
+    "answer": 1,
+    "article": "40"
   }
 ]
