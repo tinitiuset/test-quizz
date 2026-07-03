@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 void main() {
   runApp(const PreguntasApp());
@@ -39,6 +40,7 @@ class Question {
 
 const _answersPrefKey = 'answers';
 const _currentIndexPrefKey = 'current_index';
+const _reportEmail = 'preguntas@ainz.eus';
 
 class QuizScreen extends StatefulWidget {
   const QuizScreen({super.key});
@@ -140,6 +142,22 @@ class _QuizScreenState extends State<QuizScreen> {
     Navigator.pop(context);
   }
 
+  Future<void> _reportQuestion() async {
+    final question = _questions[_currentIndex];
+    final options = question.options.asMap().entries.map((e) => '- ${e.value}').join('\n');
+    final uri = Uri(
+      scheme: 'mailto',
+      path: _reportEmail,
+      query: [
+        'subject=${Uri.encodeComponent('Reporte pregunta ${_currentIndex + 1}')}',
+        'body=${Uri.encodeComponent(
+          'Pregunta ${_currentIndex + 1}:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
+        )}',
+      ].join('&'),
+    );
+    await launchUrl(uri);
+  }
+
   void _showResults() {
     final answered = _answers.where((a) => a != null).length;
     var correct = 0;
@@ -182,6 +200,11 @@ class _QuizScreenState extends State<QuizScreen> {
       appBar: AppBar(
         title: Text('Pregunta ${_currentIndex + 1} / ${_questions.length}'),
         actions: [
+          IconButton(
+            icon: const Icon(Icons.flag_outlined),
+            tooltip: 'Reportar pregunta',
+            onPressed: _reportQuestion,
+          ),
           IconButton(
             icon: const Icon(Icons.numbers),
             tooltip: 'Ir a pregunta',
