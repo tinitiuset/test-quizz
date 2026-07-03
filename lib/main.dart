@@ -26,14 +26,21 @@ class Question {
   final String question;
   final List<String> options;
   final int answerIndex;
+  final String? articulo;
 
-  Question({required this.question, required this.options, required this.answerIndex});
+  Question({
+    required this.question,
+    required this.options,
+    required this.answerIndex,
+    this.articulo,
+  });
 
   factory Question.fromJson(Map<String, dynamic> json) {
     return Question(
       question: json['question'] as String,
       options: List<String>.from(json['options'] as List),
       answerIndex: json['answerIndex'] as int,
+      articulo: json['articulo'] as String?,
     );
   }
 }
@@ -55,6 +62,7 @@ class _QuizScreenState extends State<QuizScreen> {
   int _currentIndex = 0;
   bool _loading = true;
   SharedPreferences? _prefs;
+  final Map<String, String> _articuloTextCache = {};
 
   @override
   void initState() {
@@ -85,6 +93,23 @@ class _QuizScreenState extends State<QuizScreen> {
       _prefs = prefs;
       _loading = false;
     });
+    _maybeLoadArticuloForCurrent();
+  }
+
+  Future<void> _maybeLoadArticuloForCurrent() async {
+    if (_currentIndex >= _questions.length) return;
+    if (_answers[_currentIndex] == null) return;
+    final articulo = _questions[_currentIndex].articulo;
+    if (articulo == null || _articuloTextCache.containsKey(articulo)) return;
+
+    final padded = articulo.padLeft(3, '0');
+    try {
+      final text = await rootBundle.loadString('assets/articulos/articulo_$padded.txt');
+      if (!mounted) return;
+      setState(() => _articuloTextCache[articulo] = text);
+    } catch (_) {
+      // Article text not available for this reference; the label alone is still shown.
+    }
   }
 
   void _persist() {
@@ -97,12 +122,14 @@ class _QuizScreenState extends State<QuizScreen> {
   void _selectOption(int optionIndex) {
     setState(() => _answers[_currentIndex] = optionIndex);
     _persist();
+    _maybeLoadArticuloForCurrent();
   }
 
   void _goTo(int index) {
     if (index < 0 || index >= _questions.length) return;
     setState(() => _currentIndex = index);
     _persist();
+    _maybeLoadArticuloForCurrent();
   }
 
   void _resetAll() {
@@ -145,13 +172,14 @@ class _QuizScreenState extends State<QuizScreen> {
   Future<void> _reportQuestion() async {
     final question = _questions[_currentIndex];
     final options = question.options.asMap().entries.map((e) => '- ${e.value}').join('\n');
+    final articuloLine = question.articulo != null ? ' (Artículo ${question.articulo})' : '';
     final uri = Uri(
       scheme: 'mailto',
       path: _reportEmail,
       query: [
         'subject=${Uri.encodeComponent('Reporte pregunta ${_currentIndex + 1}')}',
         'body=${Uri.encodeComponent(
-          'Pregunta ${_currentIndex + 1}:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
+          'Pregunta ${_currentIndex + 1}$articuloLine:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
         )}',
       ].join('&'),
     );
@@ -183,6 +211,24 @@ class _QuizScreenState extends State<QuizScreen> {
           ),
           FilledButton(onPressed: () => Navigator.pop(context), child: const Text('Cerrar')),
         ],
+      ),
+    );
+  }
+
+  Widget _buildArticuloText(BuildContext context, String articulo) {
+    final text = _articuloTextCache[articulo];
+    return Card(
+      color: Theme.of(context).colorScheme.surfaceContainerHighest,
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: text == null
+            ? const Center(
+                child: Padding(
+                  padding: EdgeInsets.all(8),
+                  child: CircularProgressIndicator(),
+                ),
+              )
+            : Text(text),
       ),
     );
   }
@@ -225,6 +271,15 @@ class _QuizScreenState extends State<QuizScreen> {
             Expanded(
               child: ListView(
                 children: [
+                  if (question.articulo != null) ...[
+                    Text(
+                      'Artículo ${question.articulo}',
+                      style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                        color: Theme.of(context).colorScheme.primary,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                  ],
                   Text(question.question, style: Theme.of(context).textTheme.titleLarge),
                   const SizedBox(height: 24),
                   ...List.generate(question.options.length, (index) {
@@ -247,6 +302,10 @@ class _QuizScreenState extends State<QuizScreen> {
                       ),
                     );
                   }),
+                  if (selected != null && question.articulo != null) ...[
+                    const SizedBox(height: 8),
+                    _buildArticuloText(context, question.articulo!),
+                  ],
                 ],
               ),
             ),
