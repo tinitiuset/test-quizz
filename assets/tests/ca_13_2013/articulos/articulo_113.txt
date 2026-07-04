@@ -1,0 +1,157 @@
+Artículo 113. Obligaciones formales de los contribuyentes.
+1. Los contribuyentes estarán obligados a conservar, durante el plazo de prescripción y
+caducidad, los justificantes y documentos acreditativos de las operaciones, rentas, gastos,
+ingresos, reducciones y deducciones de cualquier tipo que deban constar en sus
+autoliquidaciones.
+
+2. Reglamentariamente podrán establecerse procedimientos o sistemas de control en relación
+con las facturas que están obligados a expedir los contribuyentes que realicen actividades
+económicas.
+3. Reglamentariamente podrán establecerse obligaciones específicas de información de
+carácter patrimonial, simultáneas a la presentación de la autoliquidación de este impuesto,
+destinadas al control de las rentas o de la utilización de determinados bienes y derechos de
+los contribuyentes.
+4. Los contribuyentes de este Impuesto que sean titulares del patrimonio protegido regulado
+en la Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con
+discapacidad y de modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la
+Normativa Tributaria con esta finalidad, deberán presentar una declaración en la que se
+indique la composición del patrimonio, las aportaciones recibidas y las disposiciones
+realizadas durante el período impositivo, en los términos que reglamentariamente se
+establezcan.
+
+Artículo 113 bis. Sistema garante de la trazabilidad e inviolabilidad de los registros que
+documenten entregas de bienes y prestaciones de servicios.
+1. Las personas físicas que desarrollen actividades económicas, de acuerdo con lo dispuesto
+en el artículo 24 de esta Norma Foral, con independencia del método de determinación de
+su rendimiento, estarán obligadas a utilizar un sistema informático para garantizar la
+integridad, conservación, trazabilidad e inviolabilidad de los registros que documenten las
+entregas de bienes y prestaciones de servicios realizadas en el desarrollo de la actividad
+económica, que cumpla los requisitos que se enumeran a continuación:
+a) Por las entregas de bienes y prestaciones de servicios deberán generar un fichero
+informático firmado de forma electrónica, en el formato, con el contenido y con las
+características que se especifiquen reglamentariamente, y con carácter previo a la
+expedición de la factura u otro documento en soporte electrónico o en soporte papel
+que justifique las operaciones.
+En particular, el fichero informático al que hace referencia esta letra deberá contener la
+identificación de la factura o documento en soporte electrónico o en soporte papel que
+justifique la operación, inmediatamente anterior a aquella o aquel al que hace
+referencia la letra b) siguiente, así como la identificación de la persona o entidad
+desarrolladora del software utilizado.
+b) La factura u otro documento en soporte electrónico o en soporte papel que justifique las
+operaciones deberá incluir un código identificativo del documento y un código “QR”,
+generados de acuerdo con las especificaciones que se establezcan
+reglamentariamente.
+2. Para el cumplimiento de las obligaciones establecidas en el apartado anterior, los y las
+contribuyentes deberán utilizar:
+a) La aplicación informática que la Diputación Foral de Bizkaia ponga a su disposición,
+con las condiciones y límites que se establezcan reglamentariamente.
+b) Un software que se encuentre inscrito en el registro que se constituya a estos efectos,
+que deberá haber sido desarrollado por una persona o entidad que se encuentre
+asimismo inscrita en dicho registro y que haya suscrito una declaración responsable.
+La inscripción, modificación de la anterior y baja en el registro al que se refiere esta
+letra se producirá en los términos que se dispongan reglamentariamente.
+En los casos en los que sea el propio contribuyente quien desarrolle el software al que
+hace referencia el párrafo anterior será este quien deberá inscribirse en el mencionado
+registro.
+
+3. La misma obligación de utilización de un sistema informático que cumpla los requisitos
+establecidos en el apartado 1 anterior corresponde a las entidades en régimen de
+atribución de rentas y a las herencias que se hallen pendientes del ejercicio de un poder
+testatorio que desarrollen actividades económicas, sin perjuicio de la atribución de
+rendimientos que corresponda efectuar a sus miembros.
+4. Los y las contribuyentes quedarán exonerados del cumplimiento de las obligaciones
+establecidas en el apartado 1 anterior en relación con las operaciones que se determinan a
+continuación:
+a) Aquellas respecto de las que se haya obtenido una autorización de la Administración
+tributaria para la realización de asientos resúmenes en condiciones especiales, cuando
+se aprecie que las prácticas comerciales o administrativas del sector de actividad de
+que se trate, o bien las condiciones técnicas de expedición de las facturas y
+justificantes contables, dificulten la consignación de dichas menciones e información.
+b) Aquellas en las que, de acuerdo con lo dispuesto en el artículo 5 del Reglamento por el
+que se regulan las obligaciones de facturación aprobado por Decreto Foral de la
+Diputación Foral de Bizkaia 4/2013, de 22 de enero, la obligación de expedir factura
+sea cumplida materialmente por el destinatario de la operación, siempre y cuando a
+este último no le sea de aplicación efectiva la normativa tributaria del Territorio
+Histórico de Bizkaia, o la de los Territorios Históricos de Álava o Gipuzkoa, en la
+medida en que tengan establecidas obligaciones similares a aquellas contenidas en el
+apartado 1 de este artículo.
+c) La Dirección General de Hacienda en las condiciones que, en su caso, se determinen
+reglamentariamente, podrá autorizar la exoneración del cumplimiento de las
+obligaciones a que se refiere el presente artículo a las y los contribuyentes que tengan
+previsto cesar en el ejercicio de la o las actividades económicas que vinieran
+realizando en el plazo de tres años a contar desde la fecha en que tenga para los
+mismos carácter obligatorio el cumplimiento de la citada obligación de conformidad con
+lo previsto en los apartados 1 y 2 del artículo 1 de la Norma Foral 08/2023, de 22 de
+noviembre, por la que se aprueban medidas para ordenar la implantación definitiva del
+sistema BATUZ, para la trasposición de la Directiva (UE) 2021/514 del Consejo, de 22
+de marzo de 2021, por la que se modifica la Directiva 2011/16/UE relativa a la
+cooperación administrativa en el ámbito de la fiscalidad y otras modificaciones
+tributarias, y que, dadas las características de la o las actividades económicas que
+vinieran ejerciendo, para el cumplimiento de la mencionada obligación, deban realizar
+inversiones y/o gastos relevantes en la adquisición, instalación e implantación de
+equipos y terminales, con su software y periféricos asociados.
+Esta exoneración requerirá la presentación de una solicitud a la Administración
+tributaria, mediante la cumplimentación del formulario que se ponga a su disposición a
+estos efectos en la sede electrónica de la Diputación Foral de Bizkaia, en el que deberá
+hacerse constar la siguiente información:
+a') Número de identificación fiscal y nombre y apellidos, razón o denominación social
+completa de la persona o entidad que pretende aplicar la exoneración.
+b') Descripción de la o las actividades económicas que viniera ejerciendo.
+c') Fecha prevista de cese en el ejercicio de la o las citadas actividades económicas.
+d') Enumeración de las inversiones y/o gastos en la adquisición, instalación e
+implantación de equipos y terminales, con su software y periféricos asociados, a
+realizar para el cumplimiento de las obligaciones del apartado 1 de este artículo.
+La exoneración prevista en esta letra tendrá una duración de tres años desde la fecha
+a que hace referencia el primer párrafo de la misma, por lo que el transcurso del citado
+plazo sin que se haya producido el cese de la o las actividades de la entidad implicará
+
+que, a partir del vencimiento del mismo, adquiere carácter obligatorio el cumplimiento
+de la obligación exonerada, sin que pueda volver a solicitarse de nuevo esta
+exoneración.
+d) La Dirección General de Hacienda en las condiciones que, en su caso, se determinen
+reglamentariamente, podrá autorizar la exoneración del cumplimiento de las
+obligaciones a que se refiere el presente artículo, así como las obligaciones a que se
+refiere el artículo 114 de esta Norma Foral a las y los contribuyentes que cumplan los
+cuatro requisitos siguientes:
+i) Que los ingresos íntegros derivados de sus actividades económicas no superen la
+cantidad de 2.000 euros anuales.
+
+ii) Que no tengan gastos deducibles para la determinación del rendimiento neto de
+sus actividades económicas.
+
+iii) Que todos los ingresos derivados de sus actividades económicas estén sometidos
+a retención a cuenta de este impuesto.
+iv) Que la totalidad de los ingresos a que se refieren los requisitos i) y iii) anteriores se
+encuentren no sujetos o exentos del Impuesto sobre el Valor Añadido.
+Esta exoneración requerirá la presentación de una solicitud a la Administración
+tributaria, mediante la cumplimentación del formulario que se ponga a su disposición a
+estos efectos en la sede electrónica de la Diputación Foral de Bizkaia, en el que deberá
+hacerse constar el cumplimiento de los requisitos a que hace referencia esta letra d).
+La exoneración prevista en esta letra se mantendrá en vigor en tanto no se renuncie a
+la misma por parte del o la contribuyente y mientras se cumplan los cuatro requisitos
+previstos en la misma. A partir del período impositivo en el que no se cumpla alguno de
+los cuatro requisitos, la exoneración dejará de tener vigencia y no podrá volver a
+solicitarse de nuevo.
+e) Aquellas otras que se determinen de forma reglamentaria.
+5. Sin perjuicio de lo dispuesto en el apartado anterior, los contribuyentes quedarán
+exonerados exclusivamente del cumplimiento de la obligación de generar el código “QR” a
+que se refiere la letra b) del apartado 1 anterior, sin que dicha exoneración afecte al resto
+de obligaciones contenidas en el referido apartado, en relación con las siguientes
+operaciones:
+a) Aquellas cuyo destinatario sea una persona o entidad que lleve a cabo actividades
+empresariales o profesionales actuando en el desarrollo de su actividad económica, o
+una Administración pública, en los términos establecidos en la letra B) del apartado 8
+del artículo 7 de la Norma Foral 7/1994, de 9 de noviembre, del Impuesto sobre el Valor
+Añadido, y que se expidan originalmente en un formato electrónico no legible.
+b) Aquellas otras operaciones que se determinen de forma reglamentaria.
+6. Los y las contribuyentes deberán remitir a la Administración tributaria la información que se
+genere con motivo del cumplimiento de las obligaciones a las que se refiere el apartado 1
+de este artículo, junto con el resto de información exigible, en la forma y plazos que se
+establezcan reglamentariamente.
+7. La Administración tributaria pondrá a disposición de las y de los destinatarios de las
+facturas u otros documentos en soporte electrónico o en soporte papel, la opción de
+verificar, a través de la sede electrónica de la Diputación Foral de Bizkaia, el cumplimiento
+de las obligaciones previstas en el citado apartado 1 por parte de las y de los obligados
+tributarios emisores de dichas facturas o documentos.
+
+Reglamentariamente se desarrollará la forma en que se llevará a cabo dicha verificación.

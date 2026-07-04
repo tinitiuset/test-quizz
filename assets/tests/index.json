@@ -1,14 +1,26 @@
 [
   {
-    "id": "nf-2-2005",
-    "titulo": "General Tributaria del Territorio Histórico de Bizkaia",
-    "descripcion": "NORMA FORAL 2/2005, de 10 de marzo, General Tributaria del Territorio Histórico de Bizkaia (BOB 11 Marzo)",
-    "dir": "assets/tests/nf-2-2005"
-  },
-  {
-    "id": "nf-13-2013",
+    "id": "ca_13_2013",
     "titulo": "Impuesto sobre la Renta de las Personas Físicas",
     "descripcion": "NORMA FORAL 13/2013, de 5 de diciembre, del Impuesto sobre la Renta de las Personas Físicas (BOB 13 Diciembre)",
-    "dir": "assets/tests/nf-13-2013"
+    "dir": "assets/tests/ca_13_2013"
+  },
+  {
+    "id": "ca_2_2005",
+    "titulo": "General Tributaria del Territorio Histórico de Bizkaia",
+    "descripcion": "NORMA FORAL 2/2005, de 10 de marzo, General Tributaria del Territorio Histórico de Bizkaia (BOB 11 Marzo)",
+    "dir": "assets/tests/ca_2_2005"
+  },
+  {
+    "id": "ca_4_2015",
+    "titulo": "Impuesto sobre Sucesiones y Donaciones",
+    "descripcion": "NORMA FORAL 4/2015, de 25 de marzo, del Impuesto sobre Sucesiones y Donaciones (BOB 1 Abril)",
+    "dir": "assets/tests/ca_4_2015"
+  },
+  {
+    "id": "ca_6_2023",
+    "titulo": "Impuesto especial sobre envases de plástico no reutilizables",
+    "descripcion": "NORMA FORAL 6/2023, de 22 de noviembre, del Impuesto especial sobre envases de plástico no reutilizables (BOB 23 Noviembre)",
+    "dir": "assets/tests/ca_6_2023"
   }
 ]
