@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Según el artículo 1 (Naturaleza), ¿cómo se define el Impuesto sobre la Renta de las Personas Físicas?",
+    "options": [
+      "Un tributo de carácter directo y naturaleza personal y subjetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter indirecto y naturaleza personal y subjetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter directo y naturaleza real y objetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter directo y naturaleza personal y subjetiva que grava el patrimonio de las personas físicas."
+    ],
+    "article": "1"
+  },
+  {
+    "question": "Según el artículo 2 (Ámbito de aplicación subjetivo), ¿en qué dos conceptos se aplica esta Norma Foral a los obligados tributarios del Impuesto?",
+    "options": [
+      "A título de contribuyente y a título de obligado a realizar pagos a cuenta.",
+      "A título de contribuyente y a título de responsable solidario.",
+      "A título de sustituto del contribuyente y a título de obligado a realizar pagos a cuenta.",
+      "A título de contribuyente y a título de sucesor de la deuda tributaria."
+    ],
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 2 (Ámbito de aplicación subjetivo), a título de contribuyente, ¿a quién se aplica esta Norma Foral?",
+    "options": [
+      "A las personas físicas que tengan su residencia habitual en Bizkaia.",
+      "A las personas físicas que tengan su residencia habitual en el País Vasco.",
+      "A las personas físicas que tengan su domicilio fiscal en Bizkaia.",
+      "A las personas físicas que tengan su principal centro de intereses en Bizkaia."
+    ],
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 3 (Residencia habitual), ¿cuál es la primera regla para entender que una persona física tiene su residencia habitual en Bizkaia?",
+    "options": [
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, el número de días que permanezca en Bizkaia sea superior al que permanezca en cada uno de los otros dos Territorios Históricos del País Vasco.",
+      "Cuando, permaneciendo en el territorio español un mayor número de días del período impositivo, el número de días que permanezca en Bizkaia sea superior al que permanezca en cada uno de los otros dos Territorios Históricos del País Vasco.",
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, el número de días que permanezca en Bizkaia sea superior al que permanezca en el conjunto de los otros dos Territorios Históricos del País Vasco.",
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, el número de días que permanezca en Bizkaia sea inferior al que permanezca en cada uno de los otros dos Territorios Históricos del País Vasco."
+    ],
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3 (Residencia habitual), cuando la residencia fiscal esté fijada en un país o territorio considerado paraíso fiscal, ¿qué puede exigir la Administración tributaria?",
+    "options": [
+      "Que se pruebe la permanencia en el mismo durante 183 días en el año natural.",
+      "Que se pruebe la permanencia en el mismo durante 90 días en el año natural.",
+      "Que se pruebe la permanencia en el mismo durante 183 días en el período impositivo.",
+      "Que se pruebe la permanencia en el mismo durante más de la mitad del año natural."
+    ],
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3 (Residencia habitual), respecto de los cambios de residencia habitual, ¿qué cambios no producirán efecto?",
+    "options": [
+      "Los que tengan por objeto principal lograr una menor tributación efectiva.",
+      "Los que tengan por objeto principal lograr una mayor tributación efectiva.",
+      "Los que tengan por objeto principal lograr una mayor devolución tributaria.",
+      "Los que tengan por objeto principal eludir una comprobación tributaria."
+    ],
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 4 (Supuestos especiales de obligación de contribuir), ¿a quiénes seguirá siendo de aplicación esta Norma Foral aunque pasen a tener su residencia habitual en el extranjero?",
+    "options": [
+      "A las personas de nacionalidad española, su cónyuge no separado legalmente o hijos menores de edad que hubieran estado sometidos a la normativa tributaria vizcaína de este Impuesto.",
+      "A las personas de cualquier nacionalidad, su cónyuge no separado legalmente o hijos menores de edad que hubieran estado sometidos a la normativa tributaria vizcaína de este Impuesto.",
+      "A las personas de nacionalidad española, su cónyuge no separado legalmente o hijos menores de edad que hubieran estado sometidos a la normativa tributaria común de este Impuesto.",
+      "A las personas de nacionalidad española, su cónyuge no separado legalmente o hijos menores de edad que nunca hubieran estado sometidos a la normativa tributaria vizcaína de este Impuesto."
+    ],
+    "article": "4"
+  },
+  {
+    "question": "Según el artículo 5 (Tratados y convenios), ¿cómo se entenderá lo previsto en esta Norma Foral?",
+    "options": [
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento interno español.",
+      "Con preferencia sobre lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento interno español.",
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento comunitario europeo.",
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales que hayan sido ratificados por el Parlamento Vasco."
+    ],
+    "article": "5"
+  },
+  {
+    "question": "Según el artículo 6 (Hecho imponible), ¿qué constituye el hecho imponible del Impuesto?",
+    "options": [
+      "La obtención de renta por el contribuyente, con independencia del lugar donde se hubiese producido y cualquiera que sea la residencia del pagador.",
+      "La obtención de renta por el contribuyente, con independencia del lugar donde se hubiese producido, siempre que el pagador resida en territorio español.",
+      "La obtención de renta por el contribuyente, únicamente cuando se hubiese producido en territorio español y cualquiera que sea la residencia del pagador.",
+      "La titularidad de renta por el contribuyente, con independencia del lugar donde se hubiese producido y cualquiera que sea la residencia del pagador."
+    ],
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 6 (Hecho imponible), ¿qué componentes integran la renta del contribuyente?",
+    "options": [
+      "Los rendimientos del trabajo, los rendimientos de las actividades económicas, los rendimientos del capital, las ganancias y pérdidas patrimoniales y las imputaciones de renta que se establezcan por Norma Foral.",
+      "Los rendimientos del trabajo, los rendimientos de las actividades económicas, los rendimientos del capital, las ganancias y pérdidas patrimoniales y las subvenciones de capital que se establezcan por Norma Foral.",
+      "Los rendimientos del trabajo, los rendimientos de las actividades económicas, los rendimientos del ahorro, las ganancias y pérdidas patrimoniales y las imputaciones de renta que se establezcan por Norma Foral.",
+      "Los rendimientos del trabajo, los rendimientos de las actividades económicas, los rendimientos del capital, las ganancias patrimoniales no justificadas y las imputaciones de renta que se establezcan por Norma Foral."
+    ],
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 6 (Hecho imponible), a efectos de la determinación de la base imponible y del cálculo del Impuesto, ¿cómo se clasifica la renta?",
+    "options": [
+      "En renta general y del ahorro.",
+      "En renta general y del trabajo.",
+      "En renta dineraria y en especie.",
+      "En renta regular e irregular."
+    ],
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 7 (Estimación de rentas), ¿qué se presumirá respecto de las prestaciones de trabajo y servicios y las cesiones de bienes o derechos?",
+    "options": [
+      "Que son retribuidas, en los términos establecidos por esta Norma Foral.",
+      "Que son gratuitas, en los términos establecidos por esta Norma Foral.",
+      "Que las transmisiones de bienes o derechos son retribuidas, en los términos establecidos por esta Norma Foral.",
+      "Que son retribuidas, salvo prueba en contrario del contribuyente."
+    ],
+    "article": "7"
+  },
+  {
+    "question": "Según el artículo 8 (Rentas no sujetas), ¿qué rentas no estarán sujetas a este Impuesto?",
+    "options": [
+      "Las que se encuentren sujetas al Impuesto sobre Sucesiones y Donaciones.",
+      "Las que se encuentren sujetas al Impuesto sobre el Patrimonio.",
+      "Las que se encuentren sujetas al Impuesto sobre Sociedades.",
+      "Las que se encuentren sujetas al Impuesto sobre Transmisiones Patrimoniales."
+    ],
+    "article": "8"
+  },
+  {
+    "question": "Según el artículo 9 (Rentas exentas), ¿qué requisito deben cumplir las anualidades por alimentos percibidas de los padres para estar exentas?",
+    "options": [
+      "Que se perciban en virtud de decisión judicial.",
+      "Que se perciban en virtud de convenio regulador.",
+      "Que se perciban en virtud de acuerdo entre las partes.",
+      "Que se perciban en virtud de resolución administrativa."
+    ],
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9 (Rentas exentas), las indemnizaciones por despido están exentas en la cuantía establecida con carácter obligatorio en el Estatuto de los Trabajadores; ¿qué indemnización no puede considerarse como tal?",
+    "options": [
+      "La establecida en virtud de convenio, pacto o contrato.",
+      "La establecida en su normativa reglamentaria de desarrollo.",
+      "La establecida en la normativa reguladora de la ejecución de sentencias.",
+      "La establecida con carácter obligatorio en el Estatuto de los Trabajadores."
+    ],
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9 (Rentas exentas), ¿cuál es el importe máximo de la indemnización por despido que puede quedar exenta?",
+    "options": [
+      "187.272 euros.",
+      "150.000 euros.",
+      "200.000 euros.",
+      "300.000 euros."
+    ],
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9 (Rentas exentas), los dividendos y participaciones en beneficios a que se refieren las letras a) y b) del artículo 34 están exentos, ¿con qué límite?",
+    "options": [
+      "Con el límite de 1.500 euros anuales.",
+      "Con el límite de 3.000 euros anuales.",
+      "Con el límite de 1.500 euros mensuales.",
+      "Sin límite cuantitativo alguno."
+    ],
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 10 (Contribuyentes), las personas físicas de nacionalidad española que trasladen su residencia a un paraíso fiscal no pierden tal condición; ¿durante qué períodos se aplica esta regla?",
+    "options": [
+      "En el período impositivo del cambio de residencia y durante los cuatro períodos impositivos siguientes.",
+      "En el período impositivo del cambio de residencia y durante los cinco períodos impositivos siguientes.",
+      "Únicamente en el período impositivo en que se efectúe el cambio de residencia.",
+      "En el período impositivo del cambio de residencia y durante los cuatro años naturales siguientes."
+    ],
+    "article": "10"
+  },
+  {
+    "question": "Según el artículo 11 (Atribución de rentas), ¿a quiénes se atribuyen las rentas de las sociedades civiles, herencias yacentes y comunidades de bienes?",
+    "options": [
+      "A los socios, herederos, comuneros o partícipes, respectivamente.",
+      "A los socios, administradores, comuneros o partícipes, respectivamente.",
+      "A la propia entidad, que tributará por el Impuesto sobre Sociedades.",
+      "A los socios, herederos, acreedores o partícipes, respectivamente."
+    ],
+    "article": "11"
+  },
+  {
+    "question": "Según el artículo 12 (Individualización de rentas), ¿a quién se atribuyen los rendimientos del trabajo?",
+    "options": [
+      "Exclusivamente a quien haya generado el derecho a su percepción.",
+      "Exclusivamente a quien sea titular de los elementos patrimoniales de que provengan.",
+      "A quien realice de forma habitual, personal y directa la ordenación por cuenta propia de la actividad.",
+      "Por mitad a ambos cónyuges o miembros de la pareja de hecho."
+    ],
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12 (Individualización de rentas), ¿por quién se consideran obtenidos los rendimientos de las actividades económicas?",
+    "options": [
+      "Por quienes realicen de forma habitual, personal y directa la ordenación por cuenta propia de los medios de producción o de los recursos humanos afectos a las actividades.",
+      "Por quienes realicen de forma habitual, personal y directa la ordenación por cuenta ajena de los medios de producción o de los recursos humanos afectos a las actividades.",
+      "Por quienes realicen de forma habitual, personal e indirecta la ordenación por cuenta propia de los medios de producción o de los recursos humanos afectos a las actividades.",
+      "Por quienes realicen de forma habitual, personal y directa la ordenación por cuenta propia de los medios de producción o de los recursos financieros afectos a las actividades."
+    ],
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 13 (Concepto de base imponible), ¿por qué está constituida la base imponible?",
+    "options": [
+      "Por el importe de la renta obtenida por el contribuyente en el período impositivo.",
+      "Por el importe de la renta disponible por el contribuyente en el período impositivo.",
+      "Por el importe de la renta obtenida por el contribuyente en el año natural.",
+      "Por el importe neto de la renta obtenida por el contribuyente en el período impositivo."
+    ],
+    "article": "13"
+  },
+  {
+    "question": "Según el artículo 14 (Determinación de la base imponible), ¿mediante qué régimen se determina la base imponible?",
+    "options": [
+      "Por el régimen de estimación directa y, subsidiariamente, por el de estimación indirecta.",
+      "Por el régimen de estimación directa y, subsidiariamente, por el de estimación objetiva.",
+      "Por el régimen de estimación indirecta y, subsidiariamente, por el de estimación directa.",
+      "Por el régimen de estimación objetiva y, subsidiariamente, por el de estimación indirecta."
+    ],
+    "article": "14"
+  },
+  {
+    "question": "Según el artículo 15 (Concepto de rendimientos del trabajo), ¿qué se consideran rendimientos del trabajo?",
+    "options": [
+      "Todas las contraprestaciones o utilidades, dinerarias o en especie, que deriven directa o indirectamente del trabajo personal o de la relación laboral o estatutaria del contribuyente y no tengan el carácter de rendimientos de actividades económicas.",
+      "Todas las contraprestaciones o utilidades, dinerarias o en especie, que deriven directa o indirectamente del trabajo personal o de la relación laboral o estatutaria del contribuyente, aun cuando tengan el carácter de rendimientos de actividades económicas.",
+      "Todas las contraprestaciones o utilidades, dinerarias o en especie, que deriven exclusivamente y de forma directa del trabajo personal o de la relación laboral o estatutaria del contribuyente y no tengan el carácter de rendimientos de actividades económicas.",
+      "Todas las contraprestaciones o utilidades, dinerarias o en especie, que deriven directa o indirectamente del trabajo personal o de la relación mercantil o societaria del contribuyente y no tengan el carácter de rendimientos de actividades económicas."
+    ],
+    "article": "15"
+  },
+  {
+    "question": "Según el artículo 16 (Rendimientos de trabajo de naturaleza dineraria), las dietas y asignaciones para gastos de viaje son rendimiento del trabajo dinerario, ¿con qué excepción?",
+    "options": [
+      "Excepto los de locomoción y los normales de manutención y estancia en establecimientos de hostelería, con los límites que reglamentariamente se establezcan.",
+      "Excepto los de locomoción y los normales de manutención y estancia en el domicilio del contribuyente, con los límites que reglamentariamente se establezcan.",
+      "Excepto los de representación y los normales de manutención y estancia en establecimientos de hostelería, con los límites que reglamentariamente se establezcan.",
+      "Excepto los de locomoción y los extraordinarios de manutención y estancia en establecimientos de hostelería, con los límites que reglamentariamente se establezcan."
+    ],
+    "article": "16"
+  },
+  {
+    "question": "Según el artículo 17 (Rendimientos de trabajo en especie), ¿cuál de los siguientes constituye rendimiento del trabajo en especie?",
+    "options": [
+      "La concesión de préstamos con tipos de interés inferiores al legal del dinero.",
+      "Las cantidades destinadas a la actualización, capacitación o reciclaje del personal empleado.",
+      "La entrega de equipos, herramientas y medios necesarios para el desarrollo de la actividad laboral en la modalidad de teletrabajo.",
+      "La utilización de bicicletas urbanas propiedad de la persona empleadora para desplazamientos entre la residencia y el trabajo."
+    ],
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 17 (Rendimientos de trabajo en especie), las cantidades satisfechas a las entidades que prestan el servicio público de transporte colectivo de viajeros para favorecer el desplazamiento de las personas empleadas no son rendimiento en especie, ¿con qué límite?",
+    "options": [
+      "Con el límite de 1.500 euros anuales para cada persona trabajadora.",
+      "Con el límite de 3.000 euros anuales para cada persona trabajadora.",
+      "Con el límite de 1.500 euros mensuales para cada persona trabajadora.",
+      "Sin límite cuantitativo para cada persona trabajadora."
+    ],
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 18 (Otros rendimientos del trabajo), de las cantidades que se abonan por razón de su cargo a Diputados, Senadores y demás cargos representativos, ¿qué parte se excluye?",
+    "options": [
+      "La parte que dichas Instituciones asignen para gastos de viaje y desplazamiento.",
+      "La parte que dichas Instituciones asignen para gastos de representación y protocolo.",
+      "La parte que dichas Instituciones asignen para gastos de manutención y estancia.",
+      "No se excluye parte alguna de dichas cantidades."
+    ],
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 19 (Rendimiento íntegro del trabajo), cuando los rendimientos tienen un período de generación superior a dos años y no se obtienen de forma periódica o recurrente, ¿qué porcentaje de integración se aplica con carácter general?",
+    "options": [
+      "El 60 por 100.",
+      "El 50 por 100.",
+      "El 70 por 100.",
+      "El 100 por 100."
+    ],
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 19 (Rendimiento íntegro del trabajo), ¿cuál es el límite de la cuantía de rendimientos sobre la que se aplican los porcentajes de integración inferiores al 100 por 100?",
+    "options": [
+      "300.000 euros anuales; el exceso se integra al 100 por 100.",
+      "300.000 euros anuales; el exceso queda exento de integración.",
+      "150.000 euros anuales; el exceso se integra al 100 por 100.",
+      "300.000 euros por cada período de generación; el exceso se integra al 100 por 100."
+    ],
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 20 (Opciones sobre acciones), para que el límite se duplique, ¿durante cuánto tiempo deben mantenerse las acciones o participaciones adquiridas desde el ejercicio de la opción de compra?",
+    "options": [
+      "Al menos durante 3 años.",
+      "Al menos durante 2 años.",
+      "Al menos durante 5 años.",
+      "Durante todo el período de generación del rendimiento."
+    ],
+    "article": "20"
+  },
+  {
+    "question": "Según el artículo 20 (Opciones sobre acciones), otro requisito para duplicar el límite es que la oferta de opciones de compra se realice, ¿en qué condiciones?",
+    "options": [
+      "En las mismas condiciones a todos los trabajadores de la empresa, grupo o subgrupos de empresa.",
+      "En las mismas condiciones a todos los administradores y miembros del consejo de administración de la empresa.",
+      "En condiciones preferentes a los trabajadores con mayor antigüedad en la empresa.",
+      "En las mismas condiciones a todos los trabajadores con contrato indefinido de la empresa."
+    ],
+    "article": "20"
+  }
+]

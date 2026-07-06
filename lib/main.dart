@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -56,21 +57,21 @@ class TestInfo {
 class Question {
   final String question;
   final List<String> options;
-  final int answer;
   final String? article;
 
   Question({
     required this.question,
     required this.options,
-    required this.answer,
     this.article,
   });
+
+  /// The correct option is always the first one in [options].
+  static const int correctIndex = 0;
 
   factory Question.fromJson(Map<String, dynamic> json) {
     return Question(
       question: json['question'] as String,
       options: List<String>.from(json['options'] as List),
-      answer: json['answer'] as int,
       article: json['article'] as String?,
     );
   }
@@ -190,10 +191,22 @@ class QuizScreen extends StatefulWidget {
 class _QuizScreenState extends State<QuizScreen> {
   List<Question> _questions = [];
   List<int?> _answers = [];
+  // For each question, the order in which its options are displayed:
+  // _displayOrders[q][d] is the original option index shown at display slot d.
+  // Answers are always stored/compared as original indices, so persistence and
+  // results stay correct regardless of how the options are shuffled.
+  List<List<int>> _displayOrders = [];
   int _currentIndex = 0;
   bool _loading = true;
   SharedPreferences? _prefs;
+  final _random = Random();
   final Map<String, String> _articuloTextCache = {};
+
+  /// Builds a fresh random display order for the given question.
+  void _shuffleOrder(int index) {
+    final count = _questions[index].options.length;
+    _displayOrders[index] = List<int>.generate(count, (i) => i)..shuffle(_random);
+  }
 
   TestInfo get _test => widget.test;
 
@@ -225,6 +238,10 @@ class _QuizScreenState extends State<QuizScreen> {
     setState(() {
       _questions = questions;
       _answers = answers;
+      _displayOrders = List.generate(
+        questions.length,
+        (i) => List<int>.generate(questions[i].options.length, (j) => j)..shuffle(_random),
+      );
       _currentIndex = savedIndex.clamp(0, questions.length - 1);
       _prefs = prefs;
       _loading = false;
@@ -263,7 +280,11 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void _goTo(int index) {
     if (index < 0 || index >= _questions.length) return;
-    setState(() => _currentIndex = index);
+    setState(() {
+      // Re-randomize the options every time the question is shown.
+      _shuffleOrder(index);
+      _currentIndex = index;
+    });
     _persist();
     _maybeLoadArticuloForCurrent();
   }
@@ -326,7 +347,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final answered = _answers.where((a) => a != null).length;
     var correct = 0;
     for (var i = 0; i < _questions.length; i++) {
-      if (_answers[i] != null && _answers[i] == _questions[i].answer) {
+      if (_answers[i] != null && _answers[i] == Question.correctIndex) {
         correct++;
       }
     }
@@ -421,9 +442,10 @@ class _QuizScreenState extends State<QuizScreen> {
                   ],
                   Text(question.question, style: Theme.of(context).textTheme.titleLarge),
                   const SizedBox(height: 24),
-                  ...List.generate(question.options.length, (index) {
-                    final isCorrect = index == question.answer;
-                    final isSelected = index == selected;
+                  ...List.generate(_displayOrders[_currentIndex].length, (slot) {
+                    final optionIndex = _displayOrders[_currentIndex][slot];
+                    final isCorrect = optionIndex == Question.correctIndex;
+                    final isSelected = optionIndex == selected;
                     Color? color;
                     if (selected != null) {
                       if (isCorrect) {
@@ -436,8 +458,8 @@ class _QuizScreenState extends State<QuizScreen> {
                       padding: const EdgeInsets.only(bottom: 8),
                       child: ElevatedButton(
                         style: ElevatedButton.styleFrom(backgroundColor: color),
-                        onPressed: () => _selectOption(index),
-                        child: Text(question.options[index]),
+                        onPressed: () => _selectOption(optionIndex),
+                        child: Text(question.options[optionIndex]),
                       ),
                     );
                   }),
