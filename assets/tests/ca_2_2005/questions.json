@@ -1,971 +1,791 @@
 [
   {
-    "question": "Según el apartado 1, ¿qué establece la presente Norma Foral y a quién será de aplicación con carácter principal?",
+    "question": "Según el apartado 1 del artículo 1 (Objeto y ámbito de aplicación), ¿qué establece la presente Norma Foral y a qué Administración será de aplicación?",
     "options": [
-      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia y será de aplicación a la Administración tributaria foral.",
-      "Los principios y las normas jurídicas generales del sistema presupuestario del Territorio Histórico de Bizkaia y será de aplicación a la Administración tributaria foral.",
-      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia y será de aplicación a las Entidades Locales de Bizkaia.",
-      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia y será de aplicación a los Estados miembros de la Unión Europea."
+      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia, y será de aplicación a la Administración tributaria foral.",
+      "Los principios y las normas jurídicas generales del sistema presupuestario del Territorio Histórico de Bizkaia, y será de aplicación a la Administración tributaria foral.",
+      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia, y será de aplicación a la Administración tributaria estatal.",
+      "Los principios y las normas jurídicas generales del sistema tributario del Territorio Histórico de Bizkaia, y será de aplicación a las entidades supranacionales."
     ],
     "article": "1"
   },
   {
-    "question": "Conforme al apartado 1, la presente Norma Foral también será de aplicación a las Entidades Locales de Bizkaia, ¿en qué términos?",
+    "question": "Según el apartado 1 del artículo 1 (Objeto y ámbito de aplicación), ¿en qué términos será de aplicación esta Norma Foral a las Entidades Locales de Bizkaia?",
     "options": [
       "En los términos establecidos en la normativa reguladora de las Haciendas Locales de este Territorio Histórico.",
-      "En los términos establecidos en la normativa reguladora del sistema tributario de este Territorio Histórico.",
-      "En los términos establecidos en la normativa reguladora de la asistencia mutua de este Territorio Histórico.",
-      "En los términos establecidos en la normativa reguladora de las Haciendas Forales de este Territorio Histórico."
+      "En los términos establecidos en la normativa reguladora de las Haciendas Forales de este Territorio Histórico.",
+      "En los términos establecidos en el Concierto Económico de este Territorio Histórico.",
+      "En los términos establecidos en la normativa reguladora de la asistencia mutua de este Territorio Histórico."
     ],
     "article": "1"
   },
   {
-    "question": "Según el apartado 2, ¿qué regulan además los principios y las normas jurídicas generales que establece esta Norma Foral?",
+    "question": "Según el apartado 2 del artículo 1 (Objeto y ámbito de aplicación), los principios y normas que regulan las actuaciones de la Administración tributaria se establecen por aplicación de:",
     "options": [
-      "Las actuaciones de la Administración tributaria por aplicación de la normativa sobre asistencia mutua entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
-      "Las actuaciones de la Administración tributaria por aplicación de la normativa sobre asistencia mutua entre las Entidades Locales de Bizkaia o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
-      "Las actuaciones de la Administración tributaria por aplicación de la normativa sobre Haciendas Locales entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
-      "Las actuaciones de la Administración tributaria por aplicación de la normativa sobre asistencia mutua entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble tributación o de otros convenios autonómicos."
+      "La normativa sobre asistencia mutua entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
+      "La normativa sobre colaboración administrativa entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
+      "La normativa sobre asistencia mutua entre las Entidades Locales de Bizkaia o en el marco de los convenios para evitar la doble imposición o de otros convenios internacionales.",
+      "La normativa sobre asistencia mutua entre los Estados miembros de la Unión Europea o en el marco de los convenios para evitar la doble imposición o de otros convenios autonómicos."
     ],
     "article": "1"
   },
   {
-    "question": "A los efectos de esta Norma Foral, ¿cómo se define la asistencia mutua según el apartado 2?",
+    "question": "Según el apartado 2 del artículo 1 (Objeto y ámbito de aplicación), ¿qué se entenderá por asistencia mutua a los efectos de esta Norma Foral?",
     "options": [
-      "El conjunto de acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle.",
-      "El conjunto de acciones de asistencia, coordinación, supervisión y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle.",
-      "El conjunto de acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que la Administración tributaria únicamente preste y desarrolle.",
-      "El conjunto de acciones de asistencia, colaboración, supervisión y otras de naturaleza tasada que la Administración tributaria preste, reciba o desarrolle."
+      "El conjunto de acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle con la Unión Europea y otras entidades internacionales o supranacionales, y con otros Estados.",
+      "El conjunto de acciones de asistencia, coordinación, cooperación y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle con la Unión Europea y otras entidades internacionales o supranacionales, y con otros Estados.",
+      "El conjunto de acciones de asistencia, colaboración, supervisión y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle con la Unión Europea y otras entidades internacionales o supranacionales, y con otros Estados.",
+      "El conjunto de acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que la Administración tributaria preste, reciba o desarrolle con la Unión Europea y otras entidades locales o forales, y con otros Estados."
     ],
     "article": "1"
   },
   {
-    "question": "Según el apartado 2, ¿con quién presta, recibe o desarrolla la Administración tributaria las acciones que integran la asistencia mutua?",
+    "question": "Según el apartado 2 del artículo 1 (Objeto y ámbito de aplicación), ¿qué podrá comprender la asistencia mutua?",
     "options": [
-      "Con la Unión Europea y otras entidades internacionales o supranacionales, y con otros Estados.",
-      "Con la Unión Europea y otras entidades internacionales o supranacionales, y con otras Entidades Locales.",
-      "Con la Unión Europea y otras entidades autonómicas o supranacionales, y con otros Estados.",
-      "Con la Unión Europea y otras entidades internacionales o intergubernamentales, y con otros contribuyentes."
+      "La realización de actuaciones ante obligados tributarios.",
+      "La realización de actuaciones ante responsables tributarios.",
+      "La realización de actuaciones ante obligados a realizar pagos a cuenta.",
+      "La realización de actuaciones ante sucesores de la deuda tributaria."
     ],
     "article": "1"
   },
   {
-    "question": "De acuerdo con el apartado 2, ¿qué previsión establece la Norma Foral respecto del alcance de la asistencia mutua?",
-    "options": [
-      "Podrá comprender la realización de actuaciones ante obligados tributarios.",
-      "Deberá comprender siempre la realización de actuaciones ante obligados tributarios.",
-      "Podrá comprender la realización de actuaciones ante responsables tributarios.",
-      "Podrá comprender exclusivamente la realización de actuaciones ante sucesores de la deuda tributaria."
-    ],
-    "article": "1"
-  },
-  {
-    "question": "Según el apartado 3, la asistencia que la Administración tributaria preste a otros Estados o a entidades internacionales o supranacionales en virtud de la normativa sobre asistencia mutua, ¿a qué estará sometida?",
+    "question": "Según el apartado 3 del artículo 1 (Objeto y ámbito de aplicación), ¿a qué está sometida la asistencia que la Administración tributaria preste a otros Estados o a entidades internacionales o supranacionales en virtud de la normativa sobre asistencia mutua?",
     "options": [
       "A las limitaciones establecidas en esta última.",
-      "A las limitaciones establecidas en la normativa reguladora de las Haciendas Locales.",
-      "A las obligaciones procesales establecidas en esta última.",
-      "A los convenios para evitar la doble imposición establecidos en esta última."
+      "A las obligaciones establecidas en el Concierto Económico.",
+      "A las condiciones establecidas en las Ordenanzas fiscales.",
+      "A las limitaciones establecidas en la normativa reguladora de las Haciendas Locales."
     ],
     "article": "1"
   },
   {
-    "question": "Conforme al apartado 3, en el ámbito de la asistencia mutua entre los Estados miembros de la Unión Europea, ¿a qué estará sujeta la Administración tributaria en virtud de las Directivas 2010/24/UE y 2011/16/UE?",
+    "question": "Según el apartado 3 del artículo 1 (Objeto y ámbito de aplicación), en el ámbito de la asistencia mutua entre los Estados miembros de la Unión Europea, ¿a qué obligaciones estará sujeta la Administración tributaria?",
     "options": [
-      "A las obligaciones procesales y materiales previstas en dichas Directivas.",
-      "A las obligaciones procesales y presupuestarias previstas en dichas Directivas.",
-      "A las limitaciones procesales y materiales previstas en dichas Directivas.",
-      "A las obligaciones formales y materiales previstas en dichas Directivas."
+      "A las obligaciones procesales y materiales previstas en la Directiva 2010/24/UE y en la Directiva 2011/16/UE del Consejo.",
+      "A las obligaciones formales y accesorias previstas en la Directiva 2010/24/UE y en la Directiva 2011/16/UE del Consejo.",
+      "A las obligaciones procesales y materiales previstas en el Concierto Económico y en el Estatuto de Autonomía.",
+      "A las obligaciones procesales y materiales previstas únicamente en la Directiva 77/799/CEE del Consejo."
     ],
     "article": "1"
   },
   {
-    "question": "Según el apartado 1, ¿en qué se basa la ordenación del sistema tributario, además de en la capacidad económica de las personas obligadas a satisfacer los tributos?",
+    "question": "Según el apartado 1 del artículo 2 (Principios de la ordenación y aplicación del sistema tributario), ¿en qué se basa la ordenación del sistema tributario?",
     "options": [
-      "En los principios de justicia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
-      "En los principios de justicia, generalidad, igualdad, proporcionalidad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
-      "En los principios de justicia, generalidad, igualdad, progresividad, limitada distribución de la carga tributaria y confiscatoriedad.",
-      "En los principios de eficacia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad."
+      "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de justicia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
+      "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de justicia, generalidad, igualdad, proporcionalidad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
+      "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de justicia, eficacia, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad.",
+      "En la capacidad económica de las personas obligadas a satisfacer los tributos y en los principios de justicia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y confiscatoriedad."
     ],
     "article": "2"
   },
   {
-    "question": "Según el apartado 1, ¿en la capacidad económica de qué sujetos se basa la ordenación del sistema tributario?",
+    "question": "Según el apartado 2 del artículo 2 (Principios de la ordenación y aplicación del sistema tributario), ¿en qué principios se basará la aplicación del sistema tributario?",
     "options": [
-      "En la capacidad económica de las personas obligadas a satisfacer los tributos.",
-      "En la capacidad económica de los responsables solidarios de la deuda tributaria.",
-      "En la capacidad económica de los sucesores de las obligaciones tributarias.",
-      "En la capacidad económica de los obligados a realizar pagos a cuenta."
+      "En los principios de proporcionalidad, eficacia y limitación de costes indirectos derivados del cumplimiento de obligaciones formales, y asegurará el respeto de los derechos y garantías de los obligados tributarios.",
+      "En los principios de proporcionalidad, generalidad y limitación de costes indirectos derivados del cumplimiento de obligaciones formales, y asegurará el respeto de los derechos y garantías de los obligados tributarios.",
+      "En los principios de proporcionalidad, eficacia y limitación de costes directos derivados del cumplimiento de obligaciones formales, y asegurará el respeto de los derechos y garantías de los obligados tributarios.",
+      "En los principios de proporcionalidad, eficacia y limitación de costes indirectos derivados del cumplimiento de obligaciones formales, y asegurará el respeto de los derechos y garantías de los responsables tributarios."
     ],
     "article": "2"
   },
   {
-    "question": "Según el apartado 2, ¿en qué principios se basará la aplicación del sistema tributario?",
-    "options": [
-      "En los principios de proporcionalidad, eficacia y limitación de costes indirectos derivados del cumplimiento de obligaciones formales.",
-      "En los principios de progresividad, eficacia y limitación de costes indirectos derivados del cumplimiento de obligaciones formales.",
-      "En los principios de proporcionalidad, generalidad y limitación de costes indirectos derivados del cumplimiento de obligaciones formales.",
-      "En los principios de proporcionalidad, eficacia y limitación de costes directos derivados del cumplimiento de obligaciones formales."
-    ],
-    "article": "2"
-  },
-  {
-    "question": "Según el apartado 2, además de basarse en los principios de proporcionalidad, eficacia y limitación de costes indirectos, ¿qué asegurará la aplicación del sistema tributario?",
-    "options": [
-      "El respeto de los derechos y garantías de los obligados tributarios.",
-      "El respeto de los derechos y garantías de las Entidades Locales del Territorio Histórico.",
-      "El respeto de los deberes y garantías de los obligados tributarios.",
-      "El respeto de los derechos y obligaciones de la Administración tributaria."
-    ],
-    "article": "2"
-  },
-  {
-    "question": "Según el apartado 1, ¿a quién corresponde la potestad originaria para mantener, establecer y regular el régimen tributario del Territorio Histórico de Bizkaia?",
+    "question": "Según el apartado 1 del artículo 3 (Potestad tributaria), ¿a quién corresponde la potestad originaria para mantener, establecer y regular el régimen tributario del Territorio Histórico de Bizkaia?",
     "options": [
       "A sus Juntas Generales, y se ejercerá en los términos previstos en el Concierto Económico.",
       "A la Diputación Foral, y se ejercerá en los términos previstos en el Concierto Económico.",
-      "A las Entidades Locales, y se ejercerá en los términos previstos en el Concierto Económico.",
-      "A las demás Entidades de Derecho Público, y se ejercerá en los términos previstos en el Concierto Económico."
+      "Al Diputado Foral de Hacienda y Finanzas, y se ejercerá en los términos previstos en el Concierto Económico.",
+      "Al Parlamento Vasco, y se ejercerá en los términos previstos en el Concierto Económico."
     ],
     "article": "3"
   },
   {
-    "question": "Según el apartado 1, la potestad originaria de las Juntas Generales para mantener, establecer y regular el régimen tributario del Territorio Histórico de Bizkaia se ejercerá en los términos previstos en:",
+    "question": "Según el apartado 2 del artículo 3 (Potestad tributaria), ¿qué podrán hacer las Entidades Locales del Territorio Histórico de Bizkaia respecto a los tributos?",
     "options": [
-      "El Concierto Económico.",
-      "El ordenamiento jurídico.",
-      "Las Ordenanzas fiscales.",
-      "Las Normas Forales de las Entidades Locales."
+      "Podrán establecer y exigir tributos con arreglo al ordenamiento jurídico.",
+      "Podrán establecer y regular tributos con arreglo al ordenamiento jurídico.",
+      "Podrán establecer y exigir tributos con arreglo al Concierto Económico.",
+      "Podrán exigir tributos con arreglo al ordenamiento jurídico, únicamente cuando una Norma Foral lo determine."
     ],
     "article": "3"
   },
   {
-    "question": "Según el apartado 2, ¿qué podrán hacer las Entidades Locales del Territorio Histórico de Bizkaia con arreglo al ordenamiento jurídico?",
-    "options": [
-      "Establecer y exigir tributos.",
-      "Mantener, establecer y regular tributos.",
-      "Establecer y exigir tributos únicamente cuando una Norma Foral así lo determine.",
-      "Exigir tributos, pero no establecerlos."
-    ],
-    "article": "3"
-  },
-  {
-    "question": "Según el apartado 3, las demás Entidades de Derecho Público podrán exigir tributos:",
+    "question": "Según el apartado 3 del artículo 3 (Potestad tributaria), ¿en qué caso podrán las demás Entidades de Derecho Público exigir tributos?",
     "options": [
       "Cuando una Norma Foral así lo determine.",
-      "Con arreglo al ordenamiento jurídico.",
-      "En los términos previstos en el Concierto Económico.",
-      "Cuando sus Juntas Generales así lo determinen."
+      "Cuando un reglamento así lo determine.",
+      "Cuando una Ordenanza fiscal así lo determine.",
+      "Cuando el Concierto Económico así lo determine."
     ],
     "article": "3"
   },
   {
-    "question": "Según el apartado 1, ¿a quién corresponde la potestad reglamentaria para el desarrollo de las normas tributarias?",
+    "question": "Según el apartado 1 del artículo 4 (Potestad reglamentaria), ¿a quién corresponde la potestad reglamentaria para el desarrollo de las normas tributarias?",
     "options": [
       "A la Diputación Foral, a propuesta del Diputado Foral de Hacienda y Finanzas, sin perjuicio de las facultades que corresponden a las Entidades Locales en relación con las Ordenanzas fiscales reguladoras de los tributos locales.",
+      "Al Diputado Foral de Hacienda y Finanzas, a propuesta de la Diputación Foral, sin perjuicio de las facultades que corresponden a las Entidades Locales en relación con las Ordenanzas fiscales reguladoras de los tributos locales.",
       "A las Juntas Generales, a propuesta del Diputado Foral de Hacienda y Finanzas, sin perjuicio de las facultades que corresponden a las Entidades Locales en relación con las Ordenanzas fiscales reguladoras de los tributos locales.",
-      "A la Diputación Foral, a propuesta del Diputado Foral de Hacienda y Finanzas, sin perjuicio de las facultades que corresponden al Gobierno Vasco en relación con las Ordenanzas fiscales reguladoras de los tributos locales.",
-      "A la Diputación Foral, a instancia de las Entidades Locales, sin perjuicio de las facultades que corresponden al Diputado Foral de Hacienda y Finanzas en relación con las Ordenanzas fiscales reguladoras de los tributos locales."
+      "A la Diputación Foral, a propuesta del Diputado Foral de Hacienda y Finanzas, sin perjuicio de las facultades que corresponden a las Juntas Generales en relación con las Ordenanzas fiscales reguladoras de los tributos locales."
     ],
     "article": "4"
   },
   {
-    "question": "Según el apartado 2, ¿en qué caso podrá el Diputado Foral de Hacienda y Finanzas dictar disposiciones de desarrollo en materia tributaria?",
+    "question": "Según el apartado 2 del artículo 4 (Potestad reglamentaria), ¿en qué caso podrá el Diputado Foral de Hacienda y Finanzas dictar disposiciones de desarrollo en materia tributaria?",
     "options": [
       "Cuando así lo disponga expresamente una Norma Foral o, en su caso, un reglamento.",
       "Cuando así lo disponga expresamente una Ordenanza fiscal o, en su caso, un reglamento.",
-      "Cuando así lo proponga expresamente la Diputación Foral o, en su caso, una Entidad Local.",
-      "Cuando así lo disponga tácitamente una Norma Foral o, en su caso, un reglamento."
+      "Cuando así lo disponga expresamente una Norma Foral o, en su caso, el Concierto Económico.",
+      "Cuando así lo proponga la Diputación Foral o, en su caso, las Entidades Locales."
     ],
     "article": "4"
   },
   {
-    "question": "Según el apartado 1, a los efectos de esta Norma Foral, ¿por qué órganos estará integrada la Administración tributaria?",
+    "question": "Según el apartado 1 del artículo 5 (La Administración tributaria), ¿por qué órganos estará integrada la Administración tributaria a los efectos de esta Norma Foral?",
     "options": [
       "Por los órganos que desarrollen las funciones reguladas en sus Títulos III, IV, V, VI y VII.",
+      "Por los órganos que desarrollen las funciones reguladas en sus Títulos III, IV, V y VI.",
       "Por los órganos que desarrollen las funciones reguladas en sus Títulos I, II, III, IV y V.",
-      "Por los órganos que desarrollen las funciones reguladas en sus Títulos III, IV, V, VI y VII y en el Concierto Económico.",
-      "Por los órganos que ejerzan la potestad sancionadora regulada en sus Títulos III, IV, V, VI y VII."
+      "Por los órganos que ejerzan la potestad reglamentaria regulada en sus Títulos III, IV, V, VI y VII."
     ],
     "article": "5"
   },
   {
-    "question": "Conforme al apartado 2, en el ámbito de competencias de la Diputación Foral, la aplicación de los tributos y el ejercicio de la potestad sancionadora corresponde al Departamento de Hacienda y Finanzas, ¿con qué salvedad?",
+    "question": "Según el apartado 2 del artículo 5 (La Administración tributaria), en el ámbito de competencias de la Diputación Foral, ¿a quién corresponde la aplicación de los tributos y el ejercicio de la potestad sancionadora?",
     "options": [
-      "Salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Norma Foral.",
-      "Salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Decreto Foral.",
-      "Salvo que tácitamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Norma Foral.",
-      "Salvo que expresamente se hallen atribuidas a las Entidades Locales o a otra Administración tributaria mediante Norma Foral."
+      "Al Departamento de Hacienda y Finanzas, salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Norma Foral.",
+      "Al Diputado Foral de Hacienda y Finanzas, salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Norma Foral.",
+      "A las Juntas Generales, salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante Norma Foral.",
+      "Al Departamento de Hacienda y Finanzas, salvo que expresamente se hallen atribuidas a otro órgano o entidad de derecho público mediante reglamento."
     ],
     "article": "5"
   },
   {
-    "question": "Según el apartado 3, ¿en qué ámbito territorial y con arreglo a qué instrumento ejercerá la Diputación Foral sus competencias en materia de aplicación de los tributos y de imposición de sanciones?",
+    "question": "Según el apartado 3 del artículo 5 (La Administración tributaria), ¿en qué ámbito ejercerá la Diputación Foral sus competencias en materia de aplicación de los tributos y de imposición de sanciones?",
     "options": [
-      "En todo el territorio del Estado en los términos establecidos en el Concierto Económico.",
-      "En todo el territorio del Estado en los términos establecidos en la normativa sobre asistencia mutua.",
-      "En el ámbito del Territorio Histórico de Bizkaia en los términos establecidos en el Concierto Económico.",
-      "En todo el territorio de la Unión Europea en los términos establecidos en el Concierto Económico."
+      "En todo el territorio del Estado, en los términos establecidos en el Concierto Económico.",
+      "En todo el territorio del Estado, en los términos establecidos en el Estatuto de Autonomía.",
+      "En todo el Territorio Histórico de Bizkaia, en los términos establecidos en el Concierto Económico.",
+      "En todo el territorio de la Comunidad Autónoma, en los términos establecidos en el Concierto Económico."
     ],
     "article": "5"
   },
   {
-    "question": "De acuerdo con el apartado 3, respecto de los obligados tributarios sometidos a las competencias de aplicación de los tributos de la Diputación Foral en virtud del Concierto Económico, ¿qué corresponde a ésta?",
+    "question": "Según el apartado 3 del artículo 5 (La Administración tributaria), en relación con los obligados tributarios sometidos a las competencias de aplicación de los tributos de la Diputación Foral en virtud del Concierto Económico, ¿qué corresponde a ésta?",
     "options": [
       "El ejercicio de las competencias en materia de aplicación de los tributos derivadas o atribuidas por la normativa sobre asistencia mutua.",
-      "El ejercicio de las competencias en materia de imposición de sanciones derivadas o atribuidas por la normativa sobre asistencia mutua.",
-      "El ejercicio de las competencias en materia de aplicación de los tributos derivadas o atribuidas por el ordenamiento jurídico de la Unión Europea.",
-      "El ejercicio de las competencias en materia de aplicación de los tributos delegadas o revocadas por la normativa sobre asistencia mutua."
+      "El ejercicio de las competencias en materia de aplicación de los tributos derivadas o atribuidas por las Ordenanzas fiscales.",
+      "El ejercicio de la potestad reglamentaria derivada o atribuida por la normativa sobre asistencia mutua.",
+      "El ejercicio de las competencias en materia de imposición de sanciones derivadas o atribuidas por la normativa sobre asistencia mutua."
     ],
     "article": "5"
   },
   {
-    "question": "Según el apartado 4, ¿con qué alcance ejercerán las Entidades Locales las competencias relativas a la aplicación de los tributos y a la potestad sancionadora?",
+    "question": "Según el apartado 4 del artículo 5 (La Administración tributaria), ¿con qué alcance ejercerán las Entidades Locales las competencias relativas a la aplicación de los tributos y a la potestad sancionadora?",
     "options": [
       "Con el alcance y en los términos previstos en la normativa que resulte aplicable según su sistema de fuentes.",
-      "Con el alcance y en los términos previstos en la normativa que resulte aplicable según el Concierto Económico.",
-      "Con el alcance y en los términos previstos en la normativa que resulte aplicable según lo dispuesto por la Diputación Foral.",
-      "Con el alcance y en los términos previstos en la normativa sobre asistencia mutua que resulte aplicable."
+      "Con el alcance y en los términos previstos en el Concierto Económico según su sistema de fuentes.",
+      "Con el alcance y en los términos previstos en la normativa que resulte aplicable según el Estatuto de Autonomía.",
+      "Con el alcance y en los términos previstos en la normativa que dicte el Departamento de Hacienda y Finanzas."
     ],
     "article": "5"
   },
   {
-    "question": "Conforme al apartado 5, la Diputación Foral colaborará con el resto de las Administraciones tributarias para la aplicación de los tributos, ¿en qué términos?",
+    "question": "Según el apartado 5 del artículo 5 (La Administración tributaria), ¿con quién colaborará la Diputación Foral para la aplicación de los tributos y en qué términos?",
     "options": [
-      "En los términos establecidos en el ordenamiento jurídico.",
-      "En los términos establecidos en el Concierto Económico.",
-      "En los términos establecidos en la normativa sobre asistencia mutua.",
-      "En los términos establecidos según su sistema de fuentes."
+      "Con el resto de las Administraciones tributarias, en los términos establecidos en el ordenamiento jurídico.",
+      "Con el resto de las Administraciones tributarias, en los términos establecidos en el Concierto Económico.",
+      "Con las entidades internacionales o supranacionales, en los términos establecidos en el ordenamiento jurídico.",
+      "Con el resto de las Administraciones tributarias, en los términos establecidos en las Ordenanzas fiscales."
     ],
     "article": "5"
   },
   {
-    "question": "Según el apartado 5, ¿entre qué entidades podrán establecerse fórmulas de colaboración para la aplicación de los tributos?",
-    "options": [
-      "Entre las Entidades Locales, así como entre éstas y la Diputación Foral.",
-      "Entre las Entidades Locales, así como entre éstas y el resto de Administraciones tributarias del Estado.",
-      "Entre las Entidades Locales, así como entre éstas y el Departamento de Hacienda y Finanzas.",
-      "Entre las Entidades Locales, así como entre éstas y las entidades de derecho público."
-    ],
-    "article": "5"
-  },
-  {
-    "question": "Según el apartado 1, los tributos, cualesquiera que sean su naturaleza y carácter, se regirán en primer lugar por:",
+    "question": "Según la letra a) del apartado 1 del artículo 6 (Fuentes del ordenamiento tributario), los tributos se regirán, entre otras, por:",
     "options": [
       "La Constitución, el Estatuto de Autonomía y el Concierto Económico.",
-      "La Constitución, el Estatuto de Autonomía y el derecho común.",
-      "La Constitución, el Reglamento de recaudación y el Concierto Económico.",
-      "El Estatuto de Autonomía, el Concierto Económico y las ordenanzas fiscales."
+      "La Constitución, el Estatuto de Autonomía y las Ordenanzas fiscales.",
+      "La Constitución, el Concierto Económico y los Tratados internacionales.",
+      "La Constitución, el Estatuto de Autonomía y el derecho común."
     ],
     "article": "6"
   },
   {
-    "question": "Conforme al apartado 1, ¿por qué normas se rigen los tributos en cuanto a la coordinación, armonización fiscal y colaboración mutua entre las instituciones de los Territorios Históricos?",
+    "question": "Según la letra b) del apartado 1 del artículo 6 (Fuentes del ordenamiento tributario), ¿quién dicta las normas para la coordinación, armonización fiscal y colaboración mutua entre las instituciones de los Territorios Históricos por las que se rigen los tributos?",
     "options": [
-      "Por las normas que a tal efecto dicte el Parlamento Vasco.",
-      "Por las normas que a tal efecto dicte la Diputación Foral.",
-      "Por las normas que a tal efecto dicten las Juntas Generales.",
-      "Por las normas que a tal efecto dicte la Unión Europea."
+      "El Parlamento Vasco.",
+      "La Diputación Foral.",
+      "Las Juntas Generales.",
+      "El Diputado Foral de Hacienda y Finanzas."
     ],
     "article": "6"
   },
   {
-    "question": "Según el apartado 1, ¿qué normas rigen los tributos junto a la presente Norma Foral y las Normas Forales reguladoras de cada tributo?",
+    "question": "Según la letra c) del apartado 1 del artículo 6 (Fuentes del ordenamiento tributario), los tributos se regirán también por la presente Norma Foral, por las Normas Forales reguladoras de cada tributo y por:",
     "options": [
       "Las demás Normas Forales que contengan disposiciones en materia tributaria.",
-      "Las demás Normas Forales que contengan disposiciones en materia presupuestaria.",
-      "Las demás ordenanzas fiscales que contengan disposiciones en materia tributaria.",
-      "Los Tratados internacionales que contengan disposiciones en materia tributaria."
+      "Las demás Ordenanzas fiscales que contengan disposiciones en materia tributaria.",
+      "Los demás reglamentos que contengan disposiciones en materia tributaria.",
+      "Las demás Normas Forales que contengan disposiciones en materia presupuestaria."
     ],
     "article": "6"
   },
   {
-    "question": "De acuerdo con el apartado 1, las disposiciones reglamentarias dictadas en desarrollo de las anteriores rigen los tributos y, específicamente en el ámbito tributario local:",
+    "question": "Según la letra d) del apartado 1 del artículo 6 (Fuentes del ordenamiento tributario), ¿por qué disposiciones se regirán los tributos, específicamente en el ámbito tributario local?",
     "options": [
-      "Por las correspondientes ordenanzas fiscales.",
-      "Por las correspondientes Normas Forales reguladoras.",
-      "Por los correspondientes reglamentos del Parlamento Vasco.",
-      "Por las correspondientes disposiciones del Concierto Económico."
+      "Por las disposiciones reglamentarias dictadas en desarrollo de las anteriores y, específicamente, por las correspondientes ordenanzas fiscales.",
+      "Por las disposiciones reglamentarias dictadas en desarrollo de las anteriores y, específicamente, por las correspondientes Normas Forales.",
+      "Por las disposiciones interpretativas dictadas en desarrollo de las anteriores y, específicamente, por las correspondientes ordenanzas fiscales.",
+      "Por las disposiciones reglamentarias dictadas en desarrollo de las anteriores y, con carácter supletorio, por las correspondientes ordenanzas fiscales."
     ],
     "article": "6"
   },
   {
-    "question": "Según el apartado 2, ¿qué Tratados o Convenios internacionales serán de aplicación?",
+    "question": "Según el apartado 2 del artículo 6 (Fuentes del ordenamiento tributario), ¿qué Tratados o Convenios internacionales serán de aplicación?",
     "options": [
       "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios para evitar la doble imposición, que formen parte del ordenamiento jurídico interno.",
-      "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios de coordinación fiscal, que formen parte del ordenamiento jurídico interno.",
+      "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios de asistencia mutua, que formen parte del ordenamiento jurídico interno.",
       "Los que contengan cláusulas de naturaleza presupuestaria y, en particular, los Convenios para evitar la doble imposición, que formen parte del ordenamiento jurídico interno.",
-      "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios para evitar la doble imposición, aunque no formen parte del ordenamiento jurídico interno."
+      "Los que contengan cláusulas de naturaleza tributaria y, en particular, los Convenios para evitar la doble imposición, que formen parte del derecho común supletorio."
     ],
     "article": "6"
   },
   {
-    "question": "Conforme al apartado 3, ¿qué normas de la Unión Europea y otros organismos internacionales o supranacionales serán de aplicación?",
+    "question": "Según el apartado 3 del artículo 6 (Fuentes del ordenamiento tributario), ¿qué normas serán de aplicación?",
     "options": [
-      "Las que dicten aquellos a los que se atribuya el ejercicio de competencias en materia tributaria.",
-      "Las que dicten aquellos a los que se atribuya el ejercicio de competencias en materia presupuestaria.",
-      "Las que dicten aquellos a los que se atribuya el ejercicio de competencias en materia sancionadora.",
-      "Las que dicten aquellos a los que se reserve el ejercicio de competencias en materia recaudatoria."
+      "Las que dicte la Unión Europea y otros organismos internacionales o supranacionales a los que se atribuya el ejercicio de competencias en materia tributaria.",
+      "Las que dicte la Unión Europea y otros organismos internacionales o supranacionales a los que se atribuya el ejercicio de competencias en materia presupuestaria.",
+      "Las que dicte la Unión Europea y otras Entidades Locales a las que se atribuya el ejercicio de competencias en materia tributaria.",
+      "Las que dicte la Unión Europea y otros organismos internacionales o supranacionales a los que se atribuya el ejercicio de la potestad reglamentaria."
     ],
     "article": "6"
   },
   {
-    "question": "Según el apartado 4, ¿qué carácter tendrán las disposiciones generales del derecho administrativo y los preceptos del derecho común?",
+    "question": "Según el apartado 4 del artículo 6 (Fuentes del ordenamiento tributario), ¿qué carácter tendrán las disposiciones generales del derecho administrativo y los preceptos del derecho común?",
     "options": [
-      "Carácter supletorio.",
-      "Carácter preferente.",
-      "Carácter vinculante.",
-      "Carácter reglamentario."
+      "Tendrán carácter supletorio.",
+      "Tendrán carácter preferente.",
+      "Tendrán carácter vinculante.",
+      "Tendrán carácter interpretativo."
     ],
     "article": "6"
   },
   {
-    "question": "Según el artículo 7, ¿cuál de las siguientes materias debe regularse en todo caso por Norma Foral?",
+    "question": "Según la letra a) del artículo 7 (Reserva de Norma Foral tributaria), en relación con los elementos determinantes de la cuantía de la deuda tributaria, se regulará en todo caso por Norma Foral:",
     "options": [
-      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta.",
-      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, incluido el importe de los pagos a cuenta.",
-      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos indirectamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta.",
-      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la base liquidable, con excepción del importe de los pagos a cuenta."
+      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta, así como el establecimiento de presunciones que no admitan prueba en contrario.",
+      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta, así como el establecimiento de presunciones que admitan prueba en contrario.",
+      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos directamente determinantes de la cuantía de la deuda tributaria, incluido el importe de los pagos a cuenta, así como el establecimiento de presunciones que no admitan prueba en contrario.",
+      "La delimitación del hecho imponible, del devengo, de la base imponible y liquidable, la fijación del tipo de gravamen y de los demás elementos indirectamente determinantes de la cuantía de la deuda tributaria, con excepción del importe de los pagos a cuenta, así como el establecimiento de presunciones que no admitan prueba en contrario."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, además de los elementos determinantes de la cuantía de la deuda tributaria, ¿qué se regulará en todo caso por Norma Foral respecto de las presunciones?",
-    "options": [
-      "El establecimiento de presunciones que no admitan prueba en contrario.",
-      "El establecimiento de presunciones que admitan prueba en contrario.",
-      "El establecimiento de presunciones que no admitan prueba testifical.",
-      "La supresión de presunciones que no admitan prueba en contrario."
-    ],
-    "article": "7"
-  },
-  {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral en relación con los pagos a cuenta?",
+    "question": "Según la letra b) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "Los supuestos que dan lugar al nacimiento de las obligaciones tributarias de realizar pagos a cuenta.",
       "Los supuestos que dan lugar a la extinción de las obligaciones tributarias de realizar pagos a cuenta.",
-      "Los supuestos que dan lugar al nacimiento de las obligaciones tributarias de presentar autoliquidaciones.",
-      "Los plazos que dan lugar al nacimiento de las obligaciones tributarias de realizar pagos a cuenta."
+      "Los supuestos que dan lugar al nacimiento de las obligaciones tributarias de realizar pagos fraccionados.",
+      "Los supuestos que dan lugar al nacimiento de las obligaciones tributarias accesorias."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué materia relativa a los obligados tributarios se regulará en todo caso por Norma Foral?",
+    "question": "Según la letra c) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "La determinación de los obligados tributarios previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los responsables.",
       "La determinación de los obligados tributarios previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los sucesores.",
-      "La determinación de los obligados tributarios previstos en el apartado 3 del artículo 34 de la presente Norma Foral y de los responsables.",
-      "La determinación de los sujetos pasivos previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los responsables."
+      "La determinación de los obligados a realizar pagos a cuenta previstos en el apartado 2 del artículo 34 de la presente Norma Foral y de los responsables.",
+      "La determinación de los obligados tributarios previstos en el apartado 2 del artículo 43 de la presente Norma Foral y de los responsables."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, respecto de las exenciones, reducciones, bonificaciones, deducciones y demás beneficios o incentivos fiscales, ¿qué se regulará en todo caso por Norma Foral?",
+    "question": "Según la letra d) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "El establecimiento, modificación, supresión y prórroga de las exenciones, reducciones, bonificaciones, deducciones y demás beneficios o incentivos fiscales.",
+      "El establecimiento, modificación, supresión y prórroga de las exenciones, reducciones, bonificaciones, deducciones y demás obligaciones o deberes formales.",
       "El establecimiento, modificación, supresión y prórroga de las exenciones, recargos, bonificaciones, deducciones y demás beneficios o incentivos fiscales.",
-      "El establecimiento, modificación, condonación y prórroga de las exenciones, reducciones, bonificaciones, deducciones y demás beneficios o incentivos fiscales.",
-      "El establecimiento, modificación, supresión y prórroga de las exenciones, reducciones, bonificaciones, moratorias y demás beneficios o incentivos fiscales."
+      "El establecimiento, modificación y supresión de las exenciones, reducciones, bonificaciones, deducciones y demás beneficios o incentivos fiscales."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral en materia de recargos e intereses?",
+    "question": "Según la letra e) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "El establecimiento y modificación de los recargos y de la obligación de abonar intereses de demora.",
-      "El establecimiento y modificación de los recargos y de la obligación de abonar intereses de mora.",
-      "El establecimiento y supresión de los recargos y de la obligación de abonar intereses de demora.",
-      "El establecimiento y modificación de los plazos y de la obligación de abonar intereses de demora."
+      "El establecimiento y modificación de los recargos y de la obligación de abonar sanciones tributarias.",
+      "El establecimiento y modificación de las exenciones y de la obligación de abonar intereses de demora.",
+      "El establecimiento, modificación y supresión de los recargos y de la obligación de abonar intereses de demora."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral respecto de la prescripción y la caducidad?",
+    "question": "Según la letra f) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "El establecimiento y modificación de los plazos de prescripción y caducidad, así como de las causas de interrupción del cómputo de los plazos de prescripción y las de suspensión de los de caducidad.",
       "El establecimiento y modificación de los plazos de prescripción y caducidad, así como de las causas de suspensión del cómputo de los plazos de prescripción y las de interrupción de los de caducidad.",
       "El establecimiento y modificación de los plazos de prescripción y caducidad, así como de las causas de interrupción del cómputo de los plazos de caducidad y las de suspensión de los de prescripción.",
-      "El establecimiento y supresión de los plazos de prescripción y caducidad, así como de las causas de interrupción del cómputo de los plazos de prescripción y las de suspensión de los de caducidad."
+      "El establecimiento y modificación de los plazos de prescripción y devengo, así como de las causas de interrupción del cómputo de los plazos de prescripción y las de suspensión de los de caducidad."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral en materia de infracciones y sanciones?",
+    "question": "Según la letra g) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "El establecimiento y modificación de las infracciones y sanciones tributarias.",
-      "El establecimiento y condonación de las infracciones y sanciones tributarias.",
-      "El establecimiento y modificación de las intervenciones y sanciones tributarias.",
-      "La determinación y modificación de las infracciones y sanciones tributarias."
+      "El establecimiento y modificación de los recargos y sanciones tributarias.",
+      "El establecimiento y modificación de las infracciones y sanciones administrativas.",
+      "El establecimiento, modificación y condonación de las infracciones y sanciones tributarias."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué obligación de presentación de declaraciones se regulará en todo caso por Norma Foral?",
+    "question": "Según la letra h) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "La obligación de presentar declaraciones y autoliquidaciones referidas al cumplimiento de la obligación tributaria principal y la de pagos a cuenta.",
-      "La obligación de presentar declaraciones y autoliquidaciones referidas al cumplimiento de las obligaciones entre particulares y la de pagos a cuenta.",
-      "La obligación de presentar declaraciones y autoliquidaciones referidas al nacimiento de la obligación tributaria principal y la de pagos a cuenta.",
-      "La obligación de presentar reclamaciones y autoliquidaciones referidas al cumplimiento de la obligación tributaria principal y la de pagos a cuenta."
+      "La obligación de presentar declaraciones y autoliquidaciones referidas al cumplimiento de la obligación tributaria accesoria y la de pagos a cuenta.",
+      "La obligación de presentar declaraciones y comunicaciones referidas al cumplimiento de la obligación tributaria principal y la de pagos a cuenta.",
+      "La obligación de presentar declaraciones y autoliquidaciones referidas al cumplimiento de la obligación tributaria principal y la de pagos fraccionados."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, en relación con el incumplimiento de las obligaciones tributarias, ¿qué materia se regulará en todo caso por Norma Foral?",
+    "question": "Según la letra i) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "Las consecuencias del incumplimiento de las obligaciones tributarias respecto de la eficacia de los actos o negocios jurídicos.",
       "Las consecuencias del cumplimiento de las obligaciones tributarias respecto de la eficacia de los actos o negocios jurídicos.",
       "Las consecuencias del incumplimiento de las obligaciones tributarias respecto de la validez de los actos o negocios jurídicos.",
-      "Las consecuencias del incumplimiento de las obligaciones tributarias respecto de la eficacia de los actos o procedimientos administrativos."
+      "Las consecuencias del incumplimiento de las obligaciones formales respecto de la eficacia de los actos o negocios jurídicos."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿cuál de las siguientes materias se regulará en todo caso por Norma Foral?",
+    "question": "Según la letra j) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "Las obligaciones entre particulares resultantes de los tributos.",
       "Las obligaciones entre particulares resultantes de las sanciones.",
       "Las obligaciones entre la Administración y los particulares resultantes de los tributos.",
-      "Los beneficios entre particulares resultantes de los tributos."
+      "Las obligaciones accesorias entre particulares resultantes de los tributos."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral en materia de condonación y moratorias?",
+    "question": "Según la letra k) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "La condonación de deudas y sanciones tributarias y la concesión con carácter general de moratorias y quitas.",
       "La condonación de deudas y sanciones tributarias y la concesión con carácter particular de moratorias y quitas.",
-      "La modificación de deudas y sanciones tributarias y la concesión con carácter general de moratorias y quitas.",
-      "La condonación de deudas y sanciones tributarias y la concesión con carácter general de recargos y quitas."
+      "La condonación de deudas y recargos tributarios y la concesión con carácter general de moratorias y quitas.",
+      "La condonación de deudas y sanciones tributarias y la concesión con carácter general de aplazamientos y fraccionamientos."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué se regulará en todo caso por Norma Foral en relación con la vía económico administrativa?",
+    "question": "Según la letra l) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
-      "La determinación de los actos susceptibles de reclamación en vía económico administrativa.",
-      "La determinación de los actos susceptibles de reclamación en vía contencioso administrativa.",
-      "La determinación de los obligados tributarios susceptibles de reclamación en vía económico administrativa.",
-      "La delimitación de los actos susceptibles de reclamación en vía económico administrativa."
+      "La determinación de los actos susceptibles de reclamación en vía económico-administrativa.",
+      "La determinación de los actos susceptibles de recurso en vía contencioso-administrativa.",
+      "La determinación de los actos susceptibles de reclamación en vía administrativa ordinaria.",
+      "La determinación de los obligados tributarios susceptibles de reclamación en vía económico-administrativa."
     ],
     "article": "7"
   },
   {
-    "question": "Según el artículo 7, ¿qué supuestos relativos a las intervenciones tributarias se regularán en todo caso por Norma Foral?",
+    "question": "Según la letra m) del artículo 7 (Reserva de Norma Foral tributaria), se regulará en todo caso por Norma Foral:",
     "options": [
       "Los supuestos en que proceda el establecimiento de las intervenciones tributarias de carácter permanente.",
       "Los supuestos en que proceda el establecimiento de las intervenciones tributarias de carácter temporal.",
-      "Los supuestos en que proceda la supresión de las intervenciones tributarias de carácter permanente.",
-      "Los supuestos en que proceda el establecimiento de las infracciones tributarias de carácter permanente."
+      "Los supuestos en que proceda el establecimiento de las comprobaciones tributarias de carácter permanente.",
+      "Los supuestos en que proceda la supresión de las intervenciones tributarias de carácter permanente."
     ],
     "article": "7"
   },
   {
-    "question": "Según el apartado 1, ¿qué disposiciones normativas con rango de Norma Foral en materia tributaria podrá dictar la Diputación Foral?",
+    "question": "Según el apartado 1 del artículo 8 (Decretos Forales Normativos en materia tributaria), ¿en qué supuesto podrá la Diputación Foral dictar Decretos Forales Normativos?",
     "options": [
-      "Decretos Forales Normativos.",
-      "Decretos Forales Ordinarios.",
-      "Órdenes Forales Normativas.",
-      "Normas Forales Delegadas."
+      "Cuando su objeto sea exclusivamente la adaptación de la legislación del Territorio Histórico de Bizkaia y deban regir en dicho Territorio las mismas normas sustantivas y formales que en el territorio de régimen común.",
+      "Cuando su objeto sea principalmente la adaptación de la legislación del Territorio Histórico de Bizkaia y deban regir en dicho Territorio las mismas normas sustantivas y formales que en el territorio de régimen común.",
+      "Cuando su objeto sea exclusivamente la adaptación de la legislación del Territorio Histórico de Bizkaia y deban regir en dicho Territorio las mismas normas sustantivas y procesales que en el territorio de régimen común.",
+      "Cuando su objeto sea exclusivamente la adaptación de la legislación del Territorio Histórico de Bizkaia y deban regir en dicho Territorio las mismas normas sustantivas y formales que en el resto de Territorios Históricos."
     ],
     "article": "8"
   },
   {
-    "question": "Conforme al apartado 1, ¿en qué supuesto podrá la Diputación Foral dictar Decretos Forales Normativos, según su objeto?",
+    "question": "Según el apartado 2 del artículo 8 (Decretos Forales Normativos en materia tributaria), ¿por qué razones y con qué finalidad podrá la Diputación Foral, a propuesta del Diputado Foral de Hacienda y Finanzas, dictar Decretos Forales Normativos?",
     "options": [
-      "Cuando su objeto sea exclusivamente la adaptación de la legislación del Territorio Histórico de Bizkaia.",
-      "Cuando su objeto sea preferentemente la modificación de la legislación del Territorio Histórico de Bizkaia.",
-      "Cuando su objeto sea exclusivamente la derogación de la legislación del Territorio Histórico de Bizkaia.",
-      "Cuando su objeto sea principalmente la interpretación de la legislación del Territorio Histórico de Bizkaia."
+      "Por razones de urgencia, y siempre que convenga establecer o adaptar normas tributarias.",
+      "Por razones de urgencia, y siempre que convenga establecer o ratificar normas tributarias.",
+      "Por razones de seguridad jurídica, y siempre que convenga establecer o adaptar normas tributarias.",
+      "Por razones de coordinación, y siempre que convenga establecer o adaptar normas tributarias."
     ],
     "article": "8"
   },
   {
-    "question": "De acuerdo con el apartado 1, la adaptación procede cuando, de conformidad con lo dispuesto en el Concierto Económico, deban regir en el Territorio Histórico de Bizkaia respecto del territorio de régimen común:",
-    "options": [
-      "Las mismas normas sustantivas y formales que en el territorio de régimen común.",
-      "Las mismas normas sustantivas y procedimentales que en el territorio de régimen común.",
-      "Distintas normas sustantivas y formales que en el territorio de régimen común.",
-      "Las mismas normas presupuestarias y formales que en el territorio de régimen común."
-    ],
-    "article": "8"
-  },
-  {
-    "question": "Según el apartado 2, ¿a propuesta de quién podrá la Diputación Foral dictar Decretos Forales Normativos por razones de urgencia?",
-    "options": [
-      "Del Diputado Foral de Hacienda y Finanzas.",
-      "De las Juntas Generales de Bizkaia.",
-      "Del Director General de Hacienda.",
-      "Del Consejo de Gobierno Foral."
-    ],
-    "article": "8"
-  },
-  {
-    "question": "Conforme al apartado 2, la Diputación Foral podrá dictar Decretos Forales Normativos por razones de urgencia, y siempre que convenga:",
-    "options": [
-      "Establecer o adaptar normas tributarias.",
-      "Establecer o ratificar normas tributarias.",
-      "Interpretar o adaptar normas tributarias.",
-      "Establecer o derogar normas tributarias."
-    ],
-    "article": "8"
-  },
-  {
-    "question": "Según el apartado 2, ¿qué se hará con los Decretos Forales Normativos dictados por razones de urgencia?",
+    "question": "Según el apartado 2 del artículo 8 (Decretos Forales Normativos en materia tributaria), ¿qué debe hacerse con los Decretos Forales Normativos dictados por razones de urgencia?",
     "options": [
       "Se dará cuenta a las Juntas Generales para su posterior ratificación.",
       "Se dará cuenta a las Juntas Generales para su posterior derogación.",
-      "Se dará cuenta al Diputado Foral de Hacienda y Finanzas para su posterior ratificación.",
-      "Se dará cuenta a las Juntas Generales para su previa autorización."
+      "Se dará cuenta a la Diputación Foral para su posterior ratificación.",
+      "Se dará cuenta al Parlamento Vasco para su posterior ratificación."
     ],
     "article": "8"
   },
   {
-    "question": "Según el apartado 1, ¿cuándo entrarán en vigor las normas tributarias si en ellas no se dispone otra cosa?",
+    "question": "Según el apartado 1 del artículo 9 (Ámbito temporal de las normas tributarias), ¿cuándo entrarán en vigor las normas tributarias y por cuánto tiempo se aplicarán?",
     "options": [
-      "A los veinte días naturales de su completa publicación en el «Boletín Oficial de Bizkaia».",
-      "A los quince días hábiles de su completa publicación en el «Boletín Oficial de Bizkaia».",
-      "A los veinte días naturales de su íntegra aprobación por las Juntas Generales de Bizkaia.",
-      "El mismo día de su completa publicación en el «Boletín Oficial de Bizkaia»."
+      "A los veinte días naturales de su completa publicación en el «Boletín Oficial de Bizkaia», si en ellas no se dispone otra cosa, y se aplicarán por plazo indefinido, salvo que se fije un plazo determinado.",
+      "A los veinte días hábiles de su completa publicación en el «Boletín Oficial de Bizkaia», si en ellas no se dispone otra cosa, y se aplicarán por plazo indefinido, salvo que se fije un plazo determinado.",
+      "A los quince días naturales de su completa publicación en el «Boletín Oficial de Bizkaia», si en ellas no se dispone otra cosa, y se aplicarán por plazo indefinido, salvo que se fije un plazo determinado.",
+      "A los veinte días naturales de su completa publicación en el «Boletín Oficial de Bizkaia», si en ellas no se dispone otra cosa, y se aplicarán por plazo determinado, salvo que se fije un plazo indefinido."
     ],
     "article": "9"
   },
   {
-    "question": "Conforme al apartado 1, y salvo que se fije un plazo determinado, ¿durante qué plazo se aplicarán las normas tributarias?",
+    "question": "Según el apartado 2 del artículo 9 (Ámbito temporal de las normas tributarias), salvo que se disponga lo contrario, ¿qué efecto tienen las normas tributarias y a qué tributos se aplican?",
     "options": [
-      "Por plazo indefinido.",
-      "Por plazo prorrogable.",
-      "Por plazo cuatrienal.",
-      "Por plazo improrrogable."
+      "No tendrán efecto retroactivo y se aplicarán a los tributos sin periodo impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.",
+      "Tendrán efecto retroactivo y se aplicarán a los tributos sin periodo impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.",
+      "No tendrán efecto retroactivo y se aplicarán a los tributos con periodo impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.",
+      "No tendrán efecto retroactivo y se aplicarán a los tributos sin periodo impositivo devengados antes de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento."
     ],
     "article": "9"
   },
   {
-    "question": "Según el apartado 2, salvo que se disponga lo contrario, ¿a qué tributos se aplicarán las normas tributarias, que no tendrán efecto retroactivo?",
-    "options": [
-      "A los tributos sin periodo impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.",
-      "A los tributos sin periodo impositivo devengados con anterioridad a su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.",
-      "A los tributos con periodo impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo hubiera concluido desde ese momento.",
-      "A los tributos sin periodo impositivo devengados a partir de su publicación y a los demás tributos cuyo período impositivo finalice desde ese momento."
-    ],
-    "article": "9"
-  },
-  {
-    "question": "De acuerdo con el apartado 2, ¿qué normas tendrán efectos retroactivos respecto de los actos que no sean firmes cuando su aplicación resulte más favorable para el interesado?",
+    "question": "Según el apartado 2 del artículo 9 (Ámbito temporal de las normas tributarias), ¿qué normas tendrán efectos retroactivos respecto de los actos que no sean firmes cuando resulten más favorables para el interesado?",
     "options": [
       "Las que regulen el régimen de infracciones y sanciones tributarias y el de los recargos.",
-      "Las que regulen el régimen de infracciones y sanciones tributarias y el de los aplazamientos.",
-      "Las que regulen el régimen de comprobación y liquidación tributarias y el de los recargos.",
-      "Las que regulen el régimen de infracciones y garantías tributarias y el de las devoluciones."
+      "Las que regulen el régimen de infracciones y sanciones tributarias y el de los intereses de demora.",
+      "Las que regulen el régimen de infracciones y sanciones tributarias y el de las obligaciones formales.",
+      "Las que regulen el régimen de exenciones y beneficios fiscales y el de los recargos."
     ],
     "article": "9"
   },
   {
-    "question": "Según el apartado 2, las normas reguladoras de infracciones, sanciones y recargos tendrán efectos retroactivos, cuando su aplicación resulte más favorable para el interesado, respecto de:",
+    "question": "Según el apartado 2 del artículo 9 (Ámbito temporal de las normas tributarias), ¿respecto de qué actos tendrán efectos retroactivos las normas de infracciones, sanciones y recargos cuando resulten más favorables para el interesado?",
     "options": [
-      "Los actos que no sean firmes.",
-      "Los actos que sean firmes.",
-      "Los actos que no hayan sido notificados.",
-      "Los actos que no sean recurribles."
+      "Respecto de los actos que no sean firmes, cuando su aplicación resulte más favorable para el interesado.",
+      "Respecto de los actos que sean firmes, cuando su aplicación resulte más favorable para el interesado.",
+      "Respecto de los actos que no sean firmes, cuando su aplicación resulte más gravosa para el interesado.",
+      "Respecto de todos los actos, cuando su aplicación resulte más favorable para el interesado."
     ],
     "article": "9"
   },
   {
-    "question": "Según el artículo 10, ¿conforme a qué criterios se aplicarán los tributos?",
+    "question": "Según el artículo 10 (Criterios de sujeción a las normas tributarias), ¿conforme a qué criterios se aplicarán los tributos?",
     "options": [
       "Conforme a los criterios de residencia o territorialidad que por Norma Foral se establezcan en cada caso.",
-      "Conforme a los criterios de residencia o territorialidad que por vía reglamentaria se establezcan en cada caso.",
-      "Conforme a los criterios de nacionalidad o territorialidad que por Norma Foral se establezcan en cada caso.",
-      "Conforme a los criterios de residencia o territorialidad que las Entidades Locales establezcan en cada caso."
+      "Conforme a los criterios de residencia o territorialidad que por reglamento se establezcan en cada caso.",
+      "Conforme a los criterios de residencia o nacionalidad que por Norma Foral se establezcan en cada caso.",
+      "Conforme a los criterios de domicilio o territorialidad que por Norma Foral se establezcan en cada caso."
     ],
     "article": "10"
   },
   {
-    "question": "Según el artículo 10, en defecto de criterios establecidos por Norma Foral, ¿conforme a qué criterio se exigirán los tributos de carácter personal?",
+    "question": "Según el artículo 10 (Criterios de sujeción a las normas tributarias), en defecto de criterio establecido por Norma Foral, ¿conforme a qué criterio se exigirán los tributos de carácter personal y los demás tributos?",
     "options": [
-      "Conforme al criterio de residencia.",
-      "Conforme al criterio de territorialidad.",
-      "Conforme al criterio de nacionalidad.",
-      "Conforme al criterio del objeto gravado."
+      "Los de carácter personal conforme al criterio de residencia y los demás conforme al criterio de territorialidad que resulte más adecuado a la naturaleza del objeto gravado.",
+      "Los de carácter personal conforme al criterio de territorialidad y los demás conforme al criterio de residencia que resulte más adecuado a la naturaleza del objeto gravado.",
+      "Los de carácter personal conforme al criterio de residencia y los demás conforme al criterio de territorialidad que resulte más adecuado a la naturaleza del hecho imponible.",
+      "Los de carácter real conforme al criterio de residencia y los demás conforme al criterio de territorialidad que resulte más adecuado a la naturaleza del objeto gravado."
     ],
     "article": "10"
   },
   {
-    "question": "Según el artículo 10, en defecto de criterios establecidos por Norma Foral, los demás tributos distintos de los de carácter personal se exigirán conforme a:",
+    "question": "Según el apartado 1 del artículo 11 (Interpretación de las normas tributarias), ¿con arreglo a qué se interpretarán las normas tributarias?",
     "options": [
-      "El criterio de territorialidad que resulte más adecuado a la naturaleza del objeto gravado.",
-      "El criterio de residencia que resulte más adecuado a la naturaleza del objeto gravado.",
-      "El criterio de territorialidad que resulte más adecuado a la naturaleza del sujeto obligado.",
-      "El criterio de territorialidad que en cada caso establezcan las Entidades Locales."
-    ],
-    "article": "10"
-  },
-  {
-    "question": "Según el apartado 1, ¿con arreglo a qué se interpretarán las normas tributarias?",
-    "options": [
-      "A lo dispuesto en el apartado 1 del artículo 3 del Código Civil.",
-      "A lo dispuesto en el apartado 1 del artículo 3 del Código Penal.",
-      "A lo dispuesto en el apartado 3 del artículo 1 del Código Civil.",
-      "A lo dispuesto en el apartado 1 del artículo 3 del Código de Comercio."
+      "Con arreglo a lo dispuesto en el apartado 1 del artículo 3 del Código Civil.",
+      "Con arreglo a lo dispuesto en el apartado 1 del artículo 3 del Código de Comercio.",
+      "Con arreglo a lo dispuesto en el apartado 3 del artículo 1 del Código Civil.",
+      "Con arreglo a lo dispuesto en el apartado 1 del artículo 3 de la Constitución."
     ],
     "article": "11"
   },
   {
-    "question": "Según el apartado 2, en tanto no se definan por la normativa tributaria, ¿cómo se entenderán los términos empleados en sus normas?",
+    "question": "Según el apartado 2 del artículo 11 (Interpretación de las normas tributarias), en tanto no se definan por la normativa tributaria, ¿conforme a qué se entenderán los términos empleados en sus normas?",
     "options": [
       "Conforme a su sentido jurídico, técnico o usual, según proceda.",
-      "Conforme a su sentido jurídico, económico o usual, según proceda.",
+      "Conforme a su sentido jurídico, técnico o literal, según proceda.",
       "Conforme a su sentido gramatical, técnico o usual, según proceda.",
-      "Conforme a su sentido jurídico, técnico o usual, en todo caso."
+      "Conforme a su sentido jurídico, económico o usual, según proceda."
     ],
     "article": "11"
   },
   {
-    "question": "Según el apartado 3, en el ámbito de las competencias de la Diputación Foral, ¿a quién corresponde de forma exclusiva la facultad de dictar disposiciones interpretativas o aclaratorias de las Normas Forales y demás disposiciones en materia tributaria?",
+    "question": "Según el apartado 3 del artículo 11 (Interpretación de las normas tributarias), en el ámbito de las competencias de la Diputación Foral, ¿a quién corresponde de forma exclusiva la facultad de dictar disposiciones interpretativas o aclaratorias de las Normas Forales tributarias?",
     "options": [
       "Al Diputado Foral de Hacienda y Finanzas.",
       "A la Diputación Foral.",
-      "A las Juntas Generales de Bizkaia.",
-      "A los órganos de la Administración tributaria."
+      "Al Departamento de Hacienda y Finanzas.",
+      "A las Juntas Generales."
     ],
     "article": "11"
   },
   {
-    "question": "Según el apartado 3, ¿qué carácter tienen las disposiciones interpretativas o aclaratorias y dónde se publicarán?",
+    "question": "Según el apartado 3 del artículo 11 (Interpretación de las normas tributarias), las disposiciones interpretativas o aclaratorias, ¿para quién serán de obligado cumplimiento y dónde se publicarán?",
     "options": [
-      "Serán de obligado cumplimiento para todos los órganos de la Administración tributaria y se publicarán en el «Boletín Oficial de Bizkaia».",
-      "Serán de obligado cumplimiento para todos los obligados tributarios y se publicarán en el «Boletín Oficial de Bizkaia».",
-      "Serán de obligado cumplimiento para todos los órganos de la Administración tributaria y se publicarán en el «Boletín Oficial del País Vasco».",
-      "Serán de recomendado cumplimiento para todos los órganos de la Administración tributaria y se publicarán en el «Boletín Oficial de Bizkaia»."
+      "Para todos los órganos de la Administración tributaria, y se publicarán en el «Boletín Oficial de Bizkaia».",
+      "Para todos los órganos de la Administración tributaria, y se publicarán en el «Boletín Oficial del Estado».",
+      "Para todos los obligados tributarios, y se publicarán en el «Boletín Oficial de Bizkaia».",
+      "Para todos los órganos de las Entidades Locales, y se publicarán en el «Boletín Oficial de Bizkaia»."
     ],
     "article": "11"
   },
   {
-    "question": "Según el artículo 12, sobre la calificación, ¿con arreglo a qué se exigirán las obligaciones tributarias?",
+    "question": "Según el artículo 12 (Calificación), ¿con arreglo a qué se exigirán las obligaciones tributarias?",
     "options": [
       "Con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado, cualquiera que sea la forma o denominación que los interesados le hubieran dado, y prescindiendo de los defectos que pudieran afectar a su validez.",
       "Con arreglo a la naturaleza económica del hecho, acto o negocio realizado, cualquiera que sea la forma o denominación que los interesados le hubieran dado, y prescindiendo de los defectos que pudieran afectar a su validez.",
-      "Con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado, conforme a la forma o denominación que los interesados le hubieran dado, y prescindiendo de los defectos que pudieran afectar a su validez.",
+      "Con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado, según la forma o denominación que los interesados le hubieran dado, y prescindiendo de los defectos que pudieran afectar a su validez.",
       "Con arreglo a la naturaleza jurídica del hecho, acto o negocio realizado, cualquiera que sea la forma o denominación que los interesados le hubieran dado, y atendiendo a los defectos que pudieran afectar a su validez."
     ],
     "article": "12"
   },
   {
-    "question": "Conforme al artículo 12, a efectos de calificar el hecho, acto o negocio realizado, la forma o denominación que los interesados le hubieran dado:",
+    "question": "Según el artículo 13 (Prohibición de la analogía), ¿para qué no se admitirá la analogía?",
     "options": [
-      "Resulta indiferente, pues se atiende a su naturaleza jurídica cualquiera que sea dicha forma o denominación.",
-      "Resulta determinante, pues se atiende siempre a la forma o denominación dada por los interesados.",
-      "Resulta indiferente, salvo que dicha forma o denominación afecte a la validez del negocio.",
-      "Resulta determinante, pues prevalece sobre la naturaleza jurídica del hecho, acto o negocio."
-    ],
-    "article": "12"
-  },
-  {
-    "question": "Según el artículo 12, en la exigencia de las obligaciones tributarias, los defectos que pudieran afectar a la validez del hecho, acto o negocio realizado:",
-    "options": [
-      "Se prescinde de ellos, exigiéndose las obligaciones con arreglo a la naturaleza jurídica del hecho, acto o negocio.",
-      "Se tienen en cuenta, impidiendo exigir las obligaciones cuando afecten a la validez del hecho, acto o negocio.",
-      "Se prescinde de ellos, salvo cuando alteren la forma o denominación dada por los interesados.",
-      "Se tienen en cuenta, exigiéndose las obligaciones con arreglo a la forma o denominación dada por los interesados."
-    ],
-    "article": "12"
-  },
-  {
-    "question": "Según el artículo 13, ¿qué no se admitirá para extender más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás beneficios o incentivos fiscales?",
-    "options": [
-      "La analogía.",
-      "La interpretación.",
-      "La calificación.",
-      "La integración."
+      "Para extender más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás beneficios o incentivos fiscales.",
+      "Para restringir más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás beneficios o incentivos fiscales.",
+      "Para extender más allá de sus términos estrictos el ámbito del hecho imponible, de las sanciones y demás beneficios o incentivos fiscales.",
+      "Para extender más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás obligaciones o deberes formales."
     ],
     "article": "13"
   },
   {
-    "question": "Conforme al artículo 13, la prohibición de la analogía impide extender más allá de sus términos estrictos el ámbito del hecho imponible, de las exenciones y demás:",
-    "options": [
-      "beneficios o incentivos fiscales.",
-      "obligaciones o deberes fiscales.",
-      "recargos o sanciones fiscales.",
-      "supuestos o presunciones fiscales."
-    ],
-    "article": "13"
-  },
-  {
-    "question": "Según el artículo 13, ¿hasta dónde no puede extenderse mediante la analogía el ámbito del hecho imponible y de los beneficios fiscales?",
-    "options": [
-      "Más allá de sus términos estrictos.",
-      "Más allá de sus términos generales.",
-      "Más acá de sus términos estrictos.",
-      "Dentro de sus términos estrictos."
-    ],
-    "article": "13"
-  },
-  {
-    "question": "Según el apartado 1, ¿cuándo será aplicable la cláusula antielusión regulada en el artículo?",
+    "question": "Según el apartado 1 del artículo 14 (Cláusula antielusión), ¿cuándo será aplicable la cláusula antielusión?",
     "options": [
       "Cuando se evite total o parcialmente la realización del hecho imponible o se minore la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias.",
-      "Cuando se evite total o parcialmente la realización del hecho imponible o se incremente la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias.",
-      "Cuando se retrase total o parcialmente la realización del hecho imponible o se minore la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias.",
-      "Cuando se evite exclusivamente la realización del hecho imponible o se minore la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias."
+      "Cuando se evite total o parcialmente la realización del hecho imponible o se aumente la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias.",
+      "Cuando se evite exclusivamente la realización del hecho imponible o se minore la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias.",
+      "Cuando se evite total o parcialmente el devengo del tributo o se minore la base o la deuda tributaria mediante actos o negocios en los que concurran determinadas circunstancias."
     ],
     "article": "14"
   },
   {
-    "question": "Conforme a la letra a) del apartado 1, ¿qué circunstancia deben reunir los actos o negocios para aplicar la cláusula antielusión?",
+    "question": "Según la letra a) del apartado 1 del artículo 14 (Cláusula antielusión), ¿qué circunstancia debe concurrir en los actos o negocios?",
     "options": [
       "Que, individualmente considerados o en su conjunto, sean notoriamente artificiosos o impropios para la consecución del resultado obtenido.",
-      "Que, individualmente considerados o en su conjunto, sean notoriamente habituales o propios para la consecución del resultado obtenido.",
-      "Que, únicamente considerados en su conjunto, sean notoriamente artificiosos o impropios para la consecución del resultado obtenido.",
-      "Que, individualmente considerados o en su conjunto, sean notoriamente artificiosos o impropios para la ocultación del resultado obtenido."
+      "Que, individualmente considerados o en su conjunto, sean manifiestamente lícitos o propios para la consecución del resultado obtenido.",
+      "Que, individualmente considerados o en su conjunto, sean notoriamente artificiosos o impropios para la consecución del ahorro fiscal.",
+      "Que, únicamente considerados en su conjunto, sean notoriamente artificiosos o impropios para la consecución del resultado obtenido."
     ],
     "article": "14"
   },
   {
-    "question": "Conforme a la letra b) del apartado 1, ¿qué debe ocurrir con los efectos derivados de la utilización de los actos o negocios?",
+    "question": "Según la letra b) del apartado 1 del artículo 14 (Cláusula antielusión), ¿qué circunstancia debe concurrir en los actos o negocios?",
     "options": [
       "Que de su utilización no resulten efectos jurídicos o económicos relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios usuales o propios.",
-      "Que de su utilización no resulten efectos jurídicos o económicos relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios artificiosos o impropios.",
       "Que de su utilización resulten efectos jurídicos o económicos relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios usuales o propios.",
-      "Que de su utilización no resulten efectos jurídicos o económicos relevantes, salvo el ahorro fiscal y los efectos que se hubieran obtenido con los actos o negocios notoriamente artificiosos."
+      "Que de su utilización no resulten efectos jurídicos o económicos relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios artificiosos o impropios.",
+      "Que de su utilización no resulten efectos jurídicos o fiscales relevantes, distintos del ahorro fiscal y de los efectos que se hubieran obtenido con los actos o negocios usuales o propios."
     ],
     "article": "14"
   },
   {
-    "question": "Según el apartado 2, para que la Administración tributaria pueda declarar la existencia del supuesto regulado en el apartado anterior, ¿a qué se atenderá?",
+    "question": "Según el apartado 2 del artículo 14 (Cláusula antielusión), para que la Administración tributaria pueda declarar la existencia del supuesto regulado en el apartado anterior, ¿a qué se atenderá?",
     "options": [
       "A lo previsto en el artículo 163 de esta Norma Foral.",
       "A lo previsto en el artículo 200 bis de esta Norma Foral.",
-      "A lo previsto en el artículo 200 de esta Norma Foral.",
-      "A lo previsto en el artículo 136 de esta Norma Foral."
+      "A lo previsto en el artículo 34 de esta Norma Foral.",
+      "A lo previsto en el artículo 15 de esta Norma Foral."
     ],
     "article": "14"
   },
   {
-    "question": "Según el apartado 3, ¿cómo se exigirá el tributo en las liquidaciones que se realicen como resultado de lo dispuesto en este artículo?",
+    "question": "Según el apartado 3 del artículo 14 (Cláusula antielusión), en las liquidaciones que se realicen como resultado de este artículo, ¿cómo se exigirá el tributo y qué se liquidará?",
     "options": [
       "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o eliminando las ventajas fiscales obtenidas, y se liquidarán intereses de demora y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral.",
       "Aplicando la norma que hubiera correspondido a los actos o negocios artificiosos o impropios o eliminando las ventajas fiscales obtenidas, y se liquidarán intereses de demora y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral.",
-      "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o manteniendo las ventajas fiscales obtenidas, y se liquidarán intereses de demora y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral.",
-      "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o eliminando las ventajas fiscales obtenidas, y se liquidarán recargos por declaración extemporánea y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral."
+      "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o eliminando las ventajas fiscales obtenidas, y se liquidarán recargos y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral.",
+      "Aplicando la norma que hubiera correspondido a los actos o negocios usuales o propios o manteniendo las ventajas fiscales obtenidas, y se liquidarán intereses de demora y, en su caso, las sanciones previstas en el artículo 200 bis de esta Norma Foral."
     ],
     "article": "14"
   },
   {
-    "question": "Según el apartado 1, en los actos o negocios en los que exista simulación, ¿cuál será el hecho imponible gravado?",
+    "question": "Según el apartado 1 del artículo 15 (Simulación), en los actos o negocios en los que exista simulación, ¿cuál será el hecho imponible gravado?",
     "options": [
       "El efectivamente realizado por las partes.",
       "El aparentemente realizado por las partes.",
-      "El efectivamente declarado por la Administración tributaria.",
-      "El que resulte más gravoso para las partes."
+      "El que resulte más gravoso para las partes.",
+      "El que hubiera correspondido a los actos usuales o propios."
     ],
     "article": "15"
   },
   {
-    "question": "Conforme al apartado 2, ¿por quién será declarada la existencia de simulación y con qué alcance en cuanto a sus efectos?",
+    "question": "Según el apartado 2 del artículo 15 (Simulación), ¿por quién y en qué acto será declarada la existencia de simulación, y qué efectos producirá dicha calificación?",
     "options": [
       "Por la Administración tributaria en el correspondiente acto de liquidación, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios.",
-      "Por la Administración tributaria en el correspondiente acto de liquidación, produciendo dicha calificación efectos tanto tributarios como sancionadores.",
-      "Por los obligados tributarios en el correspondiente acto de liquidación, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios.",
-      "Por la Administración tributaria en la regularización que proceda, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios."
+      "Por la Administración tributaria en el correspondiente acto de liquidación, sin que dicha calificación produzca otros efectos que los exclusivamente sancionadores.",
+      "Por los órganos económico-administrativos en el correspondiente acto de liquidación, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios.",
+      "Por la Administración tributaria en el correspondiente acto de comprobación, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios."
     ],
     "article": "15"
   },
   {
-    "question": "De acuerdo con el apartado 3, ¿qué se exigirá en la regularización que proceda como consecuencia de la existencia de simulación?",
+    "question": "Según el apartado 3 del artículo 15 (Simulación), en la regularización que proceda como consecuencia de la existencia de simulación, ¿qué se exigirá?",
     "options": [
       "Los intereses de demora y, en su caso, la sanción pertinente.",
+      "Los recargos y, en su caso, la sanción pertinente.",
       "Los intereses de demora y, en todo caso, la sanción pertinente.",
-      "Los recargos por declaración extemporánea y, en su caso, la sanción pertinente.",
-      "Los intereses de demora y, en su caso, el recargo de apremio pertinente."
+      "Las ventajas fiscales y, en su caso, la sanción pertinente."
     ],
     "article": "15"
   },
   {
-    "question": "Según el apartado 1, ¿qué son los tributos?",
+    "question": "Según el apartado 1 del artículo 16 (Concepto, fines y clases de los tributos), ¿qué son los tributos?",
     "options": [
-      "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de contribuir.",
-      "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del hecho imponible al que la Norma Foral vincula el deber de colaborar.",
-      "Ingresos privados que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de contribuir.",
-      "Ingresos públicos que consisten en prestaciones patrimoniales exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que el reglamento vincula el deber de contribuir."
+      "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de contribuir, con el fin primordial de obtener los ingresos necesarios para el sostenimiento de los gastos públicos.",
+      "Ingresos públicos que consisten en prestaciones patrimoniales exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de contribuir, con el fin primordial de obtener los ingresos necesarios para el sostenimiento de los gastos públicos.",
+      "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de colaborar, con el fin primordial de obtener los ingresos necesarios para el sostenimiento de los gastos públicos.",
+      "Ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la Norma Foral vincula el deber de contribuir, con el fin exclusivo de obtener los ingresos necesarios para el sostenimiento de los gastos públicos."
     ],
     "article": "16"
   },
   {
-    "question": "Conforme al apartado 1, ¿cuál es el fin primordial de los tributos?",
+    "question": "Según el apartado 1 del artículo 16 (Concepto, fines y clases de los tributos), además de su fin primordial, ¿como qué podrán servir los tributos?",
     "options": [
-      "Obtener los ingresos necesarios para el sostenimiento de los gastos públicos.",
-      "Obtener los ingresos necesarios para el sostenimiento de los servicios públicos.",
-      "Procurar la estabilidad y el progreso sociales y la mejor distribución de la renta.",
-      "Servir como instrumentos de política económica general para el reparto de las cargas."
+      "Como instrumentos de política económica general, para procurar la estabilidad y el progreso sociales y la mejor distribución de la renta.",
+      "Como instrumentos de política económica general, para procurar la estabilidad y el progreso sociales y la mejor distribución de la riqueza.",
+      "Como instrumentos de política fiscal general, para procurar la estabilidad y el progreso sociales y la mejor distribución de la renta.",
+      "Como instrumentos de política económica general, para procurar la estabilidad y el desarrollo económicos y la mejor distribución de la renta."
     ],
     "article": "16"
   },
   {
-    "question": "Según el apartado 1, además de su fin primordial, los tributos podrán servir como instrumentos de política económica general, ¿para qué?",
+    "question": "Según el apartado 2 del artículo 16 (Concepto, fines y clases de los tributos), ¿cómo se clasifican los tributos, cualquiera que sea su denominación?",
     "options": [
-      "Para procurar la estabilidad y el progreso sociales y la mejor distribución de la renta.",
-      "Para procurar la estabilidad y el crecimiento sociales y la mejor distribución de la renta.",
-      "Para procurar la estabilidad y el progreso sociales y la mayor recaudación de la Hacienda.",
-      "Para procurar el sostenimiento de los gastos públicos y la mejor distribución de la renta."
+      "En tasas, contribuciones especiales e impuestos.",
+      "En tasas, contribuciones especiales y recargos.",
+      "En tasas, precios públicos e impuestos.",
+      "En tributos, contribuciones especiales e impuestos."
     ],
     "article": "16"
   },
   {
-    "question": "De acuerdo con el apartado 2, los tributos, cualquiera que sea su denominación, se clasifican en:",
+    "question": "Según la letra a) del apartado 2 del artículo 16 (Concepto, fines y clases de los tributos), ¿qué son las tasas?",
     "options": [
-      "Tasas, contribuciones especiales e impuestos.",
-      "Tasas, contribuciones especiales y precios públicos.",
-      "Tasas, prestaciones patrimoniales e impuestos.",
-      "Impuestos directos, impuestos indirectos y contribuciones especiales."
+      "Los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando los servicios o actividades no sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado.",
+      "Los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando los servicios o actividades sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado.",
+      "Los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando los servicios o actividades no sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector público.",
+      "Los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho privado que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando los servicios o actividades no sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado."
     ],
     "article": "16"
   },
   {
-    "question": "Según la letra a) del apartado 2, ¿en qué consiste el hecho imponible de las tasas?",
+    "question": "Según la letra b) del apartado 2 del artículo 16 (Concepto, fines y clases de los tributos), ¿qué son las contribuciones especiales?",
     "options": [
-      "En la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario.",
-      "En la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho privado que se refieran, afecten o beneficien de modo particular al obligado tributario.",
-      "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes que se refiera, afecte o beneficie de modo particular al obligado tributario.",
-      "En la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que pongan de manifiesto la capacidad económica del contribuyente."
+      "Los tributos cuyo hecho imponible consiste en la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
+      "Los tributos cuyo hecho imponible consiste en la obtención por el obligado tributario de un beneficio o de una disminución de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
+      "Los tributos cuyo hecho imponible consiste en la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o supresión de servicios públicos.",
+      "Los tributos cuyo hecho imponible consiste en la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras privadas o del establecimiento o ampliación de servicios públicos."
     ],
     "article": "16"
   },
   {
-    "question": "Conforme a la letra a) del apartado 2, las tasas se exigen por dichos servicios o actividades cuando estos:",
-    "options": [
-      "No sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado.",
-      "No sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector público.",
-      "Sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado.",
-      "No sean de solicitud o recepción obligatoria para los obligados tributarios o no se presten o realicen por el sector privado."
-    ],
-    "article": "16"
-  },
-  {
-    "question": "Según la letra b) del apartado 2, ¿en qué consiste el hecho imponible de las contribuciones especiales?",
-    "options": [
-      "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
-      "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la prestación de servicios o la realización de actividades en régimen de derecho público.",
-      "En la obtención por el obligado tributario de un beneficio o de una disminución de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
-      "En la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o de la supresión o reducción de servicios públicos."
-    ],
-    "article": "16"
-  },
-  {
-    "question": "Según la letra c) del apartado 2, ¿cómo se definen los impuestos?",
+    "question": "Según la letra c) del apartado 2 del artículo 16 (Concepto, fines y clases de los tributos), ¿qué son los impuestos?",
     "options": [
       "Los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad económica del contribuyente.",
-      "Los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad de pago del obligado tributario.",
       "Los tributos exigidos con contraprestación cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad económica del contribuyente.",
-      "Los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por la utilización privativa o el aprovechamiento especial del dominio público."
+      "Los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad económica del obligado tributario.",
+      "Los tributos exigidos sin contraprestación cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad contributiva del contribuyente."
     ],
     "article": "16"
   },
   {
-    "question": "Según el apartado 1, ¿qué se entiende por relación jurídico-tributaria?",
+    "question": "Según el apartado 1 del artículo 17 (La relación jurídico-tributaria), ¿qué se entiende por relación jurídico-tributaria?",
     "options": [
       "El conjunto de obligaciones y deberes, derechos y potestades originados por la aplicación de los tributos.",
-      "El conjunto de obligaciones y deberes, derechos y sanciones originados por la aplicación de los tributos.",
-      "El conjunto de obligaciones y deberes, derechos y potestades originados por la extinción de los tributos.",
-      "El conjunto de obligaciones materiales y formales, derechos y potestades originados por la recaudación de los tributos."
+      "El conjunto de obligaciones y deberes, derechos y potestades originados por la ordenación de los tributos.",
+      "El conjunto de obligaciones y sanciones, derechos y potestades originados por la aplicación de los tributos.",
+      "El conjunto de obligaciones y deberes, derechos y garantías originados por la aplicación de los tributos."
     ],
     "article": "17"
   },
   {
-    "question": "Según el apartado 2, ¿qué puede derivarse de la relación jurídico-tributaria?",
+    "question": "Según el apartado 2 del artículo 17 (La relación jurídico-tributaria), ¿qué puede derivarse de la relación jurídico-tributaria?",
     "options": [
       "Obligaciones materiales y formales para el obligado tributario y para la Administración, así como la imposición de sanciones tributarias en caso de su incumplimiento.",
-      "Obligaciones materiales y formales para el obligado tributario y para la Administración, así como la imposición de sanciones tributarias en todo caso.",
       "Obligaciones materiales y accesorias para el obligado tributario y para la Administración, así como la imposición de sanciones tributarias en caso de su incumplimiento.",
+      "Obligaciones materiales y formales para el obligado tributario y para la Administración, así como la imposición de recargos tributarios en caso de su incumplimiento.",
       "Obligaciones materiales y formales exclusivamente para el obligado tributario, así como la imposición de sanciones tributarias en caso de su incumplimiento."
     ],
     "article": "17"
   },
   {
-    "question": "Según el apartado 3, ¿cuáles son las obligaciones tributarias materiales?",
+    "question": "Según el apartado 3 del artículo 17 (La relación jurídico-tributaria), ¿cuáles son las obligaciones tributarias materiales?",
     "options": [
       "Las de carácter principal, las de realizar pagos a cuenta, las establecidas entre particulares resultantes del tributo y las accesorias.",
       "Las de carácter principal, las de realizar pagos a cuenta, las establecidas entre particulares resultantes del tributo y las formales.",
-      "Las de carácter principal, las de realizar pagos a cuenta, las impuestas por la asistencia mutua y las accesorias.",
-      "Las de carácter principal, las de realizar pagos fraccionados, las establecidas entre particulares resultantes del tributo y las accesorias."
+      "Las de carácter principal, las de realizar pagos fraccionados, las establecidas entre particulares resultantes del tributo y las accesorias.",
+      "Las de carácter accesorio, las de realizar pagos a cuenta, las establecidas entre particulares resultantes del tributo y las principales."
     ],
     "article": "17"
   },
   {
-    "question": "Según el apartado 4, ¿cómo se definen las obligaciones tributarias formales?",
+    "question": "Según el apartado 4 del artículo 17 (La relación jurídico-tributaria), ¿cuáles son las obligaciones tributarias formales?",
     "options": [
       "Las que, sin tener carácter pecuniario, son impuestas por la normativa tributaria a los obligados tributarios, deudores o no del tributo, y cuyo cumplimiento está relacionado con el desarrollo de actuaciones o procedimientos tributarios.",
       "Las que, teniendo carácter pecuniario, son impuestas por la normativa tributaria a los obligados tributarios, deudores o no del tributo, y cuyo cumplimiento está relacionado con el desarrollo de actuaciones o procedimientos tributarios.",
       "Las que, sin tener carácter pecuniario, son impuestas por la normativa tributaria a los obligados tributarios, deudores del tributo, y cuyo cumplimiento está relacionado con el desarrollo de actuaciones o procedimientos tributarios.",
-      "Las que, sin tener carácter pecuniario, son impuestas por la normativa tributaria a los obligados tributarios, deudores o no del tributo, y cuyo cumplimiento está relacionado con la extinción de la deuda tributaria."
+      "Las que, sin tener carácter pecuniario, son impuestas por la normativa tributaria a los obligados tributarios, deudores o no del tributo, y cuyo cumplimiento está relacionado con el desarrollo de actuaciones o procedimientos sancionadores."
     ],
     "article": "17"
   },
   {
-    "question": "Según el apartado 5, en el marco de la asistencia mutua, ¿qué ocurre con las obligaciones tributarias que pueden establecerse a los obligados tributarios?",
+    "question": "Según el apartado 5 del artículo 17 (La relación jurídico-tributaria), en el marco de la asistencia mutua, ¿qué podrán establecerse a los obligados tributarios y qué ocurre en caso de incumplimiento?",
     "options": [
-      "Podrán establecerse cualquiera que sea su objeto, y en caso de su incumplimiento podrán imponerse las sanciones tributarias establecidas en la normativa aplicable.",
-      "Podrán establecerse solo cuando su objeto sea pecuniario, y en caso de su incumplimiento podrán imponerse las sanciones tributarias establecidas en la normativa aplicable.",
-      "Podrán establecerse cualquiera que sea su objeto, y en caso de su incumplimiento nunca podrán imponerse sanciones tributarias establecidas en la normativa aplicable.",
-      "Podrán establecerse cualquiera que sea su objeto, y en caso de su incumplimiento podrán imponerse las consecuencias jurídico-privadas establecidas en la normativa aplicable."
+      "Obligaciones tributarias, cualquiera que sea su objeto, y en caso de incumplimiento podrán imponerse las sanciones tributarias establecidas en la normativa aplicable.",
+      "Obligaciones formales, cualquiera que sea su objeto, y en caso de incumplimiento podrán imponerse las sanciones tributarias establecidas en la normativa aplicable.",
+      "Obligaciones tributarias, cualquiera que sea su objeto, y en caso de incumplimiento podrán imponerse los recargos establecidos en la normativa aplicable.",
+      "Obligaciones tributarias, únicamente de carácter pecuniario, y en caso de incumplimiento podrán imponerse las sanciones tributarias establecidas en la normativa aplicable."
     ],
     "article": "17"
   },
   {
-    "question": "Según el apartado 6, ¿qué ocurre con los elementos de la obligación tributaria respecto de los actos o convenios de los particulares?",
+    "question": "Según el apartado 6 del artículo 17 (La relación jurídico-tributaria), ¿pueden los elementos de la obligación tributaria ser alterados por actos o convenios de los particulares?",
     "options": [
       "No podrán ser alterados por actos o convenios de los particulares, que no producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-privadas.",
       "Podrán ser alterados por actos o convenios de los particulares, que no producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-privadas.",
       "No podrán ser alterados por actos o convenios de los particulares, que producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-privadas.",
-      "No podrán ser alterados por actos o convenios de los particulares, que no producirán efectos ante la Administración, sin perjuicio de sus consecuencias sancionadoras."
+      "No podrán ser alterados por actos o convenios de los particulares, que no producirán efectos ante la Administración, sin perjuicio de sus consecuencias jurídico-públicas."
     ],
     "article": "17"
   },
   {
-    "question": "Según el artículo 18, sobre la indisponibilidad del crédito tributario, ¿qué se establece?",
+    "question": "Según el artículo 18 (Indisponibilidad del crédito tributario), ¿qué carácter tiene el crédito tributario?",
     "options": [
-      "El crédito tributario es indisponible salvo que por Norma Foral se establezca otra cosa.",
-      "El crédito tributario es indisponible salvo que por vía reglamentaria se establezca otra cosa.",
-      "El crédito tributario es disponible salvo que por Norma Foral se establezca otra cosa.",
-      "El crédito tributario es indisponible en todo caso, sin que Norma Foral pueda establecer otra cosa."
+      "Es indisponible, salvo que por Norma Foral se establezca otra cosa.",
+      "Es disponible, salvo que por Norma Foral se establezca otra cosa.",
+      "Es indisponible, salvo que por reglamento se establezca otra cosa.",
+      "Es indisponible en todo caso, sin que por Norma Foral pueda establecerse otra cosa."
     ],
     "article": "18"
   },
   {
-    "question": "Según el artículo 19, ¿qué tiene por objeto la obligación tributaria principal?",
+    "question": "Según el artículo 19 (Obligación tributaria principal), ¿qué objeto tiene la obligación tributaria principal?",
     "options": [
       "El pago de la cuota tributaria.",
       "El pago de la deuda tributaria.",
       "El pago de los pagos a cuenta.",
-      "El pago de las obligaciones formales."
+      "El cumplimiento de las obligaciones formales."
     ],
     "article": "19"
   },
   {
-    "question": "Conforme al artículo 19, el pago de la cuota tributaria constituye el objeto de:",
-    "options": [
-      "La obligación tributaria principal.",
-      "La obligación tributaria accesoria.",
-      "La obligación tributaria formal.",
-      "La obligación de realizar pagos a cuenta."
-    ],
-    "article": "19"
-  },
-  {
-    "question": "Según el apartado 1, ¿cómo se define el hecho imponible?",
+    "question": "Según el apartado 1 del artículo 20 (Hecho imponible), ¿qué es el hecho imponible?",
     "options": [
       "El presupuesto fijado por la Norma Foral para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal.",
-      "El presupuesto fijado por la Norma Foral para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria accesoria.",
-      "El supuesto de no sujeción fijado por la Norma Foral para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal.",
-      "El presupuesto fijado por la Norma Foral para completar cada tributo y cuya realización extingue el nacimiento de la obligación tributaria principal."
+      "El presupuesto fijado por el reglamento para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal.",
+      "El presupuesto fijado por la Norma Foral para configurar cada tributo y cuya realización origina la extinción de la obligación tributaria principal.",
+      "El presupuesto fijado por la Norma Foral para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria accesoria."
     ],
     "article": "20"
   },
   {
-    "question": "Según el apartado 2, ¿qué puede hacerse por Norma Foral respecto a la delimitación del hecho imponible?",
+    "question": "Según el apartado 2 del artículo 20 (Hecho imponible), ¿qué se podrá completar por Norma Foral respecto de la delimitación del hecho imponible?",
     "options": [
-      "Completar la delimitación del hecho imponible mediante la mención de supuestos de no sujeción.",
-      "Completar la delimitación del hecho imponible mediante la mención de supuestos de sujeción.",
-      "Configurar la delimitación del hecho imponible mediante la mención de supuestos de exención.",
-      "Completar la configuración de cada tributo mediante la mención de la obligación tributaria principal."
+      "La delimitación del hecho imponible mediante la mención de supuestos de no sujeción.",
+      "La delimitación del hecho imponible mediante la mención de supuestos de exención.",
+      "La delimitación de la base imponible mediante la mención de supuestos de no sujeción.",
+      "La delimitación del hecho imponible mediante la mención de supuestos de devengo."
     ],
     "article": "20"
   }
