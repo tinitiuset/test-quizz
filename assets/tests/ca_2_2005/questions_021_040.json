@@ -1,0 +1,915 @@
+[
+  {
+    "question": "Según el artículo 21 (Exenciones), ¿qué son los supuestos de exención?",
+    "options": [
+      "Aquellos en que, a pesar de realizarse el hecho imponible, por Norma Foral se exime del cumplimiento total o parcial de la obligación tributaria principal.",
+      "Aquellos en que, sin realizarse el hecho imponible, por Norma Foral se exime del cumplimiento total o parcial de la obligación tributaria principal.",
+      "Aquellos en que, a pesar de realizarse el hecho imponible, por reglamento se exime del cumplimiento total o parcial de la obligación tributaria principal.",
+      "Aquellos en que, a pesar de realizarse el hecho imponible, por Norma Foral se exime del cumplimiento total o parcial de la obligación tributaria accesoria."
+    ],
+    "answer": 0,
+    "article": "21"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 22 (Devengo y exigibilidad), ¿qué es el devengo?",
+    "options": [
+      "El momento en el que se entiende realizado el hecho imponible y en el que se produce el nacimiento de la obligación tributaria principal, salvo que la Norma Foral de cada tributo fije un momento distinto de aquél.",
+      "El momento en el que se entiende realizado el hecho imponible y en el que se produce la exigibilidad de la obligación tributaria principal, salvo que la Norma Foral de cada tributo fije un momento distinto de aquél.",
+      "El momento en el que se entiende realizado el hecho imponible y en el que se produce el nacimiento de la obligación tributaria accesoria, salvo que la Norma Foral de cada tributo fije un momento distinto de aquél.",
+      "El momento en el que se entiende realizado el hecho imponible y en el que se produce el nacimiento de la obligación tributaria principal, salvo que el reglamento de cada tributo fije un momento distinto de aquél."
+    ],
+    "answer": 0,
+    "article": "22"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 22 (Devengo y exigibilidad), ¿qué determina la fecha del devengo?",
+    "options": [
+      "Las circunstancias relevantes para la configuración de la obligación tributaria, salvo que la Norma Foral de cada tributo disponga otra cosa.",
+      "Las circunstancias relevantes para la extinción de la obligación tributaria, salvo que la Norma Foral de cada tributo disponga otra cosa.",
+      "Las circunstancias accesorias para la configuración de la obligación tributaria, salvo que la Norma Foral de cada tributo disponga otra cosa.",
+      "Las circunstancias relevantes para la configuración de la obligación tributaria, salvo que el reglamento de cada tributo disponga otra cosa."
+    ],
+    "answer": 0,
+    "article": "22"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 22 (Devengo y exigibilidad), ¿qué podrá establecer la normativa de cada tributo respecto a la exigibilidad?",
+    "options": [
+      "La exigibilidad de la cuota o cantidad a ingresar, o de parte de la misma, en un momento distinto al del devengo del tributo.",
+      "La exigibilidad de la cuota o cantidad a ingresar, o de parte de la misma, en el mismo momento del devengo del tributo.",
+      "La exigibilidad de la cuota o cantidad a ingresar, o de la totalidad de la misma, en un momento distinto al del devengo del tributo.",
+      "El devengo de la cuota o cantidad a ingresar, o de parte de la misma, en un momento distinto al de la exigibilidad del tributo."
+    ],
+    "answer": 0,
+    "article": "22"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 23 (Obligación tributaria de realizar pagos a cuenta), ¿en qué consiste esta obligación?",
+    "options": [
+      "En satisfacer un importe a la Administración tributaria por el obligado a realizar pagos fraccionados, por el retenedor o por el obligado a realizar ingresos a cuenta.",
+      "En satisfacer un importe a la Administración tributaria por el obligado a realizar pagos fraccionados, por el sustituto o por el obligado a realizar ingresos a cuenta.",
+      "En satisfacer un importe a la Administración tributaria por el contribuyente, por el retenedor o por el obligado a realizar ingresos a cuenta.",
+      "En satisfacer un importe a la Administración tributaria por el obligado a realizar pagos fraccionados, por el retenedor o por el obligado a soportar la repercusión."
+    ],
+    "answer": 0,
+    "article": "23"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 23 (Obligación tributaria de realizar pagos a cuenta), ¿qué carácter tiene esta obligación respecto de la obligación tributaria principal?",
+    "options": [
+      "Tiene carácter autónomo respecto de la obligación tributaria principal.",
+      "Tiene carácter accesorio respecto de la obligación tributaria principal.",
+      "Tiene carácter subsidiario respecto de la obligación tributaria principal.",
+      "Tiene carácter dependiente respecto de la obligación tributaria principal."
+    ],
+    "answer": 0,
+    "article": "23"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 23 (Obligación tributaria de realizar pagos a cuenta), ¿qué podrá deducir el contribuyente de la obligación tributaria principal?",
+    "options": [
+      "El importe de los pagos a cuenta soportados, salvo que la Norma Foral de cada tributo establezca la posibilidad de deducir una cantidad distinta a dicho importe.",
+      "El importe de los pagos fraccionados soportados, salvo que la Norma Foral de cada tributo establezca la posibilidad de deducir una cantidad distinta a dicho importe.",
+      "El importe de los pagos a cuenta repercutidos, salvo que la Norma Foral de cada tributo establezca la posibilidad de deducir una cantidad distinta a dicho importe.",
+      "El importe de los pagos a cuenta soportados, salvo que el reglamento de cada tributo establezca la posibilidad de deducir una cantidad distinta a dicho importe."
+    ],
+    "answer": 0,
+    "article": "23"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 24 (Obligaciones entre particulares resultantes del tributo), ¿qué son estas obligaciones?",
+    "options": [
+      "Las que tienen por objeto una prestación de naturaleza tributaria exigible entre obligados tributarios.",
+      "Las que tienen por objeto una prestación de naturaleza tributaria exigible entre la Administración y los obligados tributarios.",
+      "Las que tienen por objeto una prestación de naturaleza pecuniaria exigible entre obligados tributarios.",
+      "Las que tienen por objeto una prestación de naturaleza tributaria exigible entre responsables tributarios."
+    ],
+    "answer": 0,
+    "article": "24"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 24 (Obligaciones entre particulares resultantes del tributo), ¿qué obligaciones son, entre otras, de este tipo?",
+    "options": [
+      "Las que se generan como consecuencia de actos de repercusión, de retención o de ingreso a cuenta previstos en la normativa tributaria.",
+      "Las que se generan como consecuencia de actos de repercusión, de calificación o de ingreso a cuenta previstos en la normativa tributaria.",
+      "Las que se generan como consecuencia de actos de repercusión, de retención o de aplazamiento previstos en la normativa tributaria.",
+      "Las que se generan como consecuencia de actos de repercusión, de retención o de ingreso a cuenta previstos en el reglamento de recaudación."
+    ],
+    "answer": 0,
+    "article": "24"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 25 (Obligaciones tributarias accesorias), ¿qué son las obligaciones tributarias accesorias?",
+    "options": [
+      "Aquellas distintas de las demás comprendidas en esta sección que consisten en prestaciones pecuniarias que se deben satisfacer a la Administración tributaria y cuya exigencia se impone en relación con otra obligación tributaria.",
+      "Aquellas idénticas a las demás comprendidas en esta sección que consisten en prestaciones pecuniarias que se deben satisfacer a la Administración tributaria y cuya exigencia se impone en relación con otra obligación tributaria.",
+      "Aquellas distintas de las demás comprendidas en esta sección que consisten en prestaciones formales que se deben satisfacer a la Administración tributaria y cuya exigencia se impone en relación con otra obligación tributaria.",
+      "Aquellas distintas de las demás comprendidas en esta sección que consisten en prestaciones pecuniarias que se deben satisfacer a la Administración tributaria y cuya exigencia se impone con independencia de otra obligación tributaria."
+    ],
+    "answer": 0,
+    "article": "25"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 25 (Obligaciones tributarias accesorias), ¿qué obligaciones tienen la naturaleza de obligaciones tributarias accesorias?",
+    "options": [
+      "Las obligaciones de satisfacer el interés de demora, el recargo por declaración extemporánea y los recargos del período ejecutivo, así como aquellas otras que se impongan por Norma Foral.",
+      "Las obligaciones de satisfacer el interés de demora, el recargo por declaración extemporánea y las sanciones tributarias, así como aquellas otras que se impongan por Norma Foral.",
+      "Las obligaciones de satisfacer el interés legal del dinero, el recargo por declaración extemporánea y los recargos del período ejecutivo, así como aquellas otras que se impongan por Norma Foral.",
+      "Las obligaciones de satisfacer el interés de demora, el recargo por declaración extemporánea y los recargos del período ejecutivo, así como aquellas otras que se impongan por reglamento."
+    ],
+    "answer": 0,
+    "article": "25"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 25 (Obligaciones tributarias accesorias), ¿qué consideración tienen las sanciones tributarias?",
+    "options": [
+      "No tienen la consideración de obligaciones accesorias.",
+      "Tienen la consideración de obligaciones accesorias.",
+      "No tienen la consideración de prestaciones pecuniarias.",
+      "Tienen la consideración de obligaciones tributarias materiales."
+    ],
+    "answer": 0,
+    "article": "25"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 26 (Interés de demora), ¿qué naturaleza tiene el interés de demora y a quiénes se exige?",
+    "options": [
+      "Es una prestación accesoria que se exige a los obligados tributarios y a los sujetos infractores.",
+      "Es una prestación principal que se exige a los obligados tributarios y a los sujetos infractores.",
+      "Es una prestación accesoria que se exige exclusivamente a los sujetos infractores.",
+      "Es una prestación accesoria que se exige a los obligados tributarios y a los responsables tributarios."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 26 (Interés de demora), ¿requiere la exigencia del interés de demora tributario la previa intimación de la Administración o la concurrencia de un retraso culpable en el obligado?",
+    "options": [
+      "No requiere la previa intimación de la Administración ni la concurrencia de un retraso culpable en el obligado.",
+      "Requiere la previa intimación de la Administración pero no la concurrencia de un retraso culpable en el obligado.",
+      "No requiere la previa intimación de la Administración pero sí la concurrencia de un retraso culpable en el obligado.",
+      "Requiere la previa intimación de la Administración y la concurrencia de un retraso culpable en el obligado."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 26 (Interés de demora), ¿durante qué tiempo se devengan los intereses de demora y sobre qué se calculan?",
+    "options": [
+      "Se devengarán durante todo el tiempo a que se extienda el retraso en el pago y se calcularán sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución cobrada improcedentemente y, en su caso, sobre el importe de los recargos y de las sanciones.",
+      "Se devengarán durante todo el tiempo a que se extienda el retraso en el pago y se calcularán sobre la base imponible o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución cobrada improcedentemente y, en su caso, sobre el importe de los recargos y de las sanciones.",
+      "Se devengarán únicamente hasta el inicio del período ejecutivo y se calcularán sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución cobrada improcedentemente y, en su caso, sobre el importe de los recargos y de las sanciones.",
+      "Se devengarán durante todo el tiempo a que se extienda el retraso en el pago y se calcularán sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta o sobre la cuantía de la devolución cobrada improcedentemente y, en su caso, sobre el importe de los recargos y de los intereses legales."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 26 (Interés de demora), ¿cuál será el interés de demora, salvo que se establezca otro diferente?",
+    "options": [
+      "El interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 25 por 100.",
+      "El interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 20 por 100.",
+      "El interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, reducido en un 25 por 100.",
+      "El interés de mercado vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 25 por 100."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 26 (Interés de demora), ¿qué determina el inicio del período ejecutivo respecto de los intereses de demora?",
+    "options": [
+      "El devengo de los intereses de demora, salvo por el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 60 por las cantidades ingresadas en dicho plazo.",
+      "El devengo de los intereses de demora, en todo caso, incluido el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 60 por las cantidades ingresadas en dicho plazo.",
+      "La exigibilidad de los recargos de apremio, salvo por el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 60 por las cantidades ingresadas en dicho plazo.",
+      "El devengo de los intereses de demora, salvo por el período transcurrido hasta la finalización del plazo establecido en el párrafo primero del apartado 3 del artículo 56 por las cantidades ingresadas en dicho plazo."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 26 (Interés de demora), en el caso de liquidaciones practicadas por la Administración tributaria, ¿qué intereses de demora se exigirán?",
+    "options": [
+      "En todo caso, los correspondientes al período transcurrido entre la fecha de terminación del plazo establecido para presentar la declaración o autoliquidación y la fecha en que se adopte el acuerdo de liquidación.",
+      "En ningún caso, los correspondientes al período transcurrido entre la fecha de terminación del plazo establecido para presentar la declaración o autoliquidación y la fecha en que se adopte el acuerdo de liquidación.",
+      "En todo caso, los correspondientes al período transcurrido entre la fecha de inicio del plazo establecido para presentar la declaración o autoliquidación y la fecha en que se adopte el acuerdo de liquidación.",
+      "En todo caso, los correspondientes al período transcurrido entre la fecha de terminación del plazo establecido para presentar la declaración o autoliquidación y la fecha en que se notifique la providencia de apremio."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 6 del artículo 26 (Interés de demora), cuando resulte necesaria una nueva liquidación por haberse anulado otra por resolución administrativa o judicial, ¿qué ocurre?",
+    "options": [
+      "Se conservarán íntegramente los actos y trámites no afectados por la causa de anulación, con mantenimiento íntegro de su contenido, y exigencia del interés de demora sobre el importe de la nueva liquidación.",
+      "Se conservarán íntegramente los actos y trámites afectados por la causa de anulación, con mantenimiento íntegro de su contenido, y exigencia del interés de demora sobre el importe de la nueva liquidación.",
+      "Se anularán íntegramente los actos y trámites no afectados por la causa de anulación, con mantenimiento íntegro de su contenido, y exigencia del interés de demora sobre el importe de la nueva liquidación.",
+      "Se conservarán íntegramente los actos y trámites no afectados por la causa de anulación, con mantenimiento íntegro de su contenido, y exigencia del recargo de apremio sobre el importe de la nueva liquidación."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 7 del artículo 26 (Interés de demora), en el caso de autoliquidaciones presentadas fuera del plazo establecido, ¿qué intereses de demora se exigirán?",
+    "options": [
+      "Los correspondientes al tiempo transcurrido desde la terminación del plazo hasta la fecha de presentación de la autoliquidación, salvo en el caso de autoliquidaciones presentadas sin requerimiento previo y con ingreso de la deuda dentro de los seis meses siguientes a la terminación de aquel.",
+      "Los correspondientes al tiempo transcurrido desde la terminación del plazo hasta la fecha de presentación de la autoliquidación, salvo en el caso de autoliquidaciones presentadas con requerimiento previo y con ingreso de la deuda dentro de los seis meses siguientes a la terminación de aquel.",
+      "Los correspondientes al tiempo transcurrido desde la terminación del plazo hasta la fecha de presentación de la autoliquidación, salvo en el caso de autoliquidaciones presentadas sin requerimiento previo y con ingreso de la deuda dentro de los tres meses siguientes a la terminación de aquel.",
+      "Los correspondientes al tiempo transcurrido desde el inicio del plazo hasta la fecha de presentación de la autoliquidación, salvo en el caso de autoliquidaciones presentadas sin requerimiento previo y con ingreso de la deuda dentro de los seis meses siguientes a la terminación de aquel."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 8 del artículo 26 (Interés de demora), en las liquidaciones del procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, ¿qué ocurre con los intereses de demora?",
+    "options": [
+      "No se exigirán intereses de demora desde la fecha de presentación de la declaración hasta la finalización del plazo para el pago en período voluntario.",
+      "Se exigirán intereses de demora desde la fecha de presentación de la declaración hasta la finalización del plazo para el pago en período voluntario.",
+      "No se exigirán intereses de demora desde la fecha de presentación de la declaración hasta la finalización del plazo para el pago en período ejecutivo.",
+      "No se exigirán intereses de demora desde la fecha del devengo del tributo hasta la finalización del plazo para el pago en período voluntario."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 9 del artículo 26 (Interés de demora), ¿qué ocurre con los intereses de demora cuando la Administración tributaria incumple por causa imputable a la misma los plazos establecidos para resolver?",
+    "options": [
+      "No se exigirán intereses de demora, exigiéndose el interés exclusivamente hasta la fecha final de dichos plazos, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de aplazamiento o fraccionamiento de pago y de compensación de deudas.",
+      "Se exigirán intereses de demora en todo caso, incluso más allá de la fecha final de dichos plazos, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de aplazamiento o fraccionamiento de pago y de compensación de deudas.",
+      "No se exigirán intereses de demora, exigiéndose el interés exclusivamente hasta la fecha de inicio de dichos plazos, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de aplazamiento o fraccionamiento de pago y de compensación de deudas.",
+      "No se exigirán intereses de demora, exigiéndose el interés exclusivamente hasta la fecha final de dichos plazos, salvo en los casos de incumplimiento de los plazos de resolución de las solicitudes de devolución de ingresos indebidos y de compensación de deudas."
+    ],
+    "answer": 0,
+    "article": "26"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 27 (Recargo por declaración extemporánea sin requerimiento previo), ¿qué es este recargo?",
+    "options": [
+      "Una prestación accesoria que deben satisfacer los obligados tributarios en el procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, como consecuencia de la presentación de la declaración fuera del plazo previsto, sin requerimiento previo de la Administración tributaria.",
+      "Una prestación principal que deben satisfacer los obligados tributarios en el procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, como consecuencia de la presentación de la declaración fuera del plazo previsto, sin requerimiento previo de la Administración tributaria.",
+      "Una prestación accesoria que deben satisfacer los obligados tributarios en el procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, como consecuencia de la presentación de la declaración fuera del plazo previsto, con requerimiento previo de la Administración tributaria.",
+      "Una prestación accesoria que deben satisfacer los sujetos infractores en el procedimiento de gestión iniciado mediante declaración a que se refiere el artículo 122, como consecuencia de la presentación de la declaración fuera del plazo previsto, sin requerimiento previo de la Administración tributaria."
+    ],
+    "answer": 0,
+    "article": "27"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 27 (Recargo por declaración extemporánea sin requerimiento previo), ¿a cuánto asciende el recargo y qué incluye o excluye?",
+    "options": [
+      "Será del 5 por ciento de la cuota a ingresar resultante de la liquidación, incluidos, en su caso, los recargos legalmente exigibles, y excluirá las sanciones que hubieran podido exigirse, con excepción de la prevista en el artículo 203 de esta Norma Foral.",
+      "Será del 10 por ciento de la cuota a ingresar resultante de la liquidación, incluidos, en su caso, los recargos legalmente exigibles, y excluirá las sanciones que hubieran podido exigirse, con excepción de la prevista en el artículo 203 de esta Norma Foral.",
+      "Será del 5 por ciento de la cuota a ingresar resultante de la liquidación, incluidos, en su caso, los recargos legalmente exigibles, e incluirá las sanciones que hubieran podido exigirse, con excepción de la prevista en el artículo 203 de esta Norma Foral.",
+      "Será del 5 por ciento de la base imponible resultante de la liquidación, incluidos, en su caso, los recargos legalmente exigibles, y excluirá las sanciones que hubieran podido exigirse, con excepción de la prevista en el artículo 203 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "27"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 27 (Recargo por declaración extemporánea sin requerimiento previo), cuando la declaración se presente dentro de los tres días hábiles siguientes a la conclusión del plazo voluntario, ¿cuál será el recargo?",
+    "options": [
+      "Será del 0,5 por ciento.",
+      "Será del 5 por ciento.",
+      "Será del 1 por ciento.",
+      "Será del 0,05 por ciento."
+    ],
+    "answer": 0,
+    "article": "27"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 28 (Recargos del período ejecutivo), ¿cuántos tipos de recargos del período ejecutivo hay y qué relación tienen entre sí?",
+    "options": [
+      "Son de dos tipos incompatibles entre sí: recargo ejecutivo y recargo de apremio.",
+      "Son de dos tipos compatibles entre sí: recargo ejecutivo y recargo de apremio.",
+      "Son de dos tipos incompatibles entre sí: recargo ejecutivo y recargo por declaración extemporánea.",
+      "Son de tres tipos incompatibles entre sí: recargo ejecutivo, recargo de apremio y recargo reducido."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 28 (Recargos del período ejecutivo), ¿sobre qué se calculan los recargos del período ejecutivo?",
+    "options": [
+      "Sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta y, en su caso, sobre el importe de los recargos legalmente exigibles y de las sanciones.",
+      "Sobre la base imponible o cantidad que resulte de la obligación de realizar pagos a cuenta y, en su caso, sobre el importe de los recargos legalmente exigibles y de las sanciones.",
+      "Sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos a cuenta y, en su caso, sobre el importe de los intereses de demora y de las sanciones.",
+      "Sobre la cuota tributaria o cantidad que resulte de la obligación de realizar pagos fraccionados y, en su caso, sobre el importe de los recargos legalmente exigibles y de las sanciones."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 28 (Recargos del período ejecutivo), ¿cuál es el recargo ejecutivo y cuándo se devenga y es exigible?",
+    "options": [
+      "Será del 5 por ciento, se devengará de forma automática y será exigible con el inicio del período ejecutivo.",
+      "Será del 20 por ciento, se devengará de forma automática y será exigible con el inicio del período ejecutivo.",
+      "Será del 5 por ciento, se devengará de forma rogada y será exigible con el inicio del período ejecutivo.",
+      "Será del 5 por ciento, se devengará de forma automática y será exigible con la notificación de la providencia de apremio."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 28 (Recargos del período ejecutivo), cuando se realice el pago efectivo y total dentro de los tres primeros días hábiles del período ejecutivo, ¿cuál será el recargo ejecutivo?",
+    "options": [
+      "Será del 0,5 por ciento.",
+      "Será del 5 por ciento.",
+      "Será del 20 por ciento.",
+      "Será del 1 por ciento."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 28 (Recargos del período ejecutivo), notificada la providencia de apremio y transcurrido el plazo extraordinario para el pago, ¿qué recargo se exige y cuál es su importe?",
+    "options": [
+      "El recargo de apremio, que será del 20 por ciento.",
+      "El recargo de apremio, que será del 10 por ciento.",
+      "El recargo de apremio, que será del 5 por ciento.",
+      "El recargo ejecutivo, que será del 20 por ciento."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 28 (Recargos del período ejecutivo), ¿son compatibles los recargos del período ejecutivo con las sanciones tributarias?",
+    "options": [
+      "Serán compatibles con las sanciones tributarias.",
+      "Serán incompatibles con las sanciones tributarias.",
+      "Serán compatibles con los intereses de demora, pero no con las sanciones tributarias.",
+      "Serán compatibles con las sanciones tributarias únicamente en período voluntario."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 28 (Recargos del período ejecutivo), ¿en qué caso relativo a la asistencia mutua no se devengarán los recargos del período ejecutivo?",
+    "options": [
+      "En el caso de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales cuya actuación recaudatoria se realice en el marco de la asistencia mutua, salvo que la normativa sobre dicha asistencia establezca otra cosa.",
+      "En el caso de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales cuya actuación recaudatoria se realice en el marco de la asistencia mutua, en todo caso aunque la normativa sobre dicha asistencia establezca otra cosa.",
+      "En el caso de deudas de titularidad de otros Estados o de entidades internacionales o supranacionales cuya actuación recaudatoria se realice en el marco del Concierto Económico, salvo que la normativa sobre dicha asistencia establezca otra cosa.",
+      "En el caso de deudas de titularidad de las Entidades Locales o de entidades internacionales o supranacionales cuya actuación recaudatoria se realice en el marco de la asistencia mutua, salvo que la normativa sobre dicha asistencia establezca otra cosa."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 28 (Recargos del período ejecutivo), ¿en qué otro caso no se devengarán los recargos del período ejecutivo?",
+    "options": [
+      "En el caso de deudas correspondientes a las entidades que forman parte del sector público, tal y como se delimita en el artículo 3.1 de la Ley 9/2017, de Contratos del Sector Público.",
+      "En el caso de deudas correspondientes a las entidades que forman parte del sector privado, tal y como se delimita en el artículo 3.1 de la Ley 9/2017, de Contratos del Sector Público.",
+      "En el caso de deudas correspondientes a las Entidades Locales, tal y como se delimita en el artículo 3.1 de la Ley 9/2017, de Contratos del Sector Público.",
+      "En el caso de deudas correspondientes a las entidades que forman parte del sector público, tal y como se delimita en el artículo 3.1 de la Ley 58/2003, General Tributaria."
+    ],
+    "answer": 0,
+    "article": "28"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 29 (Obligaciones y deberes de la Administración tributaria), ¿a qué obligaciones de contenido económico está sujeta la Administración tributaria?",
+    "options": [
+      "A la obligación de realizar las devoluciones derivadas de la normativa de cada tributo, la de devolución de ingresos indebidos, la de reembolso de los costes de las garantías y la de satisfacer intereses de demora.",
+      "A la obligación de realizar las devoluciones derivadas de la normativa de cada tributo, la de devolución de ingresos debidos, la de reembolso de los costes de las garantías y la de satisfacer intereses de demora.",
+      "A la obligación de realizar las devoluciones derivadas de la normativa de cada tributo, la de devolución de ingresos indebidos, la de reembolso de los costes de las sanciones y la de satisfacer intereses de demora.",
+      "A la obligación de realizar las devoluciones derivadas de la normativa de cada tributo, la de devolución de ingresos indebidos, la de reembolso de los costes de las garantías y la de satisfacer recargos de apremio."
+    ],
+    "answer": 0,
+    "article": "29"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 29 (Obligaciones y deberes de la Administración tributaria), ¿a qué otros deberes está sujeta la Administración tributaria?",
+    "options": [
+      "A los deberes establecidos en esta Norma Foral en relación con el desarrollo de los procedimientos tributarios y en el resto del ordenamiento jurídico.",
+      "A los deberes establecidos en esta Norma Foral en relación con el desarrollo de los procedimientos sancionadores y en el resto del ordenamiento jurídico.",
+      "A los deberes establecidos en esta Norma Foral en relación con el desarrollo de los procedimientos tributarios y en el Concierto Económico.",
+      "A los deberes establecidos en el reglamento en relación con el desarrollo de los procedimientos tributarios y en el resto del ordenamiento jurídico."
+    ],
+    "answer": 0,
+    "article": "29"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 30 (Devoluciones derivadas de la normativa de cada tributo), ¿qué son las devoluciones derivadas de la normativa de cada tributo?",
+    "options": [
+      "Las correspondientes a cantidades ingresadas o soportadas debidamente como consecuencia de la aplicación del tributo.",
+      "Las correspondientes a cantidades ingresadas o soportadas indebidamente como consecuencia de la aplicación del tributo.",
+      "Las correspondientes a cantidades ingresadas o repercutidas debidamente como consecuencia de la aplicación del tributo.",
+      "Las correspondientes a cantidades ingresadas o soportadas debidamente como consecuencia de la ordenación del tributo."
+    ],
+    "answer": 0,
+    "article": "30"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 30 (Devoluciones derivadas de la normativa de cada tributo), transcurrido el plazo de las normas de cada tributo y, en todo caso, ¿qué plazo, sin practicarse liquidación por causa imputable a la Administración, determina el abono del interés de demora?",
+    "options": [
+      "El plazo de seis meses, y la Administración abonará el interés de demora del artículo 26 sin necesidad de que el obligado tributario lo solicite.",
+      "El plazo de tres meses, y la Administración abonará el interés de demora del artículo 26 sin necesidad de que el obligado tributario lo solicite.",
+      "El plazo de doce meses, y la Administración abonará el interés de demora del artículo 26 sin necesidad de que el obligado tributario lo solicite.",
+      "El plazo de seis meses, y la Administración abonará el interés de demora del artículo 26 previa solicitud del obligado tributario."
+    ],
+    "answer": 0,
+    "article": "30"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 30 (Devoluciones derivadas de la normativa de cada tributo), ¿cómo se computan las dilaciones en el procedimiento por causa imputable a la persona interesada a efectos del cómputo del período de devengo del interés de demora?",
+    "options": [
+      "No se tendrán en cuenta a efectos del cómputo del período.",
+      "Se tendrán en cuenta a efectos del cómputo del período.",
+      "Se computarán a favor del obligado tributario a efectos del cómputo del período.",
+      "Interrumpirán el cómputo del período únicamente durante los seis primeros meses."
+    ],
+    "answer": 0,
+    "article": "30"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 31 (Devolución de ingresos indebidos), ¿a quiénes devolverá la Administración tributaria los ingresos indebidamente realizados en la Hacienda Pública?",
+    "options": [
+      "A los obligados tributarios, a los sujetos infractores o a los sucesores de unos y otros, conforme a lo establecido en el artículo 229 de esta Norma Foral.",
+      "A los obligados tributarios, a los responsables tributarios o a los sucesores de unos y otros, conforme a lo establecido en el artículo 229 de esta Norma Foral.",
+      "Únicamente a los obligados tributarios y a sus sucesores, conforme a lo establecido en el artículo 229 de esta Norma Foral.",
+      "A los obligados tributarios, a los sujetos infractores o a los sucesores de unos y otros, conforme a lo establecido en el artículo 226 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "31"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 31 (Devolución de ingresos indebidos), con la devolución de ingresos indebidos, ¿durante qué período se devenga el interés de demora?",
+    "options": [
+      "Desde la fecha en que se hubiese realizado el ingreso indebido hasta la fecha en que se adopte el acuerdo en que se reconozca el derecho a percibir la devolución.",
+      "Desde la finalización del plazo de seis meses hasta la fecha en que se adopte el acuerdo en que se reconozca el derecho a percibir la devolución.",
+      "Desde la fecha en que se hubiese realizado el ingreso indebido hasta la fecha en que se notifique la providencia de apremio.",
+      "Desde la fecha en que se adopte el acuerdo que reconozca el derecho a la devolución hasta la fecha en que ésta se haga efectiva."
+    ],
+    "answer": 0,
+    "article": "31"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 31 (Devolución de ingresos indebidos), cuando se devuelve un ingreso indebido derivado de una autoliquidación ingresada en varios plazos, ¿cómo se entiende ingresada la cantidad devuelta?",
+    "options": [
+      "Se entenderá que se ingresó en el último plazo y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en los plazos inmediatamente anteriores.",
+      "Se entenderá que se ingresó en el primer plazo y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en los plazos inmediatamente anteriores.",
+      "Se entenderá que se ingresó en el último plazo y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en los plazos inmediatamente posteriores.",
+      "Se entenderá que se ingresó proporcionalmente en todos los plazos y, de no resultar cantidad suficiente, la diferencia se considerará satisfecha en los plazos inmediatamente anteriores."
+    ],
+    "answer": 0,
+    "article": "31"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 32 (Reembolso de los costes de las garantías), ¿qué coste reembolsará la Administración tributaria y en qué caso?",
+    "options": [
+      "El coste de las garantías aportadas para suspender la ejecución de un acto o para aplazar o fraccionar el pago de una deuda, si dicho acto o deuda es declarado improcedente por sentencia o resolución administrativa firme.",
+      "El coste de las garantías aportadas para suspender la ejecución de un acto o para aplazar o fraccionar el pago de una deuda, si dicho acto o deuda es declarado procedente por sentencia o resolución administrativa firme.",
+      "El coste de las garantías aportadas para suspender la ejecución de un acto o para aplazar o fraccionar el pago de una deuda, si dicho acto o deuda es declarado improcedente por resolución administrativa no firme.",
+      "El coste de las sanciones aportadas para suspender la ejecución de un acto o para aplazar o fraccionar el pago de una deuda, si dicho acto o deuda es declarado improcedente por sentencia o resolución administrativa firme."
+    ],
+    "answer": 0,
+    "article": "32"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 32 (Reembolso de los costes de las garantías), cuando el acto o la deuda se declare parcialmente improcedente, ¿hasta dónde alcanzará el reembolso?",
+    "options": [
+      "Alcanzará a la parte correspondiente del coste de las garantías.",
+      "Alcanzará a la totalidad del coste de las garantías.",
+      "Alcanzará a la parte correspondiente del importe de la deuda.",
+      "No alcanzará a ninguna parte del coste de las garantías."
+    ],
+    "answer": 0,
+    "article": "32"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 32 (Reembolso de los costes de las garantías), con el reembolso de los costes de las garantías, ¿qué interés abonará la Administración y durante qué período se devenga?",
+    "options": [
+      "El interés de demora vigente a lo largo del período en el que se devengue, desde la fecha acreditada en que se hubiese incurrido en dichos costes hasta la fecha en que se adopte el acuerdo que reconozca el derecho al reembolso.",
+      "El interés legal del dinero vigente a lo largo del período en el que se devengue, desde la fecha acreditada en que se hubiese incurrido en dichos costes hasta la fecha en que se adopte el acuerdo que reconozca el derecho al reembolso.",
+      "El interés de demora vigente a lo largo del período en el que se devengue, previa solicitud del obligado tributario, desde la fecha acreditada en que se hubiese incurrido en dichos costes hasta la fecha en que se adopte el acuerdo que reconozca el derecho al reembolso.",
+      "El interés de demora vigente a lo largo del período en el que se devengue, desde la fecha en que se adopte el acuerdo que reconozca el derecho al reembolso hasta la fecha en que éste se haga efectivo."
+    ],
+    "answer": 0,
+    "article": "32"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 32 (Reembolso de los costes de las garantías), ¿a qué garantías no será de aplicación lo dispuesto en este artículo?",
+    "options": [
+      "A las garantías establecidas por la normativa de cada tributo para responder del cumplimiento de las obligaciones tributarias.",
+      "A las garantías establecidas por la normativa de cada tributo para responder del cumplimiento de las obligaciones formales.",
+      "A las garantías establecidas por el reglamento de recaudación para responder del cumplimiento de las obligaciones tributarias.",
+      "A las garantías aportadas para suspender la ejecución de un acto o para aplazar o fraccionar el pago de una deuda."
+    ],
+    "answer": 0,
+    "article": "32"
+  },
+  {
+    "question": "Según el artículo 33 (Derechos y garantías de los obligados tributarios), ¿qué constituyen derechos y garantías de los obligados tributarios, entre otros?",
+    "options": [
+      "Los contenidos en la presente Norma Foral y los que resulten de aplicación de entre los reconocidos en la normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento administrativo común.",
+      "Los contenidos en la presente Norma Foral y los que resulten de aplicación de entre los reconocidos en la normativa reguladora de las Haciendas Locales y del procedimiento administrativo común.",
+      "Los contenidos en la presente Norma Foral y los que resulten de aplicación de entre los reconocidos en la normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento sancionador.",
+      "Únicamente los contenidos en la presente Norma Foral, con exclusión de los reconocidos en la normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento administrativo común."
+    ],
+    "answer": 0,
+    "article": "33"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 34 (Obligados tributarios), ¿quiénes son obligados tributarios?",
+    "options": [
+      "Las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias, bien sean éstas materiales o formales.",
+      "Las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias, bien sean éstas materiales o accesorias.",
+      "Exclusivamente las personas físicas o jurídicas a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias, bien sean éstas materiales o formales.",
+      "Las personas físicas o jurídicas y las entidades a las que el reglamento impone el cumplimiento de obligaciones tributarias, bien sean éstas materiales o formales."
+    ],
+    "answer": 0,
+    "article": "34"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 34 (Obligados tributarios), ¿cuáles son, entre otros, obligados tributarios?",
+    "options": [
+      "Los sujetos pasivos; los obligados a realizar pagos a cuenta; los obligados en las obligaciones entre particulares resultantes del tributo; los sucesores; y los beneficiarios de supuestos de exención, devolución o bonificaciones tributarias, cuando no tengan la condición de sujetos pasivos.",
+      "Los sujetos pasivos; los obligados a realizar pagos a cuenta; los obligados en las obligaciones entre particulares resultantes del tributo; los sucesores; y los beneficiarios de supuestos de exención, devolución o bonificaciones tributarias, aunque tengan la condición de sujetos pasivos.",
+      "Los sujetos pasivos; los obligados a realizar pagos fraccionados; los obligados en las obligaciones entre particulares resultantes del tributo; los sucesores; y los beneficiarios de supuestos de exención, devolución o bonificaciones tributarias, cuando no tengan la condición de sujetos pasivos.",
+      "Los sujetos pasivos; los obligados a realizar pagos a cuenta; los responsables tributarios; los sucesores; y los beneficiarios de supuestos de exención, devolución o bonificaciones tributarias, cuando no tengan la condición de sujetos pasivos."
+    ],
+    "answer": 0,
+    "article": "34"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 34 (Obligados tributarios), ¿qué entidades tendrán la consideración de obligados tributarios en las Normas Forales en que así se establezca?",
+    "options": [
+      "Las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.",
+      "Las herencias yacentes, comunidades de bienes y demás entidades que, dotadas de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.",
+      "Las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado no susceptibles de imposición.",
+      "Las herencias yacentes, sociedades mercantiles y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición."
+    ],
+    "answer": 0,
+    "article": "34"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 34 (Obligados tributarios), ¿qué otro carácter de obligados tributarios se reconoce?",
+    "options": [
+      "El de los responsables a los que se refiere el artículo 40 de esta Norma Foral.",
+      "El de los responsables a los que se refiere el artículo 41 de esta Norma Foral.",
+      "El de los sucesores a los que se refiere el artículo 40 de esta Norma Foral.",
+      "El de los sustitutos a los que se refiere el artículo 40 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "34"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 34 (Obligados tributarios), la concurrencia de varios obligados tributarios en un mismo presupuesto de una obligación, ¿qué determina?",
+    "options": [
+      "Que queden solidariamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, salvo que por Norma Foral se disponga expresamente otra cosa.",
+      "Que queden subsidiariamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, salvo que por Norma Foral se disponga expresamente otra cosa.",
+      "Que queden mancomunadamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, salvo que por Norma Foral se disponga expresamente otra cosa.",
+      "Que queden solidariamente obligados frente a la Administración tributaria al cumplimiento de todas las prestaciones, aunque por Norma Foral se disponga expresamente otra cosa."
+    ],
+    "answer": 0,
+    "article": "34"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 35 (Sujetos pasivos: contribuyente y sustituto del contribuyente), ¿quién es el sujeto pasivo?",
+    "options": [
+      "El obligado tributario que debe cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma, sea como contribuyente o como sustituto del mismo.",
+      "El obligado tributario que debe cumplir la obligación tributaria accesoria, así como las obligaciones formales inherentes a la misma, sea como contribuyente o como sustituto del mismo.",
+      "El obligado tributario que debe cumplir la obligación tributaria principal, así como las obligaciones materiales inherentes a la misma, sea como contribuyente o como sustituto del mismo.",
+      "El obligado tributario que debe cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma, sea como retenedor o como sustituto del mismo."
+    ],
+    "answer": 0,
+    "article": "35"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 35 (Sujetos pasivos: contribuyente y sustituto del contribuyente), ¿pierde la condición de sujeto pasivo quien deba repercutir la cuota tributaria a otros obligados?",
+    "options": [
+      "No perderá la condición de sujeto pasivo, salvo que la Norma Foral de cada tributo establezca otra cosa.",
+      "Perderá la condición de sujeto pasivo, salvo que la Norma Foral de cada tributo establezca otra cosa.",
+      "No perderá la condición de sujeto pasivo, aunque la Norma Foral de cada tributo establezca otra cosa.",
+      "No perderá la condición de sujeto pasivo, salvo que el reglamento de cada tributo establezca otra cosa."
+    ],
+    "answer": 0,
+    "article": "35"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 35 (Sujetos pasivos: contribuyente y sustituto del contribuyente), ¿quién es el contribuyente?",
+    "options": [
+      "El sujeto pasivo que realiza el hecho imponible.",
+      "El sujeto pasivo que soporta la repercusión del hecho imponible.",
+      "El obligado tributario que realiza el hecho imponible.",
+      "El sujeto pasivo que realiza el pago fraccionado."
+    ],
+    "answer": 0,
+    "article": "35"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 35 (Sujetos pasivos: contribuyente y sustituto del contribuyente), ¿quién es el sustituto del contribuyente?",
+    "options": [
+      "El sujeto pasivo que, por imposición establecida por Norma Foral y en lugar de aquél, está obligado a cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.",
+      "El sujeto pasivo que, por imposición establecida por Norma Foral y junto a aquél, está obligado a cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.",
+      "El sujeto pasivo que, por imposición establecida por reglamento y en lugar de aquél, está obligado a cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.",
+      "El sujeto pasivo que, por imposición establecida por Norma Foral y en lugar de aquél, está obligado a cumplir la obligación tributaria accesoria, así como las obligaciones formales inherentes a la misma."
+    ],
+    "answer": 0,
+    "article": "35"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 35 (Sujetos pasivos: contribuyente y sustituto del contribuyente), ¿qué podrá exigir el sustituto del contribuyente?",
+    "options": [
+      "Podrá exigir del contribuyente el importe de las obligaciones tributarias satisfechas, salvo que por Norma Foral se establezca otra cosa.",
+      "Podrá exigir del contribuyente el importe de las obligaciones tributarias satisfechas, aunque por Norma Foral se establezca otra cosa.",
+      "Podrá exigir del retenedor el importe de las obligaciones tributarias satisfechas, salvo que por Norma Foral se establezca otra cosa.",
+      "No podrá exigir del contribuyente el importe de las obligaciones tributarias satisfechas, salvo que por Norma Foral se establezca otra cosa."
+    ],
+    "answer": 0,
+    "article": "35"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 36 (Obligados a realizar pagos a cuenta), ¿quién es obligado a realizar pagos fraccionados?",
+    "options": [
+      "El contribuyente a quien la Norma Foral de cada tributo impone la obligación de ingresar cantidades a cuenta de la obligación tributaria principal, con anterioridad a que ésta resulte exigible.",
+      "El contribuyente a quien la Norma Foral de cada tributo impone la obligación de ingresar cantidades a cuenta de la obligación tributaria principal, con posterioridad a que ésta resulte exigible.",
+      "El retenedor a quien la Norma Foral de cada tributo impone la obligación de ingresar cantidades a cuenta de la obligación tributaria principal, con anterioridad a que ésta resulte exigible.",
+      "El contribuyente a quien la Norma Foral de cada tributo impone la obligación de ingresar cantidades a cuenta de la obligación tributaria accesoria, con anterioridad a que ésta resulte exigible."
+    ],
+    "answer": 0,
+    "article": "36"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 36 (Obligados a realizar pagos a cuenta), ¿quién es el retenedor?",
+    "options": [
+      "La persona o entidad a quien la Norma Foral de cada tributo impone la obligación de detraer e ingresar en la Administración tributaria, con ocasión de los pagos que deba realizar a otros obligados tributarios, una parte de su importe a cuenta del tributo que corresponda a éstos.",
+      "La persona o entidad a quien la Norma Foral de cada tributo impone la obligación de detraer e ingresar en la Administración tributaria, con ocasión de los pagos que deba realizar a otros obligados tributarios, la totalidad de su importe a cuenta del tributo que corresponda a éstos.",
+      "La persona o entidad a quien la Norma Foral de cada tributo impone la obligación de repercutir e ingresar en la Administración tributaria, con ocasión de los pagos que deba realizar a otros obligados tributarios, una parte de su importe a cuenta del tributo que corresponda a éstos.",
+      "La persona o entidad a quien la Norma Foral de cada tributo impone la obligación de detraer e ingresar en la Administración tributaria, con ocasión de los cobros que deba percibir de otros obligados tributarios, una parte de su importe a cuenta del tributo que corresponda a éstos."
+    ],
+    "answer": 0,
+    "article": "36"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 36 (Obligados a realizar pagos a cuenta), ¿quién es obligado a practicar ingresos a cuenta?",
+    "options": [
+      "La persona o entidad que satisface rentas en especie o dinerarias y a quien por Norma Foral se impone la obligación de realizar ingresos a cuenta de cualquier tributo.",
+      "La persona o entidad que percibe rentas en especie o dinerarias y a quien por Norma Foral se impone la obligación de realizar ingresos a cuenta de cualquier tributo.",
+      "La persona o entidad que satisface rentas exclusivamente dinerarias y a quien por Norma Foral se impone la obligación de realizar ingresos a cuenta de cualquier tributo.",
+      "La persona o entidad que satisface rentas en especie o dinerarias y a quien por reglamento se impone la obligación de realizar ingresos a cuenta de cualquier tributo."
+    ],
+    "answer": 0,
+    "article": "36"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 37 (Obligados en las obligaciones entre particulares resultantes del tributo), ¿quién es obligado a repercutir?",
+    "options": [
+      "La persona o entidad que, conforme a lo previsto por Norma Foral, debe repercutir la cuota tributaria a otras personas o entidades y que, salvo que la Norma Foral disponga otra cosa, coincidirá con aquél que realiza las operaciones gravadas.",
+      "La persona o entidad que, conforme a lo previsto por Norma Foral, debe repercutir la cuota tributaria a otras personas o entidades y que, salvo que la Norma Foral disponga otra cosa, coincidirá con el destinatario de las operaciones gravadas.",
+      "La persona o entidad que, conforme a lo previsto por Norma Foral, debe soportar la cuota tributaria de otras personas o entidades y que, salvo que la Norma Foral disponga otra cosa, coincidirá con aquél que realiza las operaciones gravadas.",
+      "La persona o entidad que, conforme a lo previsto por reglamento, debe repercutir la cuota tributaria a otras personas o entidades y que, salvo que la Norma Foral disponga otra cosa, coincidirá con aquél que realiza las operaciones gravadas."
+    ],
+    "answer": 0,
+    "article": "37"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 37 (Obligados en las obligaciones entre particulares resultantes del tributo), ¿quién es obligado a soportar la repercusión y qué obligación tiene?",
+    "options": [
+      "La persona o entidad a quien, según lo previsto por Norma Foral, se debe repercutir la cuota tributaria; el repercutido no está obligado al pago frente a la Administración tributaria pero debe satisfacer al sujeto pasivo el importe de la cuota repercutida.",
+      "La persona o entidad a quien, según lo previsto por Norma Foral, se debe repercutir la cuota tributaria; el repercutido está obligado al pago frente a la Administración tributaria y debe satisfacer al sujeto pasivo el importe de la cuota repercutida.",
+      "La persona o entidad a quien, según lo previsto por Norma Foral, se debe repercutir la cuota tributaria; el repercutido no está obligado al pago frente a la Administración tributaria pero debe satisfacer al retenedor el importe de la cuota repercutida.",
+      "La persona o entidad que, según lo previsto por Norma Foral, debe repercutir la cuota tributaria; el repercutido no está obligado al pago frente a la Administración tributaria pero debe satisfacer al sujeto pasivo el importe de la cuota repercutida."
+    ],
+    "answer": 0,
+    "article": "37"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 37 (Obligados en las obligaciones entre particulares resultantes del tributo), ¿quién es obligado a soportar la retención?",
+    "options": [
+      "La persona o entidad perceptora de las cantidades sobre las que, según lo previsto por Norma Foral, el retenedor debe practicar retenciones tributarias.",
+      "La persona o entidad pagadora de las cantidades sobre las que, según lo previsto por Norma Foral, el retenedor debe practicar retenciones tributarias.",
+      "La persona o entidad perceptora de las cantidades sobre las que, según lo previsto por Norma Foral, el contribuyente debe practicar retenciones tributarias.",
+      "La persona o entidad perceptora de las cantidades sobre las que, según lo previsto por reglamento, el retenedor debe practicar retenciones tributarias."
+    ],
+    "answer": 0,
+    "article": "37"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 37 (Obligados en las obligaciones entre particulares resultantes del tributo), ¿qué obligación se podrá imponer por Norma Foral respecto de los ingresos a cuenta?",
+    "options": [
+      "La obligación de soportar los ingresos a cuenta de cualquier tributo practicados con ocasión de las rentas en especie o dinerarias que se perciban y, en su caso, la repercusión de su importe por el pagador de dichas rentas.",
+      "La obligación de practicar los ingresos a cuenta de cualquier tributo con ocasión de las rentas en especie o dinerarias que se perciban y, en su caso, la repercusión de su importe por el pagador de dichas rentas.",
+      "La obligación de soportar los ingresos a cuenta de cualquier tributo practicados con ocasión de las rentas exclusivamente dinerarias que se perciban y, en su caso, la repercusión de su importe por el pagador de dichas rentas.",
+      "La obligación de soportar los ingresos a cuenta de cualquier tributo practicados con ocasión de las rentas en especie o dinerarias que se perciban y, en su caso, la repercusión de su importe por el perceptor de dichas rentas."
+    ],
+    "answer": 0,
+    "article": "37"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 38 (Sucesores de personas físicas), a la muerte de los obligados tributarios, ¿a quiénes se transmiten las obligaciones tributarias pendientes?",
+    "options": [
+      "A los herederos, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia y, en particular, la limitación de responsabilidad del artículo 21 de la Ley 5/2015, de Derecho Civil Vasco.",
+      "A los legatarios, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia y, en particular, la limitación de responsabilidad del artículo 21 de la Ley 5/2015, de Derecho Civil Vasco.",
+      "A los herederos, sin perjuicio de lo que establece la legislación mercantil en cuanto a la adquisición de la herencia y, en particular, la limitación de responsabilidad del artículo 21 de la Ley 5/2015, de Derecho Civil Vasco.",
+      "A los herederos, sin ninguna limitación derivada de la legislación civil en cuanto a la adquisición de la herencia ni de la responsabilidad del artículo 21 de la Ley 5/2015, de Derecho Civil Vasco."
+    ],
+    "answer": 0,
+    "article": "38"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 38 (Sucesores de personas físicas), ¿qué ocurre con las sanciones y con la obligación del responsable a la muerte del obligado tributario?",
+    "options": [
+      "En ningún caso se transmitirán las sanciones, y tampoco se transmitirá la obligación del responsable, salvo que se hubiera notificado el acuerdo de derivación de responsabilidad antes del fallecimiento.",
+      "En ningún caso se transmitirán las sanciones, y tampoco se transmitirá la obligación del responsable, salvo que se hubiera notificado el acuerdo de derivación de responsabilidad después del fallecimiento.",
+      "En todo caso se transmitirán las sanciones, y tampoco se transmitirá la obligación del responsable, salvo que se hubiera notificado el acuerdo de derivación de responsabilidad antes del fallecimiento.",
+      "En ningún caso se transmitirán las sanciones, y siempre se transmitirá la obligación del responsable, salvo que se hubiera notificado el acuerdo de derivación de responsabilidad antes del fallecimiento."
+    ],
+    "answer": 0,
+    "article": "38"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 38 (Sucesores de personas físicas), ¿impide la transmisión a los sucesores el hecho de que la deuda no estuviera liquidada a la fecha de la muerte del causante?",
+    "options": [
+      "No lo impedirá, en cuyo caso las actuaciones se entenderán con cualquiera de ellos, debiéndose notificar la liquidación resultante a todos los interesados que consten en el expediente.",
+      "Lo impedirá, en cuyo caso las actuaciones se entenderán con cualquiera de ellos, debiéndose notificar la liquidación resultante a todos los interesados que consten en el expediente.",
+      "No lo impedirá, en cuyo caso las actuaciones se entenderán únicamente con el representante de la herencia, debiéndose notificar la liquidación resultante a todos los interesados que consten en el expediente.",
+      "No lo impedirá, en cuyo caso las actuaciones se entenderán con cualquiera de ellos, debiéndose notificar la liquidación resultante únicamente al heredero de mayor cuota."
+    ],
+    "answer": 0,
+    "article": "38"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 38 (Sucesores de personas físicas), mientras la herencia se encuentre yacente, ¿a quién corresponde el cumplimiento de las obligaciones tributarias del causante?",
+    "options": [
+      "Al representante de la herencia yacente.",
+      "Al administrador de la herencia yacente.",
+      "A los sucesores que consten en el expediente.",
+      "Al representante de la Administración tributaria."
+    ],
+    "answer": 0,
+    "article": "38"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 38 (Sucesores de personas físicas), en el supuesto de la herencia pendiente del ejercicio de un poder testatorio, ¿a quién corresponde el cumplimiento de las obligaciones tributarias materiales y formales?",
+    "options": [
+      "Al administrador de la misma.",
+      "Al representante de la misma.",
+      "A los sucesores de la misma.",
+      "A los legatarios de parte alícuota."
+    ],
+    "answer": 0,
+    "article": "38"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), las obligaciones tributarias pendientes de sociedades disueltas y liquidadas en las que la Ley limita la responsabilidad patrimonial de los socios, ¿a quiénes se transmiten y hasta qué límite?",
+    "options": [
+      "A los socios, partícipes o cotitulares, que quedarán obligados solidariamente hasta el límite del valor de la cuota de liquidación que les corresponda y demás percepciones patrimoniales recibidas en los cuatro años anteriores a la fecha de disolución o de declaración de concurso si fuera anterior.",
+      "A los socios, partícipes o cotitulares, que quedarán obligados solidariamente hasta el límite del valor de la cuota de liquidación que les corresponda y demás percepciones patrimoniales recibidas en los dos años anteriores a la fecha de disolución o de declaración de concurso si fuera anterior.",
+      "A los socios, partícipes o cotitulares, que quedarán obligados subsidiariamente hasta el límite del valor de la cuota de liquidación que les corresponda y demás percepciones patrimoniales recibidas en los cuatro años anteriores a la fecha de disolución o de declaración de concurso si fuera anterior.",
+      "A los socios, partícipes o cotitulares, que quedarán obligados solidariamente sin límite alguno, por las percepciones patrimoniales recibidas en los cuatro años anteriores a la fecha de disolución o de declaración de concurso si fuera anterior."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), cuando la legislación no limita la responsabilidad patrimonial de los socios, ¿cómo se transmiten las obligaciones tributarias pendientes?",
+    "options": [
+      "Se transmitirán íntegramente a éstos, que quedarán obligados solidariamente a su cumplimiento.",
+      "Se transmitirán íntegramente a éstos, que quedarán obligados subsidiariamente a su cumplimiento.",
+      "Se transmitirán parcialmente a éstos, que quedarán obligados solidariamente a su cumplimiento.",
+      "Se transmitirán íntegramente a éstos, hasta el límite del valor de la cuota de liquidación, que quedarán obligados solidariamente a su cumplimiento."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), en los supuestos de extinción o disolución sin liquidación de sociedades con personalidad jurídica, ¿a quiénes se transmiten las obligaciones tributarias pendientes?",
+    "options": [
+      "A las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación, siendo también aplicable a cualquier supuesto de cesión global del activo y pasivo.",
+      "A las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación, no siendo aplicable a los supuestos de cesión global del activo y pasivo.",
+      "A las personas o entidades que sucedan o sean beneficiarias de la correspondiente operación, siendo también aplicable únicamente a la cesión parcial del activo y pasivo.",
+      "A los socios, partícipes o cotitulares de la correspondiente operación, siendo también aplicable a cualquier supuesto de cesión global del activo y pasivo."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), en caso de disolución de fundaciones, ¿a quiénes se transmiten las obligaciones tributarias pendientes y hasta qué límite?",
+    "options": [
+      "A los destinatarios de los bienes y derechos, que responderán hasta el límite del valor de los mismos.",
+      "A los destinatarios de los bienes y derechos, que responderán sin límite alguno.",
+      "A los partícipes o cotitulares de la fundación, que responderán hasta el límite del valor de los mismos.",
+      "A los administradores de los bienes y derechos, que responderán hasta el límite del valor de los mismos."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), en caso de disolución de las entidades del apartado 3 del artículo 34, ¿a quiénes se transmiten íntegramente las obligaciones tributarias pendientes?",
+    "options": [
+      "A los partícipes o cotitulares de las mismas.",
+      "A los destinatarios de los bienes de las mismas.",
+      "A los administradores de las mismas.",
+      "A los socios o accionistas de las mismas."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), ¿impide la transmisión a los sucesores el hecho de que la deuda no estuviera liquidada en el momento de la disolución o extinción de la personalidad jurídica?",
+    "options": [
+      "No lo impedirá, pudiéndose entender las actuaciones con cualquiera de ellos, debiéndose notificar las liquidaciones resultantes a todos los interesados que consten en el expediente.",
+      "Lo impedirá, pudiéndose entender las actuaciones con cualquiera de ellos, debiéndose notificar las liquidaciones resultantes a todos los interesados que consten en el expediente.",
+      "No lo impedirá, pudiéndose entender las actuaciones únicamente con el administrador concursal, debiéndose notificar las liquidaciones resultantes a todos los interesados que consten en el expediente.",
+      "No lo impedirá, pudiéndose entender las actuaciones con cualquiera de ellos, debiéndose notificar las liquidaciones resultantes únicamente al sucesor de mayor cuota."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 6 del artículo 39 (Sucesores de personas jurídicas y de entidades sin personalidad), ¿a quiénes serán exigibles las sanciones que pudieran proceder por las infracciones cometidas por dichas sociedades y entidades?",
+    "options": [
+      "A los sucesores de las mismas, en los términos establecidos en los apartados anteriores.",
+      "A los administradores de las mismas, en los términos establecidos en los apartados anteriores.",
+      "A los responsables solidarios de las mismas, en los términos establecidos en los apartados anteriores.",
+      "A los sucesores de las mismas, sin ninguna limitación derivada de los apartados anteriores."
+    ],
+    "answer": 0,
+    "article": "39"
+  },
+  {
+    "question": "Según el apartado 1 del artículo 40 (Responsabilidad tributaria), ¿cómo se podrá configurar por Norma Foral la responsabilidad de otras personas o entidades junto a los deudores principales?",
+    "options": [
+      "Como responsables solidarios o subsidiarios de la deuda tributaria, considerándose deudores principales los obligados tributarios del apartado 2 del artículo 34 de esta Norma Foral.",
+      "Como responsables solidarios o mancomunados de la deuda tributaria, considerándose deudores principales los obligados tributarios del apartado 2 del artículo 34 de esta Norma Foral.",
+      "Como sucesores solidarios o subsidiarios de la deuda tributaria, considerándose deudores principales los obligados tributarios del apartado 2 del artículo 34 de esta Norma Foral.",
+      "Como responsables solidarios o subsidiarios de la deuda tributaria, considerándose deudores principales los obligados tributarios del apartado 2 del artículo 40 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 2 del artículo 40 (Responsabilidad tributaria), salvo precepto legal expreso en contrario, ¿de qué carácter será la responsabilidad?",
+    "options": [
+      "Será siempre subsidiaria.",
+      "Será siempre solidaria.",
+      "Será siempre mancomunada.",
+      "Será siempre accesoria."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 3 del artículo 40 (Responsabilidad tributaria), ¿a qué alcanzará la responsabilidad y qué ocurre transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso?",
+    "options": [
+      "Alcanzará a la totalidad de la deuda tributaria exigida en período voluntario; transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso, se iniciará el período ejecutivo y se exigirán los recargos e intereses que procedan.",
+      "Alcanzará a una parte de la deuda tributaria exigida en período voluntario; transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso, se iniciará el período ejecutivo y se exigirán los recargos e intereses que procedan.",
+      "Alcanzará a la totalidad de la deuda tributaria exigida en período ejecutivo; transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso, se iniciará el período ejecutivo y se exigirán los recargos e intereses que procedan.",
+      "Alcanzará a la totalidad de la deuda tributaria exigida en período voluntario; transcurrido el plazo voluntario de pago concedido al responsable sin realizar el ingreso, se iniciará el período ejecutivo y se exigirán únicamente las sanciones que procedan."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 4 del artículo 40 (Responsabilidad tributaria), ¿alcanza la responsabilidad a las sanciones?",
+    "options": [
+      "No alcanzará a las sanciones, salvo las excepciones que en esta u otra Norma Foral se establezcan.",
+      "Alcanzará a las sanciones, salvo las excepciones que en esta u otra Norma Foral se establezcan.",
+      "No alcanzará a las sanciones, sin excepción alguna prevista en esta u otra Norma Foral.",
+      "No alcanzará a los intereses de demora, salvo las excepciones que en esta u otra Norma Foral se establezcan."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 40 (Responsabilidad tributaria), salvo que por Norma Foral se disponga otra cosa, ¿qué requerirá la declaración de responsabilidad?",
+    "options": [
+      "Un acto administrativo de conformidad con el procedimiento establecido en el artículo 179 de esta Norma Foral.",
+      "Un acto administrativo de conformidad con el procedimiento establecido en el artículo 180 de esta Norma Foral.",
+      "Una resolución judicial de conformidad con el procedimiento establecido en el artículo 179 de esta Norma Foral.",
+      "Un acuerdo de las Juntas Generales de conformidad con el procedimiento establecido en el artículo 179 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 5 del artículo 40 (Responsabilidad tributaria), en el supuesto de liquidaciones administrativas, si la declaración de responsabilidad se efectúa con anterioridad al vencimiento del período voluntario de pago, ¿a qué órgano corresponde la competencia para dictar dicho acto?",
+    "options": [
+      "Al órgano competente para dictar la liquidación; en los demás casos, corresponderá al órgano de recaudación.",
+      "Al órgano de recaudación; en los demás casos, corresponderá al órgano competente para dictar la liquidación.",
+      "Al órgano competente para dictar la liquidación en todo caso, con independencia del momento de la declaración de responsabilidad.",
+      "Al órgano competente para imponer sanciones; en los demás casos, corresponderá al órgano de recaudación."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 6 del artículo 40 (Responsabilidad tributaria), la derivación de la acción administrativa para exigir el pago de la deuda a los responsables subsidiarios, ¿qué requiere?",
+    "options": [
+      "La previa declaración de fallido del deudor principal y de los responsables solidarios.",
+      "La previa declaración de fallido del deudor principal y de los responsables subsidiarios.",
+      "La previa declaración de concurso del deudor principal y de los responsables solidarios.",
+      "La previa declaración de fallido únicamente del deudor principal."
+    ],
+    "answer": 0,
+    "article": "40"
+  },
+  {
+    "question": "Según el apartado 7 del artículo 40 (Responsabilidad tributaria), ¿qué derecho tienen los responsables frente al deudor principal?",
+    "options": [
+      "Derecho de reembolso frente al deudor principal en los términos previstos en la legislación civil.",
+      "Derecho de reembolso frente al deudor principal en los términos previstos en la legislación mercantil.",
+      "Derecho de repercusión frente al deudor principal en los términos previstos en la legislación civil.",
+      "Derecho de reembolso frente a la Administración tributaria en los términos previstos en la legislación civil."
+    ],
+    "answer": 0,
+    "article": "40"
+  }
+]

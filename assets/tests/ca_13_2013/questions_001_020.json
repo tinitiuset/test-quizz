@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Según el artículo 1 (Naturaleza), ¿cómo se define el Impuesto sobre la Renta de las Personas Físicas?",
+    "options": [
+      "Un tributo de carácter directo y naturaleza personal y subjetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter indirecto y naturaleza personal y subjetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter directo y naturaleza real y objetiva que grava la renta de las personas físicas.",
+      "Un tributo de carácter directo y naturaleza personal y subjetiva que grava la renta de las personas jurídicas."
+    ],
+    "answer": 0,
+    "article": "1"
+  },
+  {
+    "question": "Según el artículo 2 (Ámbito de aplicación subjetivo), ¿a qué obligados tributarios del Impuesto se aplica esta Norma Foral?",
+    "options": [
+      "A título de contribuyente y a título de obligado a realizar pagos a cuenta.",
+      "A título de contribuyente y a título de responsable del pago de la deuda tributaria.",
+      "A título de sustituto del contribuyente y a título de obligado a realizar pagos a cuenta.",
+      "A título de retenedor y a título de obligado a soportar retenciones e ingresos a cuenta."
+    ],
+    "answer": 0,
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 2, cuando los contribuyentes de una unidad familiar residan en territorios distintos y opten por la tributación conjunta, ¿cuándo tributan a la Diputación Foral de Bizkaia?",
+    "options": [
+      "Cuando tenga su residencia habitual en este territorio el miembro de la unidad familiar con mayor base liquidable.",
+      "Cuando tenga su residencia habitual en este territorio el miembro de la unidad familiar con mayor base imponible.",
+      "Cuando tenga su residencia habitual en este territorio el miembro de la unidad familiar con mayor período de permanencia.",
+      "Cuando tenga su residencia habitual en este territorio la mayoría de los miembros de la unidad familiar."
+    ],
+    "answer": 0,
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 2, ¿en qué caso se aplica esta Norma Foral a los obligados a realizar pagos a cuenta?",
+    "options": [
+      "A los obligados a practicar retenciones e ingresos a cuenta cuando, conforme a los artículos 7 a 11 del Concierto Económico, deban ingresarse en la Diputación Foral de Bizkaia.",
+      "A los obligados a practicar retenciones e ingresos a cuenta cuando, conforme a los artículos 2 a 4 del Concierto Económico, deban ingresarse en la Diputación Foral de Bizkaia.",
+      "A los obligados a practicar retenciones e ingresos a cuenta cuando, conforme a los artículos 7 a 11 del Concierto Económico, deban ingresarse en la Agencia Estatal de Administración Tributaria.",
+      "A los obligados a soportar retenciones e ingresos a cuenta cuando, conforme a los artículos 7 a 11 del Concierto Económico, deban ingresarse en la Diputación Foral de Bizkaia."
+    ],
+    "answer": 0,
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 2, en las retenciones sobre retribuciones de administradores y miembros de Consejos de Administración, rendimientos de fondos propios e intereses de obligaciones, ¿cuándo se aplica esta Norma Foral?",
+    "options": [
+      "Cuando a la entidad pagadora le resulte de aplicación la normativa vizcaína reguladora del Impuesto sobre Sociedades.",
+      "Cuando a la entidad pagadora le resulte de aplicación la normativa vizcaína reguladora del Impuesto sobre la Renta de las Personas Físicas.",
+      "Cuando a la entidad pagadora le resulte de aplicación la normativa estatal reguladora del Impuesto sobre Sociedades.",
+      "Cuando a la entidad pagadora le resulte de aplicación la normativa vizcaína reguladora del Impuesto sobre Sucesiones y Donaciones."
+    ],
+    "answer": 0,
+    "article": "2"
+  },
+  {
+    "question": "Según el artículo 3 (Residencia habitual), ¿cuál es la primera regla que se aplica para entender que una persona física tiene su residencia habitual en Bizkaia?",
+    "options": [
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, permanezca en Bizkaia más días que en cada uno de los otros dos Territorios Históricos.",
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, permanezca en Bizkaia más días que en el conjunto de los otros dos Territorios Históricos.",
+      "Cuando, permaneciendo en el País Vasco un menor número de días del período impositivo, permanezca en Bizkaia más días que en cada uno de los otros dos Territorios Históricos.",
+      "Cuando, permaneciendo en el País Vasco un mayor número de días del período impositivo, permanezca en Bizkaia menos días que en cada uno de los otros dos Territorios Históricos."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, la segunda regla (principal centro de intereses) se cumple cuando, obteniendo en el País Vasco la mayor parte de la base imponible, se obtenga en Bizkaia más parte de la base imponible que en cada uno de los otros dos Territorios Históricos, con qué exclusión.",
+    "options": [
+      "Excluyendo las rentas y ganancias patrimoniales derivadas del capital mobiliario y las bases imponibles imputadas.",
+      "Incluyendo las rentas y ganancias patrimoniales derivadas del capital mobiliario y las bases imponibles imputadas.",
+      "Excluyendo las rentas y ganancias patrimoniales derivadas del capital inmobiliario y las bases imponibles imputadas.",
+      "Excluyendo las rentas y ganancias patrimoniales derivadas del capital mobiliario y las bases liquidables imputadas."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, ¿cómo se aplican las tres reglas para determinar la residencia habitual?",
+    "options": [
+      "La regla segunda se aplica cuando por la primera no ha sido posible determinar la residencia, y la tercera cuando tampoco lo ha sido tras aplicar la primera y la segunda.",
+      "La regla primera se aplica cuando por la segunda no ha sido posible determinar la residencia, y la tercera cuando tampoco lo ha sido tras aplicar la segunda y la primera.",
+      "Las tres reglas se aplican simultáneamente y prevalece la que otorgue la residencia habitual en Bizkaia.",
+      "La regla tercera se aplica cuando por la primera no ha sido posible determinar la residencia, sin necesidad de aplicar la segunda."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, para determinar el período de permanencia, ¿cómo se tratan las ausencias temporales?",
+    "options": [
+      "Se computarán las ausencias temporales, salvo que se demuestre la residencia fiscal en otro país.",
+      "No se computarán las ausencias temporales, salvo que se demuestre la residencia fiscal en otro país.",
+      "Se computarán las ausencias temporales, salvo que se demuestre la residencia fiscal en otro Territorio Histórico.",
+      "Se computarán las ausencias definitivas, salvo que se demuestre la residencia fiscal en otro país."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, las personas físicas residentes en territorio español que no permanezcan en él más de 183 días durante el año natural, ¿cuándo se consideran residentes en el País Vasco?",
+    "options": [
+      "Cuando en el mismo radique el núcleo principal o la base de sus actividades empresariales o profesionales o de sus intereses económicos.",
+      "Cuando en el mismo radique su vivienda habitual o la de su cónyuge no separado legalmente.",
+      "Cuando en el mismo permanezcan más de 183 días durante el año natural del período impositivo.",
+      "Cuando en el mismo radique el núcleo secundario o accesorio de sus actividades empresariales o profesionales."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, sobre la presunción de residencia por razón del cónyuge y los hijos, ¿qué establece la norma?",
+    "options": [
+      "Se presume la residencia habitual donde residan el cónyuge no separado legalmente y los hijos menores de edad que dependan de la persona; esta presunción admite prueba en contrario.",
+      "Se presume la residencia habitual donde residan el cónyuge no separado legalmente y los hijos menores de edad que dependan de la persona; esta presunción no admite prueba en contrario.",
+      "Se presume la residencia habitual donde residan el cónyuge no separado legalmente y los hijos mayores de edad que dependan de la persona; esta presunción admite prueba en contrario.",
+      "Se presume la residencia habitual donde residan el cónyuge no separado legalmente y los hijos menores de edad, con independencia de que dependan de la persona; esta presunción admite prueba en contrario."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, respecto de los cambios en la residencia habitual, ¿qué efecto tienen los que persiguen una menor tributación?",
+    "options": [
+      "No producirán efecto los cambios de residencia que tengan por objeto principal lograr una menor tributación efectiva.",
+      "Producirán efecto los cambios de residencia que tengan por objeto principal lograr una menor tributación efectiva.",
+      "No producirán efecto los cambios de residencia que tengan por objeto principal lograr una mayor tributación efectiva.",
+      "No producirán efecto los cambios de residencia que tengan por objeto exclusivo lograr una menor tributación efectiva."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 3, cuando no procedan normas específicas de tratados internacionales, ¿qué ocurre con los nacionales extranjeros con residencia habitual en Bizkaia?",
+    "options": [
+      "No se considerarán contribuyentes, a título de reciprocidad, cuando esa circunstancia derive de alguno de los supuestos especiales de obligación de contribuir del artículo siguiente.",
+      "Se considerarán contribuyentes, a título de reciprocidad, cuando esa circunstancia derive de alguno de los supuestos especiales de obligación de contribuir del artículo siguiente.",
+      "No se considerarán contribuyentes, a título de progresividad, cuando esa circunstancia derive de alguno de los supuestos especiales de obligación de contribuir del artículo siguiente.",
+      "No se considerarán contribuyentes, a título de reciprocidad, cuando esa circunstancia derive de alguno de los supuestos de atribución de rentas del artículo siguiente."
+    ],
+    "answer": 0,
+    "article": "3"
+  },
+  {
+    "question": "Según el artículo 4 (Supuestos especiales de obligación de contribuir), ¿a quiénes se aplica esta Norma Foral cuando pasen a residir en el extranjero por las condiciones que enumera?",
+    "options": [
+      "A las personas de nacionalidad española, su cónyuge no separado legalmente o hijos menores de edad sometidos previamente a la normativa tributaria vizcaína.",
+      "A las personas de nacionalidad extranjera, su cónyuge no separado legalmente o hijos menores de edad sometidos previamente a la normativa tributaria vizcaína.",
+      "A las personas de nacionalidad española, su cónyuge no separado legalmente o hijos mayores de edad sometidos previamente a la normativa tributaria vizcaína.",
+      "A las personas de nacionalidad española, su cónyuge separado legalmente o hijos menores de edad sometidos previamente a la normativa tributaria vizcaína."
+    ],
+    "answer": 0,
+    "article": "4"
+  },
+  {
+    "question": "Según el artículo 4, respecto de los miembros de las Oficinas consulares españolas, ¿qué excepción establece?",
+    "options": [
+      "Se comprende al Jefe y a los funcionarios o personal de servicios adscritos, con excepción de los Vicecónsules honorarios o Agentes consulares honorarios y del personal dependiente de los mismos.",
+      "Se comprende al Jefe y a los funcionarios o personal de servicios adscritos, con excepción de los Vicecónsules de carrera o Agentes consulares de carrera y del personal dependiente de los mismos.",
+      "Se comprende al Jefe y a los funcionarios o personal de servicios adscritos, incluyendo a los Vicecónsules honorarios o Agentes consulares honorarios y al personal dependiente de los mismos.",
+      "Se comprende al Jefe y a los funcionarios o personal de servicios adscritos, con excepción del personal diplomático dependiente de la Misión y de sus familiares."
+    ],
+    "answer": 0,
+    "article": "4"
+  },
+  {
+    "question": "Según el artículo 4, ¿en qué caso NO se aplica el supuesto especial de obligación de contribuir?",
+    "options": [
+      "Cuando las personas no sean funcionarios públicos en activo ni titulares de cargo oficial y tuvieran su residencia habitual en el extranjero con anterioridad a la adquisición de dichas condiciones.",
+      "Cuando las personas no sean funcionarios públicos en activo ni titulares de cargo oficial y tuvieran su residencia habitual en el extranjero con posterioridad a la adquisición de dichas condiciones.",
+      "Cuando las personas sean funcionarios públicos en activo o titulares de cargo oficial y tuvieran su residencia habitual en el extranjero con anterioridad a la adquisición de dichas condiciones.",
+      "Cuando las personas no sean funcionarios públicos en activo ni titulares de cargo oficial y tuvieran su residencia habitual en territorio común con anterioridad a la adquisición de dichas condiciones."
+    ],
+    "answer": 0,
+    "article": "4"
+  },
+  {
+    "question": "Según el artículo 5 (Tratados y convenios), ¿cómo se entiende lo previsto en esta Norma Foral respecto de los tratados internacionales?",
+    "options": [
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento interno español.",
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento interno de la Unión Europea.",
+      "Con preferencia sobre lo dispuesto en los tratados y convenios internacionales que formen parte del ordenamiento interno español.",
+      "Sin perjuicio de lo dispuesto en los tratados y convenios internacionales suscritos por la Comunidad Autónoma del País Vasco."
+    ],
+    "answer": 0,
+    "article": "5"
+  },
+  {
+    "question": "Según el artículo 6 (Hecho imponible), ¿qué constituye el hecho imponible del Impuesto?",
+    "options": [
+      "La obtención de renta por el contribuyente, con independencia del lugar donde se hubiese producido y cualquiera que sea la residencia del pagador.",
+      "La obtención de renta por el contribuyente, únicamente cuando se hubiese producido en territorio español y cualquiera que sea la residencia del pagador.",
+      "La obtención de renta por el contribuyente, con independencia del lugar donde se hubiese producido y siempre que el pagador resida en Bizkaia.",
+      "La titularidad de elementos patrimoniales por el contribuyente, con independencia del lugar donde se hubiese producido su renta."
+    ],
+    "answer": 0,
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 6, ¿qué componentes integran la renta del contribuyente?",
+    "options": [
+      "Los rendimientos del trabajo, los de actividades económicas, los del capital, las ganancias y pérdidas patrimoniales y las imputaciones de renta establecidas por Norma Foral.",
+      "Los rendimientos del trabajo, los de actividades económicas, los del capital, las ganancias y pérdidas contables y las imputaciones de renta establecidas por Norma Foral.",
+      "Los rendimientos del trabajo, los de actividades económicas, los del ahorro, las ganancias y pérdidas patrimoniales y las imputaciones de renta establecidas por Norma Foral.",
+      "Los rendimientos del trabajo, los de actividades económicas, los del capital, las ganancias y pérdidas patrimoniales y las imputaciones de renta establecidas por convenio colectivo."
+    ],
+    "answer": 0,
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 6, a efectos de determinar la base imponible y calcular el Impuesto, ¿cómo se clasifica la renta?",
+    "options": [
+      "En renta general y del ahorro.",
+      "En renta general y del trabajo.",
+      "En renta ordinaria y del ahorro.",
+      "En renta dineraria y en especie."
+    ],
+    "answer": 0,
+    "article": "6"
+  },
+  {
+    "question": "Según el artículo 7 (Estimación de rentas), ¿qué presunción establece respecto de determinadas prestaciones y cesiones?",
+    "options": [
+      "Se presumirán retribuidas las prestaciones de trabajo y servicios, así como las cesiones de bienes o derechos, en los términos establecidos por esta Norma Foral.",
+      "Se presumirán gratuitas las prestaciones de trabajo y servicios, así como las cesiones de bienes o derechos, en los términos establecidos por esta Norma Foral.",
+      "Se presumirán retribuidas las prestaciones de trabajo y servicios, así como las donaciones de bienes o derechos, en los términos establecidos por esta Norma Foral.",
+      "Se presumirán retribuidas las prestaciones de trabajo y servicios, así como las cesiones de bienes o derechos, salvo prueba en contrario aportada por el contribuyente."
+    ],
+    "answer": 0,
+    "article": "7"
+  },
+  {
+    "question": "Según el artículo 8 (Rentas no sujetas), ¿qué rentas no estarán sujetas a este Impuesto?",
+    "options": [
+      "Las rentas que se encuentren sujetas al Impuesto sobre Sucesiones y Donaciones.",
+      "Las rentas que se encuentren sujetas al Impuesto sobre Sociedades.",
+      "Las rentas que se encuentren exentas del Impuesto sobre Sucesiones y Donaciones.",
+      "Las rentas que se encuentren sujetas al Impuesto sobre el Patrimonio."
+    ],
+    "answer": 0,
+    "article": "8"
+  },
+  {
+    "question": "Según el artículo 9 (Rentas exentas), ¿qué anualidades por alimentos están exentas?",
+    "options": [
+      "Las percibidas de los padres en concepto de anualidades por alimentos en virtud de decisión judicial.",
+      "Las percibidas del cónyuge en concepto de anualidades por alimentos en virtud de decisión judicial.",
+      "Las percibidas de los padres en concepto de anualidades por alimentos en virtud de acuerdo privado.",
+      "Las percibidas de los padres en concepto de pensiones compensatorias en virtud de decisión judicial."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué prestaciones por actos de terrorismo están exentas?",
+    "options": [
+      "Las prestaciones públicas percibidas como consecuencia de actos de terrorismo.",
+      "Las prestaciones privadas percibidas como consecuencia de actos de terrorismo.",
+      "Las prestaciones públicas percibidas como consecuencia de accidentes laborales.",
+      "Las indemnizaciones convencionales percibidas como consecuencia de actos de terrorismo."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, respecto de las prestaciones de la Seguridad Social por incapacidad, ¿cuáles están exentas?",
+    "options": [
+      "Las de incapacidad permanente absoluta o gran invalidez, así como las de incapacidad permanente total percibidas por contribuyentes de edad superior a 55 años.",
+      "Las de incapacidad permanente absoluta o gran invalidez, así como las de incapacidad permanente total percibidas por contribuyentes de edad superior a 65 años.",
+      "Las de incapacidad permanente total o parcial, así como las de incapacidad permanente absoluta percibidas por contribuyentes de edad superior a 55 años.",
+      "Las de incapacidad permanente absoluta o gran invalidez, así como las de incapacidad permanente total percibidas por cualquier contribuyente."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué requisito exige la exención de las pensiones por inutilidad o incapacidad permanente del régimen de clases pasivas?",
+    "options": [
+      "Que la lesión o enfermedad causante inhabilitara por completo al perceptor para toda profesión u oficio.",
+      "Que la lesión o enfermedad causante inhabilitara parcialmente al perceptor para su profesión habitual.",
+      "Que la pensión proceda del régimen general de la Seguridad Social y no del de clases pasivas.",
+      "Que la lesión o enfermedad causante concurra con independencia de que inhabilite para toda profesión u oficio."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, sobre las indemnizaciones por despido o cese del trabajador, ¿qué establece la exención?",
+    "options": [
+      "Están exentas en la cuantía obligatoria del Estatuto de los Trabajadores, sin que pueda considerarse como tal la establecida por convenio, pacto o contrato, con el límite de 187.272 euros.",
+      "Están exentas en la cuantía obligatoria del Estatuto de los Trabajadores, sin que pueda considerarse como tal la establecida por convenio, pacto o contrato, con el límite de 180.000 euros.",
+      "Están exentas en la cuantía obligatoria del Estatuto de los Trabajadores, incluyendo la establecida por convenio, pacto o contrato, con el límite de 187.272 euros.",
+      "Están exentas en la cuantía voluntaria del Estatuto de los Trabajadores, sin que pueda considerarse como tal la establecida por convenio, pacto o contrato, con el límite de 187.272 euros."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿en qué cuantía están exentas las indemnizaciones por responsabilidad civil por daños a personas?",
+    "options": [
+      "Las indemnizaciones por daños físicos, psíquicos o morales a personas, en la cuantía legal o judicialmente reconocida.",
+      "Las indemnizaciones por daños físicos, psíquicos o morales a personas, en la cuantía pactada entre las partes.",
+      "Las indemnizaciones por daños físicos, psíquicos o materiales a personas, en la cuantía legal o judicialmente reconocida.",
+      "Las indemnizaciones por daños físicos, psíquicos o morales a personas derivadas de responsabilidad penal, en la cuantía legal o judicialmente reconocida."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿cuáles son los límites de exención de las percepciones derivadas de contratos de seguro por daños a personas?",
+    "options": [
+      "Hasta 150.000 euros, elevándose a 200.000 euros si la lesión inhabilita para cualquier ocupación y a 300.000 euros si además necesita la asistencia de otra persona.",
+      "Hasta 150.000 euros, elevándose a 250.000 euros si la lesión inhabilita para cualquier ocupación y a 300.000 euros si además necesita la asistencia de otra persona.",
+      "Hasta 100.000 euros, elevándose a 200.000 euros si la lesión inhabilita para cualquier ocupación y a 300.000 euros si además necesita la asistencia de otra persona.",
+      "Hasta 150.000 euros, elevándose a 200.000 euros si la lesión inhabilita para cualquier ocupación y a 350.000 euros si además necesita la asistencia de otra persona."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué premios relevantes están exentos?",
+    "options": [
+      "Los relacionados con la defensa y promoción de los derechos humanos, literarios, artísticos o científicos, con las condiciones que reglamentariamente se determinen.",
+      "Los relacionados con la defensa y promoción de los derechos humanos, literarios, artísticos o deportivos, con las condiciones que reglamentariamente se determinen.",
+      "Los relacionados con la defensa y promoción de los derechos humanos, literarios, artísticos o científicos, sin ninguna condición adicional.",
+      "Los relacionados con la defensa y promoción de los derechos sociales, literarios, artísticos o científicos, con las condiciones que reglamentariamente se determinen."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿hasta qué nivel educativo están exentas las becas para cursar estudios reglados?",
+    "options": [
+      "Las becas públicas y de entidades sin fines lucrativos y fundaciones bancarias para estudios en todos los niveles y grados del sistema educativo, hasta el tercer ciclo universitario.",
+      "Las becas públicas y de entidades sin fines lucrativos y fundaciones bancarias para estudios en todos los niveles y grados del sistema educativo, hasta el segundo ciclo universitario.",
+      "Las becas públicas y de entidades con fines lucrativos y fundaciones bancarias para estudios en todos los niveles y grados del sistema educativo, hasta el tercer ciclo universitario.",
+      "Las becas públicas y de entidades sin fines lucrativos y fundaciones bancarias para estudios únicamente en los niveles universitarios del sistema educativo, hasta el tercer ciclo universitario."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué cantidades por acogimiento están exentas?",
+    "options": [
+      "Las cantidades percibidas de instituciones públicas con motivo del acogimiento de personas.",
+      "Las cantidades percibidas de instituciones privadas con motivo del acogimiento de personas.",
+      "Las cantidades percibidas de instituciones públicas con motivo de la adopción de personas.",
+      "Las cantidades satisfechas a instituciones públicas con motivo del acogimiento de personas."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué pensiones relacionadas con la guerra civil están exentas?",
+    "options": [
+      "Las reconocidas a favor de quienes sufrieron lesiones o mutilaciones con ocasión o consecuencia de la guerra civil 1936/1939.",
+      "Las reconocidas a favor de quienes sufrieron lesiones o mutilaciones con ocasión o consecuencia de la guerra civil 1939/1945.",
+      "Las reconocidas a favor de quienes sufrieron lesiones o enfermedades con ocasión o consecuencia de la guerra civil 1936/1939.",
+      "Las indemnizaciones reconocidas a favor de quienes sufrieron lesiones o mutilaciones con ocasión o consecuencia de la guerra civil 1936/1939."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, respecto de las prestaciones familiares y asimiladas, ¿qué haberes pasivos de orfandad están exentos?",
+    "options": [
+      "Los percibidos a favor de nietos y nietas o de hermanos y hermanas, menores de veintidós años o incapacitados para todo trabajo.",
+      "Los percibidos a favor de nietos y nietas o de hermanos y hermanas, menores de dieciocho años o incapacitados para todo trabajo.",
+      "Los percibidos a favor de nietos y nietas o de hermanos y hermanas, menores de veintidós años o incapacitados para su trabajo habitual.",
+      "Los percibidos en concepto de viudedad a favor de nietos y nietas o de hermanos y hermanas, menores de veintidós años."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, las prestaciones por desempleo en la modalidad de pago único, ¿a qué condición está sujeta su exención?",
+    "options": [
+      "Al mantenimiento de la acción o participación, o de la actividad, durante el plazo de cinco años.",
+      "Al mantenimiento de la acción o participación, o de la actividad, durante el plazo de tres años.",
+      "A la transmisión de la acción o participación, o de la actividad, durante el plazo de cinco años.",
+      "Al mantenimiento de la acción o participación, o de la actividad, siempre que se perciban en la modalidad de pago fraccionado."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué ayudas sociales por razones sanitarias están exentas?",
+    "options": [
+      "Las ayudas a los afectados por el VIH por actuaciones en el Sistema Sanitario Público y a las personas con hemofilia u otras coagulopatías congénitas.",
+      "Las ayudas a los afectados por el VIH por actuaciones en el sistema sanitario privado y a las personas con hemofilia u otras coagulopatías congénitas.",
+      "Las ayudas a los afectados por el VIH por actuaciones en el Sistema Sanitario Público y a las personas con hemofilia u otras enfermedades degenerativas.",
+      "Las ayudas a los afectados por la hepatitis por actuaciones en el Sistema Sanitario Público y a las personas con hemofilia u otras coagulopatías congénitas."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué ayudas a deportistas están exentas?",
+    "options": [
+      "Las ayudas de contenido económico a los deportistas de alto nivel ajustadas a los programas de preparación establecidos por las instituciones competentes.",
+      "Las ayudas de contenido material a los deportistas de alto nivel ajustadas a los programas de preparación establecidos por las instituciones competentes.",
+      "Las ayudas de contenido económico a los deportistas de nivel escolar ajustadas a los programas de preparación establecidos por las instituciones competentes.",
+      "Las ayudas de contenido económico a los deportistas de alto nivel ajustadas a los programas de preparación establecidos por las federaciones internacionales."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué gratificaciones por misiones internacionales están exentas?",
+    "options": [
+      "Las gratificaciones extraordinarias y prestaciones de carácter público por la participación en misiones internacionales de paz o en misiones humanitarias internacionales.",
+      "Las gratificaciones ordinarias y prestaciones de carácter público por la participación en misiones internacionales de paz o en misiones humanitarias internacionales.",
+      "Las gratificaciones extraordinarias y prestaciones de carácter privado por la participación en misiones internacionales de paz o en misiones humanitarias internacionales.",
+      "Las gratificaciones extraordinarias y prestaciones de carácter público por la participación en misiones internacionales de paz o en misiones comerciales internacionales."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, sobre los rendimientos del trabajo por trabajos realizados en el extranjero, ¿cuál es el límite de la exención?",
+    "options": [
+      "Se aplica a las retribuciones por trabajos efectivamente realizados en el extranjero para una entidad no residente, con el límite máximo de 60.100 euros anuales.",
+      "Se aplica a las retribuciones por trabajos efectivamente realizados en el extranjero para una entidad no residente, con el límite máximo de 60.000 euros anuales.",
+      "Se aplica a las retribuciones por trabajos efectivamente realizados en el extranjero para una entidad residente en España, con el límite máximo de 60.100 euros anuales.",
+      "Se aplica a las retribuciones por trabajos potencialmente realizables en el extranjero para una entidad no residente, con el límite máximo de 60.100 euros anuales."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, entre las rentas positivas exentas por ayudas comunitarias, ¿qué prevé respecto de la política agraria?",
+    "options": [
+      "La percepción de ayudas de la política agraria comunitaria por abandono definitivo de la producción lechera o del cultivo del viñedo, entre otras.",
+      "La percepción de ayudas de la política agraria comunitaria por abandono temporal de la producción lechera o del cultivo del viñedo, entre otras.",
+      "La percepción de ayudas de la política agraria estatal por abandono definitivo de la producción lechera o del cultivo del viñedo, entre otras.",
+      "La percepción de ayudas de la política agraria comunitaria por abandono definitivo de la producción cárnica o del cultivo del olivar, entre otras."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, respecto de las subvenciones de capital a fincas forestales, ¿qué requisito se exige?",
+    "options": [
+      "Que se concedan a quienes exploten fincas forestales gestionadas conforme a planes aprobados, siempre que el período de producción medio sea igual o superior a treinta años.",
+      "Que se concedan a quienes exploten fincas forestales gestionadas conforme a planes aprobados, siempre que el período de producción medio sea igual o superior a veinte años.",
+      "Que se concedan a quienes exploten fincas forestales gestionadas conforme a planes aprobados, siempre que el período de producción medio sea inferior a treinta años.",
+      "Que se concedan subvenciones corrientes a quienes exploten fincas forestales gestionadas conforme a planes aprobados, siempre que el período de producción medio sea igual o superior a treinta años."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué cantidades relacionadas con el jurado están exentas?",
+    "options": [
+      "Las percibidas por los candidatos a jurado y por los jurados titulares y suplentes como consecuencia del cumplimiento de sus funciones.",
+      "Las percibidas por los candidatos a jurado y por los jurados titulares, con exclusión de los suplentes, como consecuencia del cumplimiento de sus funciones.",
+      "Las percibidas por los candidatos a jurado y por los jurados titulares y suplentes con independencia del cumplimiento de sus funciones.",
+      "Las percibidas por los candidatos a perito y por los peritos titulares y suplentes como consecuencia del cumplimiento de sus funciones."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué indemnizaciones de las Administraciones Públicas están exentas?",
+    "options": [
+      "Las satisfechas por daños a personas como consecuencia del funcionamiento de los servicios públicos, conforme a los procedimientos previstos legalmente.",
+      "Las satisfechas por daños a personas como consecuencia del funcionamiento de los servicios privados, conforme a los procedimientos previstos legalmente.",
+      "Las satisfechas por entidades aseguradoras privadas por daños a personas como consecuencia del funcionamiento de los servicios públicos.",
+      "Las satisfechas por daños exclusivamente físicos a personas como consecuencia del funcionamiento de los servicios públicos, conforme a los procedimientos previstos legalmente."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿con qué límite están exentas las prestaciones por entierro o sepelio?",
+    "options": [
+      "Con el límite del importe total de los gastos incurridos.",
+      "Sin ningún límite cuantitativo.",
+      "Con el límite del 50 por 100 de los gastos incurridos.",
+      "Con el límite del importe total de los gastos previstos reglamentariamente."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué rentas vinculadas a los planes individuales de ahorro sistemático están exentas?",
+    "options": [
+      "Las que se pongan de manifiesto al constituir rentas vitalicias aseguradas resultantes de los planes individuales de ahorro sistemático.",
+      "Las que se pongan de manifiesto al constituir rentas temporales aseguradas resultantes de los planes individuales de ahorro sistemático.",
+      "Las que se pongan de manifiesto al constituir rentas vitalicias aseguradas resultantes de los planes colectivos de ahorro sistemático.",
+      "Las que se pongan de manifiesto al rescatar rentas vitalicias aseguradas resultantes de los planes individuales de ahorro sistemático."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿con qué límite están exentos determinados dividendos y participaciones en beneficios?",
+    "options": [
+      "Los dividendos y participaciones en beneficios de las letras a) y b) del artículo 34, con el límite de 1.500 euros anuales.",
+      "Los dividendos y participaciones en beneficios de las letras a) y b) del artículo 34, con el límite de 1.000 euros anuales.",
+      "Los dividendos y participaciones en beneficios de las letras a) y b) del artículo 34, con el límite de 1.500 euros mensuales.",
+      "Los intereses y participaciones en beneficios de las letras a) y b) del artículo 34, con el límite de 1.500 euros anuales."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿con qué límite están exentos los rendimientos derivados de prestaciones en forma de renta por personas con discapacidad?",
+    "options": [
+      "Con el límite de tres veces el salario mínimo interprofesional.",
+      "Con el límite de dos veces el salario mínimo interprofesional.",
+      "Con el límite de tres veces el indicador público de renta de efectos múltiples.",
+      "Con el límite de tres veces el salario medio interprofesional del sector."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué prestaciones económicas públicas por dependencia están exentas?",
+    "options": [
+      "Las vinculadas al servicio, para cuidados en el entorno familiar y de asistencia personalizada, derivadas de la Ley de promoción de la autonomía personal.",
+      "Las vinculadas al servicio, para cuidados en el entorno hospitalario y de asistencia residencial, derivadas de la Ley de promoción de la autonomía personal.",
+      "Las desvinculadas del servicio, para cuidados en el entorno familiar y de asistencia personalizada, derivadas de la Ley de promoción de la autonomía personal.",
+      "Las prestaciones económicas privadas, para cuidados en el entorno familiar y de asistencia personalizada, derivadas de la Ley de promoción de la autonomía personal."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué ayudas relacionadas con el sector público están exentas?",
+    "options": [
+      "Las ayudas públicas, que se determinen reglamentariamente, prestadas por el sector público.",
+      "Las ayudas públicas, que se determinen reglamentariamente, prestadas por el sector privado.",
+      "Las ayudas públicas, con independencia de su determinación reglamentaria, prestadas por el sector público.",
+      "Las ayudas asistenciales, que se determinen reglamentariamente, prestadas por el sector público."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué indemnizaciones por privación de libertad están exentas?",
+    "options": [
+      "Las previstas para compensar la privación de libertad en establecimientos penitenciarios como consecuencia de los supuestos contemplados en la Ley de Amnistía.",
+      "Las previstas para compensar la privación de derechos civiles y políticos como consecuencia de los supuestos contemplados en la Ley de Amnistía.",
+      "Las pensiones previstas para compensar la privación de libertad en establecimientos penitenciarios como consecuencia de los supuestos contemplados en la Ley de Amnistía.",
+      "Las previstas para compensar la privación de libertad en establecimientos penitenciarios como consecuencia de los supuestos contemplados en la Ley de Memoria Democrática."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué indemnizaciones relacionadas con la defensa de las libertades están exentas?",
+    "options": [
+      "Las indemnizaciones por muerte y por lesiones incapacitantes acaecidas en defensa y reivindicación de las libertades y derechos democráticos.",
+      "Las indemnizaciones por muerte y por lesiones temporales acaecidas en defensa y reivindicación de las libertades y derechos democráticos.",
+      "Las indemnizaciones por muerte y por lesiones incapacitantes acaecidas en el ejercicio de funciones públicas y administrativas.",
+      "Las pensiones por muerte y por lesiones incapacitantes acaecidas en defensa y reivindicación de las libertades y derechos democráticos."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué ayudas relacionadas con la violencia de género están exentas?",
+    "options": [
+      "Las derivadas de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género, así como las de las Administraciones públicas territoriales con el mismo objeto.",
+      "Las derivadas de la Ley Orgánica de Medidas de Protección Integral contra la Violencia Doméstica, así como las de las Administraciones públicas territoriales con el mismo objeto.",
+      "Las derivadas de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género, así como las de las entidades privadas sin fines lucrativos con el mismo objeto.",
+      "Las derivadas de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género, así como las de las Administraciones públicas territoriales con objeto distinto."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué requisito exige la exención de los rendimientos por funciones de monitor o entrenador en el Deporte Escolar?",
+    "options": [
+      "Que se perciban por la ejecución del Programa de Deporte Escolar y no superen los rendimientos brutos de trabajo que no obligan a declarar el impuesto.",
+      "Que se perciban por la ejecución del Programa de Deporte Federado profesional y no superen los rendimientos brutos de trabajo que no obligan a declarar el impuesto.",
+      "Que se perciban por la ejecución del Programa de Deporte Escolar y superen los rendimientos brutos de trabajo que obligan a declarar el impuesto.",
+      "Que se perciban por funciones de patrocinio en el Programa de Deporte Escolar y no superen los rendimientos brutos de trabajo que no obligan a declarar el impuesto."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, respecto de los Planes de Ahorro a Largo Plazo, ¿qué condición exige la exención de sus rendimientos de capital mobiliario?",
+    "options": [
+      "Que el contribuyente no efectúe disposición alguna del capital resultante antes de finalizar el plazo de cinco años desde su apertura.",
+      "Que el contribuyente no efectúe disposición alguna del capital resultante antes de finalizar el plazo de tres años desde su apertura.",
+      "Que el contribuyente efectúe disposición del capital resultante antes de finalizar el plazo de cinco años desde su apertura.",
+      "Que el contribuyente no efectúe disposición alguna del capital resultante de los Planes de Ahorro a Corto Plazo antes de finalizar el plazo de cinco años."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué percepciones relacionadas con el ingreso mínimo vital están exentas?",
+    "options": [
+      "Las cantidades percibidas en concepto de ingreso mínimo vital regulado en la Ley por la que se establece el ingreso mínimo vital.",
+      "Las cantidades percibidas en concepto de ingreso mínimo de inserción regulado en la Ley por la que se establece el ingreso mínimo vital.",
+      "Las cantidades reintegradas en concepto de ingreso mínimo vital regulado en la Ley por la que se establece el ingreso mínimo vital.",
+      "Las cantidades percibidas en concepto de renta de garantía de ingresos regulada en la Ley por la que se establece el ingreso mínimo vital."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué compensaciones económicas por sufrimientos injustos están exentas?",
+    "options": [
+      "Las previstas por la vulneración de derechos humanos producida entre los años 1960 y 1978 en el contexto de la violencia de motivación política.",
+      "Las previstas por la vulneración de derechos humanos producida entre los años 1978 y 1999 en el contexto de la violencia de motivación política.",
+      "Las previstas por la vulneración de derechos humanos producida entre los años 1960 y 1978 en el contexto de conflictos laborales.",
+      "Las previstas por la vulneración de derechos humanos producida entre los años 1960 y 1978 en el contexto de la violencia de motivación económica."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué indemnizaciones reconocidas conforme a la Ley 12/2016 están exentas?",
+    "options": [
+      "Las reconocidas a las víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en el País Vasco entre 1978 y 1999.",
+      "Las reconocidas a las víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en el País Vasco entre 1960 y 1978.",
+      "Las reconocidas a las víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación religiosa en el País Vasco entre 1978 y 1999.",
+      "Las pensiones reconocidas a las víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en el País Vasco entre 1978 y 1999."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué ayudas relacionadas con la talidomida están exentas?",
+    "options": [
+      "Las ayudas a las personas afectadas por la talidomida en España durante el período 1950-1985, así como cualquier renta que se reciba como afectado por la talidomida.",
+      "Las ayudas a las personas afectadas por la talidomida en España durante el período 1960-1985, así como cualquier renta que se reciba como afectado por la talidomida.",
+      "Las ayudas a las personas afectadas por el amianto en España durante el período 1950-1985, así como cualquier renta que se reciba como afectado por el amianto.",
+      "Las ayudas a las personas afectadas por la talidomida en España durante el período 1950-1985, así como únicamente las pensiones que se reciban como afectado por la talidomida."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, respecto de las prestaciones por supervivencia obtenidas por mayores de 65 años, ¿qué condición y límite exige la exención?",
+    "options": [
+      "Que el importe se destine en el plazo de seis meses a constituir una renta vitalicia asegurada, con un máximo de 240.000 euros.",
+      "Que el importe se destine en el plazo de tres meses a constituir una renta vitalicia asegurada, con un máximo de 240.000 euros.",
+      "Que el importe se destine en el plazo de seis meses a constituir una renta vitalicia asegurada, con un máximo de 200.000 euros.",
+      "Que el importe lo obtengan contribuyentes mayores de 60 años y se destine en el plazo de seis meses a constituir una renta vitalicia asegurada."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, para la exención de las prestaciones del artículo 18.a) percibidas en forma de renta, ¿qué requisito debe cumplir la renta constituida?",
+    "options": [
+      "Que tenga carácter vitalicio o, si es temporal, una duración mínima de 15 años y una cuantía constante.",
+      "Que tenga carácter vitalicio o, si es temporal, una duración mínima de 10 años y una cuantía constante.",
+      "Que tenga carácter vitalicio o, si es temporal, una duración mínima de 15 años y una cuantía creciente.",
+      "Que tenga carácter temporal indefinido o, si es vitalicio, una duración mínima de 15 años y una cuantía constante."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 9, ¿qué compensaciones económicas para las víctimas del amianto están exentas?",
+    "options": [
+      "Las previstas en el Real Decreto que regula el procedimiento para reconocer el derecho a la compensación económica para las víctimas del amianto.",
+      "Las previstas en el Real Decreto que regula el procedimiento para reconocer el derecho a la compensación económica para las víctimas del tabaquismo.",
+      "Las prestaciones sanitarias previstas en el Real Decreto que regula el procedimiento para reconocer el derecho a la asistencia de las víctimas del amianto.",
+      "Las previstas en el Real Decreto que regula el procedimiento para denegar el derecho a la compensación económica para las víctimas del amianto."
+    ],
+    "answer": 0,
+    "article": "9"
+  },
+  {
+    "question": "Según el artículo 10 (Contribuyentes), ¿quiénes son contribuyentes del Impuesto?",
+    "options": [
+      "Las personas físicas a que se refieren las letras a) y b) del número 1 del artículo 2 de esta Norma Foral.",
+      "Las personas físicas a que se refieren las letras a) y b) del número 2 del artículo 2 de esta Norma Foral.",
+      "Las personas físicas y jurídicas a que se refieren las letras a) y b) del número 1 del artículo 2 de esta Norma Foral.",
+      "Las personas físicas a que se refieren las letras a) y b) del número 1 del artículo 3 de esta Norma Foral."
+    ],
+    "answer": 0,
+    "article": "10"
+  },
+  {
+    "question": "Según el artículo 10, respecto de quienes trasladan su residencia a un paraíso fiscal, ¿durante cuánto tiempo no pierden la condición de contribuyentes?",
+    "options": [
+      "En el período impositivo del cambio de residencia y durante los cuatro períodos impositivos siguientes.",
+      "En el período impositivo del cambio de residencia y durante los cinco períodos impositivos siguientes.",
+      "En el período impositivo del cambio de residencia y durante los tres períodos impositivos siguientes.",
+      "Únicamente en el período impositivo en que se efectúe el cambio de residencia."
+    ],
+    "answer": 0,
+    "article": "10"
+  },
+  {
+    "question": "Según el artículo 11 (Atribución de rentas), ¿a quiénes se atribuyen las rentas de las sociedades civiles, herencias yacentes y comunidades de bienes?",
+    "options": [
+      "A los socios, herederos, comuneros o partícipes, respectivamente.",
+      "A los administradores, herederos, comuneros o partícipes, respectivamente.",
+      "A los socios, legatarios, comuneros o partícipes, respectivamente.",
+      "A la propia entidad, con independencia de sus socios o partícipes."
+    ],
+    "answer": 0,
+    "article": "11"
+  },
+  {
+    "question": "Según el artículo 11, ¿qué régimen se aplica a las Sociedades Agrarias de Transformación?",
+    "options": [
+      "El régimen de atribución de rentas no les será aplicable y tributarán por el Impuesto sobre Sociedades.",
+      "El régimen de atribución de rentas les será aplicable y tributarán por el Impuesto sobre Sociedades.",
+      "El régimen de atribución de rentas no les será aplicable y tributarán por el Impuesto sobre la Renta de las Personas Físicas.",
+      "El régimen de atribución de rentas no les será aplicable, régimen que sí se aplicará a las sociedades civiles con objeto mercantil."
+    ],
+    "answer": 0,
+    "article": "11"
+  },
+  {
+    "question": "Según el artículo 11, ¿qué régimen tributario corresponde a las herencias pendientes del ejercicio de un poder testatorio?",
+    "options": [
+      "El régimen de atribución de rentas no les será aplicable y tributarán según el apartado 6 del artículo 12 de esta Norma Foral.",
+      "El régimen de atribución de rentas no les será aplicable y tributarán según el apartado 4 del artículo 12 de esta Norma Foral.",
+      "El régimen de atribución de rentas les será aplicable y tributarán según el apartado 6 del artículo 12 de esta Norma Foral.",
+      "El régimen de atribución de rentas, propio de las herencias yacentes sin poder testatorio, les será aplicable en todo caso."
+    ],
+    "answer": 0,
+    "article": "11"
+  },
+  {
+    "question": "Según el artículo 11, ¿qué sujeción al Impuesto sobre Sociedades tienen las entidades en régimen de atribución de rentas?",
+    "options": [
+      "No estarán sujetas al Impuesto sobre Sociedades, excepto cuando sea de aplicación el artículo 31 bis.11 de la Norma Foral del Impuesto sobre Sociedades.",
+      "Estarán sujetas al Impuesto sobre Sociedades, excepto cuando sea de aplicación el artículo 31 bis.11 de la Norma Foral del Impuesto sobre Sociedades.",
+      "No estarán sujetas al Impuesto sobre Sociedades, excepto cuando sea de aplicación el artículo 13 bis.11 de la Norma Foral del Impuesto sobre Sociedades.",
+      "No estarán sujetas al Impuesto sobre Sociedades en ningún caso ni con excepción alguna."
+    ],
+    "answer": 0,
+    "article": "11"
+  },
+  {
+    "question": "Según el artículo 12 (Individualización de rentas), ¿en función de qué se entiende obtenida la renta por los contribuyentes?",
+    "options": [
+      "En función del origen o fuente de la misma, cualquiera que sea el régimen económico del matrimonio o de la pareja de hecho.",
+      "En función del importe total obtenido, cualquiera que sea el régimen económico del matrimonio o de la pareja de hecho.",
+      "En función del origen o fuente de la misma, atendiendo al régimen económico del matrimonio o de la pareja de hecho.",
+      "En función del origen o fuente de la misma, cualquiera que sea el régimen de gananciales del matrimonio o de la pareja de hecho."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12, ¿a quién se atribuyen los rendimientos del trabajo?",
+    "options": [
+      "Exclusivamente a quien haya generado el derecho a su percepción.",
+      "Preferentemente a quien figure como titular de la actividad económica.",
+      "Por mitad a ambos cónyuges o miembros de la pareja de hecho.",
+      "Exclusivamente a quien perciba materialmente su importe."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12, ¿a quién se consideran obtenidos los rendimientos de las actividades económicas?",
+    "options": [
+      "A quienes realicen de forma habitual, personal y directa la ordenación por cuenta propia de los medios de producción o de los recursos humanos afectos.",
+      "A quienes realicen de forma esporádica, personal y directa la ordenación por cuenta propia de los medios de producción o de los recursos humanos afectos.",
+      "A quienes realicen de forma habitual, personal y directa la ordenación por cuenta ajena de los medios de producción o de los recursos humanos afectos.",
+      "A quienes realicen de forma habitual, personal y directa la ordenación por cuenta propia de los medios de producción o de los recursos financieros afectos."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12, respecto de los rendimientos del capital, ¿cómo se atribuyen los bienes y derechos comunes a ambos cónyuges o miembros de la pareja de hecho?",
+    "options": [
+      "Se atribuirán por mitad a cada uno de ellos, salvo que se justifique otra cuota de participación.",
+      "Se atribuirán por mitad a cada uno de ellos, en todo caso y sin excepción alguna.",
+      "Se atribuirán al cónyuge o miembro de la pareja de mayor edad, salvo que se justifique otra cuota de participación.",
+      "Se atribuirán a quien perciba materialmente los rendimientos, salvo que se justifique otra cuota de participación."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12, ¿cómo se atribuyen las ganancias patrimoniales no justificadas?",
+    "options": [
+      "En función de la titularidad de los bienes o derechos en que se manifiesten.",
+      "Por mitad entre ambos cónyuges o miembros de la pareja de hecho.",
+      "En función de quien perciba materialmente los bienes o derechos en que se manifiesten.",
+      "Con independencia de la titularidad de los bienes o derechos en que se manifiesten."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 12, las rentas de la herencia pendiente del ejercicio de un poder testatorio, ¿a quién se atribuyen con carácter general?",
+    "options": [
+      "Al usufructuario de los bienes de la herencia, en función del origen o fuente de las mismas.",
+      "Al nudo propietario de los bienes de la herencia, en función del origen o fuente de las mismas.",
+      "Al usufructuario de los bienes de la herencia, en función del importe total percibido.",
+      "Al albacea testamentario de los bienes de la herencia, en función del origen o fuente de las mismas."
+    ],
+    "answer": 0,
+    "article": "12"
+  },
+  {
+    "question": "Según el artículo 13 (Concepto de base imponible), ¿por qué está constituida la base imponible?",
+    "options": [
+      "Por el importe de la renta obtenida por el contribuyente en el período impositivo, determinada conforme a lo dispuesto en este Título.",
+      "Por el importe de la renta disponible del contribuyente en el período impositivo, determinada conforme a lo dispuesto en este Título.",
+      "Por el importe de la renta obtenida por el contribuyente en el período impositivo, determinada conforme a la Norma Foral General Tributaria.",
+      "Por el importe de la renta obtenida por la unidad familiar en el período impositivo, determinada conforme a lo dispuesto en este Título."
+    ],
+    "answer": 0,
+    "article": "13"
+  },
+  {
+    "question": "Según el artículo 14 (Determinación de la base imponible), ¿por qué regímenes se determina la base imponible?",
+    "options": [
+      "Por el régimen de estimación directa y, subsidiariamente, por el de estimación indirecta.",
+      "Por el régimen de estimación objetiva y, subsidiariamente, por el de estimación directa.",
+      "Por el régimen de estimación directa y, alternativamente, por el de estimación indirecta.",
+      "Por el régimen de estimación indirecta y, subsidiariamente, por el de estimación directa."
+    ],
+    "answer": 0,
+    "article": "14"
+  },
+  {
+    "question": "Según el artículo 14, ¿cuál es el orden que se sigue para cuantificar la base imponible?",
+    "options": [
+      "Calificar las rentas según su origen, cuantificar los rendimientos netos, ganancias, pérdidas e imputaciones, e integrar y compensar según su origen y clasificación.",
+      "Cuantificar los rendimientos netos, calificar las rentas según su origen, e integrar y compensar según su origen y clasificación.",
+      "Calificar las rentas según su origen, cuantificar los rendimientos netos, ganancias, pérdidas e imputaciones, e integrar y compensar con independencia de su origen y clasificación.",
+      "Calificar las rentas según su importe, cuantificar los rendimientos netos, ganancias, pérdidas e imputaciones, e integrar y compensar según su origen y clasificación."
+    ],
+    "answer": 0,
+    "article": "14"
+  },
+  {
+    "question": "Según el artículo 15 (Concepto de rendimientos del trabajo), ¿qué se considera rendimiento del trabajo?",
+    "options": [
+      "Las contraprestaciones o utilidades que deriven directa o indirectamente del trabajo personal o de la relación laboral o estatutaria y no tengan el carácter de rendimientos de actividades económicas.",
+      "Las contraprestaciones o utilidades que deriven directa o indirectamente del trabajo personal o de la relación laboral o estatutaria y tengan el carácter de rendimientos de actividades económicas.",
+      "Las contraprestaciones o utilidades que deriven exclusivamente de forma directa del trabajo personal y no tengan el carácter de rendimientos de actividades económicas.",
+      "Las contraprestaciones o utilidades que deriven directa o indirectamente de la relación mercantil o societaria y no tengan el carácter de rendimientos de actividades económicas."
+    ],
+    "answer": 0,
+    "article": "15"
+  },
+  {
+    "question": "Según el artículo 15, ¿qué constituye una retribución en especie?",
+    "options": [
+      "La utilización, consumo u obtención, para fines particulares, de bienes, derechos o servicios de forma gratuita o por precio inferior al normal de mercado, aun cuando no supongan un gasto real para quien las conceda.",
+      "La utilización, consumo u obtención, para fines particulares, de bienes, derechos o servicios de forma gratuita o por precio inferior al normal de mercado, siempre que supongan un gasto real para quien las conceda.",
+      "La utilización, consumo u obtención, para fines particulares, de bienes, derechos o servicios de forma gratuita o por precio superior al normal de mercado, aun cuando no supongan un gasto real para quien las conceda.",
+      "La utilización, consumo u obtención, para fines empresariales, de bienes, derechos o servicios de forma gratuita o por precio inferior al normal de mercado, aun cuando no supongan un gasto real para quien las conceda."
+    ],
+    "answer": 0,
+    "article": "15"
+  },
+  {
+    "question": "Según el artículo 15, cuando el pagador entrega al contribuyente importes en metálico para que adquiera bienes, derechos o servicios, ¿qué consideración tiene la renta?",
+    "options": [
+      "Tendrá la consideración de dineraria.",
+      "Tendrá la consideración de retribución en especie.",
+      "Tendrá la consideración de renta exenta.",
+      "Tendrá la consideración de rendimiento de actividad económica."
+    ],
+    "answer": 0,
+    "article": "15"
+  },
+  {
+    "question": "Según el artículo 16 (Rendimientos de trabajo de naturaleza dineraria), ¿cómo se tratan las dietas y asignaciones para gastos de viaje?",
+    "options": [
+      "Son rendimiento dinerario, excepto los de locomoción y los normales de manutención y estancia en establecimientos de hostelería con los límites que reglamentariamente se establezcan.",
+      "Son rendimiento dinerario, incluidos los de locomoción y los normales de manutención y estancia en establecimientos de hostelería con los límites que reglamentariamente se establezcan.",
+      "Son rendimiento dinerario, excepto los de locomoción y los normales de manutención y estancia en establecimientos de hostelería sin límite alguno.",
+      "Son rendimiento dinerario las asignaciones para gastos de representación, excepto los de locomoción y los normales de manutención en establecimientos de hostelería."
+    ],
+    "answer": 0,
+    "article": "16"
+  },
+  {
+    "question": "Según el artículo 16, ¿cómo se tratan las cantidades de compensación por los gastos del teletrabajo?",
+    "options": [
+      "Son rendimiento dinerario, excepto las que no excedan de los importes establecidos por Convenio Colectivo, hasta el límite del valor de mercado de dichos gastos.",
+      "Son rendimiento dinerario, incluidas las que no excedan de los importes establecidos por Convenio Colectivo, hasta el límite del valor de mercado de dichos gastos.",
+      "Son rendimiento dinerario, excepto las que no excedan de los importes establecidos por Convenio Colectivo, sin límite respecto del valor de mercado de dichos gastos.",
+      "Son rendimiento dinerario, excepto las que no excedan de los importes establecidos por contrato individual de trabajo, hasta el límite del valor de mercado de dichos gastos."
+    ],
+    "answer": 0,
+    "article": "16"
+  },
+  {
+    "question": "Según el artículo 17 (Rendimientos de trabajo en especie), ¿qué operación con préstamos constituye rendimiento del trabajo en especie?",
+    "options": [
+      "La concesión de préstamos con tipos de interés inferiores al legal del dinero.",
+      "La concesión de préstamos con tipos de interés superiores al legal del dinero.",
+      "La cancelación de préstamos con tipos de interés inferiores al legal del dinero.",
+      "La concesión de préstamos con tipos de interés inferiores al de mercado interbancario."
+    ],
+    "answer": 0,
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 17, ¿cuáles de los siguientes constituyen rendimientos del trabajo en especie?",
+    "options": [
+      "La utilización de vivienda por razón de cargo y la utilización o entrega de vehículos automóviles.",
+      "La utilización de vivienda por razón de cargo y la utilización o entrega de vehículos industriales.",
+      "La adquisición de vivienda por razón de cargo y la utilización o entrega de vehículos automóviles.",
+      "La utilización de vivienda por razón de antigüedad y la utilización o entrega de vehículos automóviles."
+    ],
+    "answer": 0,
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 17, ¿con qué límite no tienen la consideración de rendimiento en especie las cantidades para el transporte colectivo de las personas empleadas?",
+    "options": [
+      "Con el límite de 1.500 euros anuales para cada persona trabajadora.",
+      "Con el límite de 1.000 euros anuales para cada persona trabajadora.",
+      "Con el límite de 1.500 euros mensuales para cada persona trabajadora.",
+      "Con el límite de 1.500 euros anuales para el conjunto de personas trabajadoras."
+    ],
+    "answer": 0,
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 17, ¿qué entregas a empleados NO tienen la consideración de rendimiento del trabajo en especie?",
+    "options": [
+      "Las entregas de productos a precios rebajados que se realicen en cantinas, comedores de empresa o economatos de carácter social.",
+      "Las entregas de productos a precio de mercado que se realicen en cantinas, comedores de empresa o economatos de carácter social.",
+      "Las entregas de productos a precios rebajados que se realicen en cantinas, comedores de empresa o economatos de carácter comercial.",
+      "Las ventas de productos a precios rebajados que se realicen en cantinas, comedores de empresa o economatos de carácter social."
+    ],
+    "answer": 0,
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 17, ¿qué utilización de bicicletas NO tiene la consideración de rendimiento del trabajo en especie?",
+    "options": [
+      "La de bicicletas urbanas propiedad de la persona empleadora para desplazamientos entre la residencia habitual y el lugar de trabajo.",
+      "La de bicicletas urbanas propiedad de la persona trabajadora para desplazamientos entre la residencia habitual y el lugar de trabajo.",
+      "La de motocicletas urbanas propiedad de la persona empleadora para desplazamientos entre la residencia habitual y el lugar de trabajo.",
+      "La de bicicletas urbanas propiedad de la persona empleadora para cualquier desplazamiento de ocio o particular."
+    ],
+    "answer": 0,
+    "article": "17"
+  },
+  {
+    "question": "Según el artículo 18 (Otros rendimientos del trabajo), ¿qué pensiones y prestaciones públicas se consideran rendimientos del trabajo?",
+    "options": [
+      "Las pensiones y haberes pasivos de la Seguridad Social y Clases Pasivas y demás prestaciones públicas por incapacidad, jubilación, accidente, enfermedad, viudedad o similares.",
+      "Las pensiones y haberes pasivos de la Seguridad Social y Clases Pasivas y demás prestaciones públicas por incapacidad, jubilación, accidente, desempleo, viudedad o similares.",
+      "Las pensiones y haberes pasivos exclusivamente de las Clases Pasivas y demás prestaciones públicas por incapacidad, jubilación, accidente, enfermedad, viudedad o similares.",
+      "Las pensiones y haberes pasivos de la Seguridad Social y Clases Pasivas y demás prestaciones privadas por incapacidad, jubilación, accidente, enfermedad, viudedad o similares."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 18, respecto de las cantidades abonadas por razón de su cargo a Diputados, Senadores y Concejales, ¿qué parte se excluye?",
+    "options": [
+      "Se excluye, en todo caso, la parte que dichas Instituciones asignen para gastos de viaje y desplazamiento.",
+      "Se incluye, en todo caso, la parte que dichas Instituciones asignen para gastos de viaje y desplazamiento.",
+      "Se excluye, en todo caso, la parte que dichas Instituciones asignen para gastos de representación y protocolo.",
+      "Se excluye, en todo caso, la parte que dichas Instituciones abonen por razón de su antigüedad en el cargo."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 18, ¿qué retribuciones de administradores se consideran rendimientos del trabajo?",
+    "options": [
+      "Las de los administradores y miembros de los Consejos de Administración, de las Juntas que hagan sus veces y demás miembros de otros órganos representativos.",
+      "Las de los administradores y miembros de los Consejos de Administración, de las Juntas que hagan sus veces y demás miembros de otros órganos consultivos.",
+      "Las de los apoderados y miembros de los Consejos de Administración, de las Juntas que hagan sus veces y demás miembros de otros órganos representativos.",
+      "Las de los administradores y miembros de los Consejos de Administración, de las Comisiones ejecutivas que hagan sus veces y demás miembros de otros órganos representativos."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 18, ¿qué cantidades relacionadas con las confesiones religiosas se consideran rendimientos del trabajo?",
+    "options": [
+      "Las obtenidas por el desempeño de funciones de ministro o sacerdote de las confesiones religiosas legalmente reconocidas.",
+      "Las obtenidas por el desempeño de funciones de ministro o sacerdote de las confesiones religiosas de cualquier tipo.",
+      "Las obtenidas por la condición de fiel o creyente de las confesiones religiosas legalmente reconocidas.",
+      "Las obtenidas por la mera pertenencia a las confesiones religiosas legalmente reconocidas."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 18, ¿qué pensiones y anualidades relacionadas con el cónyuge o la pareja de hecho se consideran rendimientos del trabajo?",
+    "options": [
+      "Las pensiones compensatorias recibidas del cónyuge o de la pareja de hecho, y las anualidades por alimentos, sin perjuicio de lo dispuesto en el apartado 1 del artículo 9.",
+      "Las pensiones compensatorias recibidas del cónyuge o de la pareja de hecho, y las anualidades por alimentos, sin perjuicio de lo dispuesto en el artículo 15.",
+      "Las pensiones compensatorias recibidas de los ascendientes o descendientes, y las anualidades por alimentos, sin perjuicio de lo dispuesto en el apartado 1 del artículo 9.",
+      "Las pensiones de jubilación recibidas del cónyuge o de la pareja de hecho, y las anualidades por alimentos, sin perjuicio de lo dispuesto en el apartado 1 del artículo 9."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 18, respecto de las cantidades percibidas de las entidades de previsión social voluntaria, ¿qué prestaciones se consideran rendimientos del trabajo?",
+    "options": [
+      "Las percibidas por los socios de número y beneficiarios, incluidas las de baja voluntaria o forzosa o de disolución y liquidación de la entidad.",
+      "Las percibidas por los socios de número y beneficiarios de las entidades de previsión social obligatoria, incluidas las de baja voluntaria o forzosa.",
+      "Las percibidas por los socios de número y beneficiarios, incluidas las de baja voluntaria o forzosa o de fusión y absorción de la entidad.",
+      "Las percibidas por los socios protectores y promotores, incluidas las de baja voluntaria o forzosa o de disolución y liquidación de la entidad."
+    ],
+    "answer": 0,
+    "article": "18"
+  },
+  {
+    "question": "Según el artículo 19 (Rendimiento íntegro del trabajo), ¿por qué está constituido con carácter general el rendimiento íntegro del trabajo?",
+    "options": [
+      "Por la totalidad de los rendimientos definidos en los artículos anteriores de este Capítulo.",
+      "Por el 60 por 100 de los rendimientos definidos en los artículos anteriores de este Capítulo.",
+      "Por la totalidad de los rendimientos definidos en los artículos anteriores de esta Norma Foral.",
+      "Por la totalidad de los rendimientos netos definidos en los artículos anteriores de este Capítulo."
+    ],
+    "answer": 0,
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 19, ¿qué porcentajes de integración se aplican a los rendimientos con período de generación superior a dos años y no periódicos?",
+    "options": [
+      "El 60 por 100, y el 50 por 100 cuando el período de generación sea superior a cinco años o se califiquen como notoriamente irregulares.",
+      "El 70 por 100, y el 50 por 100 cuando el período de generación sea superior a cinco años o se califiquen como notoriamente irregulares.",
+      "El 60 por 100 cuando el período de generación sea superior a tres años, y el 50 por 100 cuando sea superior a cinco años o se califiquen como notoriamente irregulares.",
+      "El 60 por 100 cuando se obtengan de forma periódica o recurrente, y el 50 por 100 cuando el período de generación sea superior a cinco años."
+    ],
+    "answer": 0,
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 19, ¿cuál es el límite de la cuantía de rendimientos a la que se aplican porcentajes de integración inferiores al 100 por 100?",
+    "options": [
+      "No podrá superar el importe de 300.000 euros anuales; el exceso se integrará al 100 por 100.",
+      "No podrá superar el importe de 200.000 euros anuales; el exceso se integrará al 100 por 100.",
+      "No podrá superar el importe de 300.000 euros anuales; el exceso se integrará al 60 por 100.",
+      "No podrá superar el importe de 300.000 euros por cada rendimiento; el exceso se integrará al 100 por 100."
+    ],
+    "answer": 0,
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 19, respecto de las prestaciones del artículo 18.a) percibidas en forma de capital, ¿en qué supuesto se integran al 70 por 100?",
+    "options": [
+      "En el supuesto de primera prestación que se perciba por cada contingencia, siempre que hayan transcurrido más de dos años desde la primera aportación.",
+      "En el supuesto de primera prestación que se perciba por cada contingencia, siempre que hayan transcurrido más de cinco años desde la primera aportación.",
+      "En el supuesto de cualquier prestación que se perciba por cada contingencia, siempre que hayan transcurrido más de dos años desde la primera aportación.",
+      "En el supuesto de primera prestación que se perciba por cada contingencia, siempre que hayan transcurrido más de dos años desde la primera prestación."
+    ],
+    "answer": 0,
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 19, en las prestaciones por jubilación de los seguros colectivos con primas imputadas, ¿qué porcentajes de integración se aplican?",
+    "options": [
+      "El 60 por 100 cuando correspondan a primas satisfechas con más de dos años de antelación, y el 25 por 100 cuando correspondan a primas satisfechas con más de cinco años de antelación.",
+      "El 50 por 100 cuando correspondan a primas satisfechas con más de dos años de antelación, y el 25 por 100 cuando correspondan a primas satisfechas con más de cinco años de antelación.",
+      "El 60 por 100 cuando correspondan a primas satisfechas con más de tres años de antelación, y el 25 por 100 cuando correspondan a primas satisfechas con más de seis años de antelación.",
+      "El 60 por 100 cuando correspondan a primas satisfechas con menos de dos años de antelación, y el 25 por 100 cuando correspondan a primas satisfechas con más de cinco años de antelación."
+    ],
+    "answer": 0,
+    "article": "19"
+  },
+  {
+    "question": "Según el artículo 20 (Opciones sobre acciones), ¿cuándo se considera que el rendimiento tiene un período de generación superior a dos o a cinco años y no es periódico?",
+    "options": [
+      "Cuando el ejercicio del derecho de opción se efectúe transcurridos, respectivamente, más de dos o de cinco años desde su concesión, si además no se conceden anualmente.",
+      "Cuando el ejercicio del derecho de opción se efectúe transcurridos, respectivamente, más de dos o de cinco años desde su concesión, aunque se concedan anualmente.",
+      "Cuando el ejercicio del derecho de opción se efectúe transcurridos, respectivamente, más de tres o de seis años desde su concesión, si además no se conceden anualmente.",
+      "Cuando el ejercicio del derecho de opción se efectúe transcurridos, respectivamente, más de dos o de cinco años desde su ejercicio, si además no se conceden anualmente."
+    ],
+    "answer": 0,
+    "article": "20"
+  },
+  {
+    "question": "Según el artículo 20, ¿qué requisitos permiten duplicar el límite de la cuantía del rendimiento en las opciones sobre acciones?",
+    "options": [
+      "Que las acciones adquiridas se mantengan al menos durante 3 años desde el ejercicio de la opción y que la oferta se realice en las mismas condiciones a todos los trabajadores de la empresa, grupo o subgrupos.",
+      "Que las acciones adquiridas se mantengan al menos durante 5 años desde el ejercicio de la opción y que la oferta se realice en las mismas condiciones a todos los trabajadores de la empresa, grupo o subgrupos.",
+      "Que las acciones adquiridas se mantengan al menos durante 3 años desde el ejercicio de la opción y que la oferta se realice en distintas condiciones según la categoría de los trabajadores de la empresa.",
+      "Que las acciones adquiridas se transmitan antes de 3 años desde el ejercicio de la opción y que la oferta se realice en las mismas condiciones a todos los trabajadores de la empresa, grupo o subgrupos."
+    ],
+    "answer": 0,
+    "article": "20"
+  },
+  {
+    "question": "Según el artículo 20, ¿cómo se determina el límite de la cuantía del rendimiento sobre la que se aplican los porcentajes de integración?",
+    "options": [
+      "No podrá superar el importe que resulte de multiplicar la cantidad reglamentariamente determinada por el número de años de generación del rendimiento.",
+      "No podrá superar el importe que resulte de multiplicar la cantidad reglamentariamente determinada por el número de años de mantenimiento de las acciones.",
+      "No podrá superar el importe que resulte de dividir la cantidad reglamentariamente determinada por el número de años de generación del rendimiento.",
+      "No podrá superar el importe que resulte de multiplicar la cantidad legalmente establecida en la Norma Foral por el número de años de generación del rendimiento."
+    ],
+    "answer": 0,
+    "article": "20"
+  }
+]

@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
+import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -46,12 +46,48 @@ class TestInfo {
     );
   }
 
-  String get questionsPath => '$dir/questions.json';
   String get articulosDir => '$dir/articulos';
+}
 
-  String get answersPrefKey => 'answers_$id';
-  String get currentIndexPrefKey => 'current_index_$id';
-  String get totalPrefKey => 'total_$id';
+/// One selectable test within a norma, backed by a single
+/// `questions_NNN_MMM.json` file in the norma's directory.
+class QuizFile {
+  final TestInfo test;
+  final String path;
+  final int start;
+  final int end;
+
+  QuizFile({
+    required this.test,
+    required this.path,
+    required this.start,
+    required this.end,
+  });
+
+  /// Matches file names like `questions_001_020.json` and captures the range.
+  static final RegExp _pattern = RegExp(r'questions_(\d+)_(\d+)\.json$');
+
+  /// Builds a [QuizFile] from an asset path, or null if it is not a
+  /// range-based questions file.
+  static QuizFile? tryParse(TestInfo test, String path) {
+    final match = _pattern.firstMatch(path);
+    if (match == null) return null;
+    return QuizFile(
+      test: test,
+      path: path,
+      start: int.parse(match.group(1)!),
+      end: int.parse(match.group(2)!),
+    );
+  }
+
+  String get title => 'Preguntas $start – $end';
+
+  /// A stable id used to namespace this test's saved progress.
+  String get _key => '${test.id}_${start}_$end';
+
+  String get answersPrefKey => 'answers_$_key';
+  String get currentIndexPrefKey => 'current_index_$_key';
+  String get totalPrefKey => 'total_$_key';
 }
 
 class Question {
@@ -89,7 +125,6 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   List<TestInfo> _tests = [];
   bool _loading = true;
-  SharedPreferences? _prefs;
 
   @override
   void initState() {
@@ -101,32 +136,17 @@ class _HomeScreenState extends State<HomeScreen> {
     final raw = await rootBundle.loadString('assets/tests/index.json');
     final data = jsonDecode(raw) as List;
     final tests = data.map((t) => TestInfo.fromJson(t as Map<String, dynamic>)).toList();
-    final prefs = await SharedPreferences.getInstance();
     if (!mounted) return;
     setState(() {
       _tests = tests;
-      _prefs = prefs;
       _loading = false;
     });
   }
 
-  /// Returns "N / total respondidas" for a started test, or null if not started.
-  String? _progressLabel(TestInfo test) {
-    final prefs = _prefs;
-    if (prefs == null) return null;
-    final total = prefs.getInt(test.totalPrefKey);
-    if (total == null) return null;
-    final saved = prefs.getStringList(test.answersPrefKey) ?? [];
-    final answered = saved.where((s) => s != '-1').length;
-    return '$answered / $total respondidas';
-  }
-
-  Future<void> _openTest(TestInfo test) async {
-    await Navigator.of(context).push(
-      MaterialPageRoute<void>(builder: (_) => QuizScreen(test: test)),
+  void _openTest(TestInfo test) {
+    Navigator.of(context).push(
+      MaterialPageRoute<void>(builder: (_) => TestListScreen(test: test)),
     );
-    // Refresh progress labels after returning from the quiz.
-    if (mounted) setState(() {});
   }
 
   @override
@@ -145,7 +165,6 @@ class _HomeScreenState extends State<HomeScreen> {
               separatorBuilder: (_, _) => const SizedBox(height: 12),
               itemBuilder: (context, index) {
                 final test = _tests[index];
-                final progress = _progressLabel(test);
                 return Card(
                   child: ListTile(
                     contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
@@ -158,15 +177,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       children: [
                         const SizedBox(height: 4),
                         Text(test.descripcion),
-                        if (progress != null) ...[
-                          const SizedBox(height: 6),
-                          Text(
-                            progress,
-                            style: Theme.of(context).textTheme.labelMedium?.copyWith(
-                              color: Theme.of(context).colorScheme.primary,
-                            ),
-                          ),
-                        ],
                       ],
                     ),
                     trailing: const Icon(Icons.chevron_right),
@@ -179,10 +189,115 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-class QuizScreen extends StatefulWidget {
+/// Lists the individual tests (one per `questions_NNN_MMM.json` file) inside a
+/// norma, letting the user pick which one to take.
+class TestListScreen extends StatefulWidget {
   final TestInfo test;
 
-  const QuizScreen({super.key, required this.test});
+  const TestListScreen({super.key, required this.test});
+
+  @override
+  State<TestListScreen> createState() => _TestListScreenState();
+}
+
+class _TestListScreenState extends State<TestListScreen> {
+  List<QuizFile> _quizzes = [];
+  bool _loading = true;
+  SharedPreferences? _prefs;
+
+  TestInfo get _test => widget.test;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadQuizzes();
+  }
+
+  Future<void> _loadQuizzes() async {
+    final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
+    final quizzes = manifest
+        .listAssets()
+        .where((path) => path.startsWith('${_test.dir}/'))
+        .map((path) => QuizFile.tryParse(_test, path))
+        .whereType<QuizFile>()
+        .toList()
+      ..sort((a, b) => a.start.compareTo(b.start));
+    final prefs = await SharedPreferences.getInstance();
+    if (!mounted) return;
+    setState(() {
+      _quizzes = quizzes;
+      _prefs = prefs;
+      _loading = false;
+    });
+  }
+
+  /// Returns "N / total respondidas" for a started test, or null if not started.
+  String? _progressLabel(QuizFile quiz) {
+    final prefs = _prefs;
+    if (prefs == null) return null;
+    final total = prefs.getInt(quiz.totalPrefKey);
+    if (total == null) return null;
+    final saved = prefs.getStringList(quiz.answersPrefKey) ?? [];
+    final answered = saved.where((s) => s != '-1').length;
+    return '$answered / $total respondidas';
+  }
+
+  Future<void> _openQuiz(QuizFile quiz) async {
+    await Navigator.of(context).push(
+      MaterialPageRoute<void>(builder: (_) => QuizScreen(quiz: quiz)),
+    );
+    // Refresh progress labels after returning from the quiz.
+    if (mounted) setState(() {});
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text(_test.titulo)),
+      body: _loading
+          ? const Center(child: CircularProgressIndicator())
+          : _quizzes.isEmpty
+              ? const Center(child: Text('No hay teses disponibles.'))
+              : ListView.separated(
+                  padding: const EdgeInsets.all(16),
+                  itemCount: _quizzes.length,
+                  separatorBuilder: (_, _) => const SizedBox(height: 12),
+                  itemBuilder: (context, index) {
+                    final quiz = _quizzes[index];
+                    final progress = _progressLabel(quiz);
+                    return Card(
+                      child: ListTile(
+                        contentPadding:
+                            const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        title: Text(
+                          quiz.title,
+                          style: Theme.of(context).textTheme.titleMedium,
+                        ),
+                        subtitle: progress == null
+                            ? null
+                            : Padding(
+                                padding: const EdgeInsets.only(top: 6),
+                                child: Text(
+                                  progress,
+                                  style: Theme.of(context).textTheme.labelMedium?.copyWith(
+                                    color: Theme.of(context).colorScheme.primary,
+                                  ),
+                                ),
+                              ),
+                        trailing: const Icon(Icons.chevron_right),
+                        onTap: () => _openQuiz(quiz),
+                      ),
+                    );
+                  },
+                ),
+    );
+  }
+}
+
+class QuizScreen extends StatefulWidget {
+  final QuizFile quiz;
+
+  const QuizScreen({super.key, required this.quiz});
 
   @override
   State<QuizScreen> createState() => _QuizScreenState();
@@ -208,7 +323,8 @@ class _QuizScreenState extends State<QuizScreen> {
     _displayOrders[index] = List<int>.generate(count, (i) => i)..shuffle(_random);
   }
 
-  TestInfo get _test => widget.test;
+  QuizFile get _quiz => widget.quiz;
+  TestInfo get _test => widget.quiz.test;
 
   @override
   void initState() {
@@ -217,12 +333,12 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Future<void> _loadQuestions() async {
-    final raw = await rootBundle.loadString(_test.questionsPath);
+    final raw = await rootBundle.loadString(_quiz.path);
     final data = jsonDecode(raw) as List;
     final questions = data.map((q) => Question.fromJson(q as Map<String, dynamic>)).toList();
     final prefs = await SharedPreferences.getInstance();
 
-    final savedAnswers = prefs.getStringList(_test.answersPrefKey);
+    final savedAnswers = prefs.getStringList(_quiz.answersPrefKey);
     final answers = List<int?>.filled(questions.length, null);
     if (savedAnswers != null && savedAnswers.length == questions.length) {
       for (var i = 0; i < savedAnswers.length; i++) {
@@ -230,9 +346,9 @@ class _QuizScreenState extends State<QuizScreen> {
         answers[i] = (value == null || value < 0) ? null : value;
       }
     }
-    final savedIndex = prefs.getInt(_test.currentIndexPrefKey) ?? 0;
+    final savedIndex = prefs.getInt(_quiz.currentIndexPrefKey) ?? 0;
     // Record the question count so the home screen can show progress without loading questions.
-    await prefs.setInt(_test.totalPrefKey, questions.length);
+    await prefs.setInt(_quiz.totalPrefKey, questions.length);
 
     if (!mounted) return;
     setState(() {
@@ -268,8 +384,8 @@ class _QuizScreenState extends State<QuizScreen> {
   void _persist() {
     final prefs = _prefs;
     if (prefs == null) return;
-    prefs.setStringList(_test.answersPrefKey, _answers.map((a) => (a ?? -1).toString()).toList());
-    prefs.setInt(_test.currentIndexPrefKey, _currentIndex);
+    prefs.setStringList(_quiz.answersPrefKey, _answers.map((a) => (a ?? -1).toString()).toList());
+    prefs.setInt(_quiz.currentIndexPrefKey, _currentIndex);
   }
 
   void _selectOption(int optionIndex) {
@@ -334,9 +450,9 @@ class _QuizScreenState extends State<QuizScreen> {
       scheme: 'mailto',
       path: _reportEmail,
       query: [
-        'subject=${Uri.encodeComponent('Reporte ${_test.id} pregunta ${_currentIndex + 1}')}',
+        'subject=${Uri.encodeComponent('Reporte ${_test.id} (${_quiz.start}-${_quiz.end}) pregunta ${_currentIndex + 1}')}',
         'body=${Uri.encodeComponent(
-          '${_test.titulo}\n\nPregunta ${_currentIndex + 1}$articuloLine:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
+          '${_test.titulo} — ${_quiz.title}\n\nPregunta ${_currentIndex + 1}$articuloLine:\n${question.question}\n\nOpciones:\n$options\n\nComentario: (escribe aquí tu comentario)',
         )}',
       ].join('&'),
     );
